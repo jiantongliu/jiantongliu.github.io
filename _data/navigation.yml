@@ -4,5 +4,9 @@ main:
   - title: "Education"
     url: /education/
     
+  - title: "Academic Work"
+    url: /academic/
+  
   - title: "Volunteering Work"
     url: /volunteer/
+    
