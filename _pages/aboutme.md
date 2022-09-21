@@ -5,6 +5,7 @@ permalink: /education/
 author_profile: true
 redirect_from:
   - /education
+  - /education.html
 ---
 
 {% include base_path %}
