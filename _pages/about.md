@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there, my name is Jiantong Liu and I am a fourth year student at UCLA, studying pure math and cognitive science. 
+My name is Jiantong Liu and I am a fourth year student at UCLA, studying pure math and cognitive science. 
 
 General Research Interest
 ======
