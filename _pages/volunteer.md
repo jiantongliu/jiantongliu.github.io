@@ -15,7 +15,7 @@ redirect_from:
 
 (Under construction.)
 
-[Maki's Lab: Sept 2022](https://www.maki-math.com/) - Present
+[Maki's Lab](https://www.maki-math.com/): Sept 2022 - Present
 ------
 
 (Under construction.)
