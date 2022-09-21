@@ -51,7 +51,6 @@ Preprints and Publications
 In Preparation
 ------
 * _Bounds on Simple Hexagonal Lattice and Classification of $11$-stick Knots_, (joint work with Yueheng Bao, Ari Benveniste, Ansel Goh, and Ethan Sherman, supervised by Marion Campisi and Nicholas Cazet,) October 2022. 
-\end{itemize}
 
 Internal Report
 ------
