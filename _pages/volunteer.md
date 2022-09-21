@@ -11,6 +11,6 @@ redirect_from:
 {% include base_path %}
 
 Volunteering
-======
+------
 
 (Under construction.)
