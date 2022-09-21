@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi there!"
+title: "Colorless green ideas sleep furiously."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Jiantong Liu and I am a fourth year student at UCLA, studying pure math and cognitive science. 
+Hello there! My name is Jiantong Liu and I am a fourth year student at UCLA, studying pure math and cognitive science. 
 
 General Research Interest
 ======
