@@ -10,8 +10,6 @@ redirect_from:
 
 {% include base_path %}
 
-Academic Work
-======
 
 Grader (Fall 2020 - Summer 2022)
 ------
