@@ -23,20 +23,23 @@ Courses
   * MATH 32B (Multivariable Calculus, Part 2)
   * MATH 33B (Differential Equations)
   * PSYCH 10 (Introductory Psychology)
+  * PIC 10A (Introductory Programming)
 * Spring 2020
   * MATH 115AH (Honors Linear Algebra)
   * PSYCH 100A (Psychological Statistics)
-  * Philosophy 31 (Logic, First Course)
+  * PHILOSOPHY 31 (Logic, First Course)
 * Summer 2020
-  * PSYCH 20A (MATLAB Programming)
+  * PSYCH 20A (MATLAB Programming, Part 1)
 * Fall 2020
   * MATH 110AH (Honors Algebra, Part 1)
   * PSYCH 100B (Research Methods in Psychology)
   * PSYCH 85 (Introduction to Cognitive Science)
+  * PIC 16A (Programming in Python, Part 1)
 * Winter 2021
   * MATH 110BH (Honors Algebra, Part 2)
   * MATH 131AH (Honors Real Analysis, Part 1)
   * PHILOSOPHY 133 (Topics in Logic and Semantics, on Computational Theory of Mind)
+  * PIC 10B (Intermediate Programming)
 * Spring 2021
   * MATH 110C (Honors Algebra, Part 3)
   * MATH 131BH (Honors Real Analysis, Part 2)
@@ -62,5 +65,5 @@ Courses
 * Fall 2022 (Expected)
   * MATH 171 (Stochastic Processing)
   * MATH 215A (Commutative Algebra - Graduate Course)
-  * MATH 225A (Differential Geometry, Part 1)
+  * MATH 225A (Differential Geometry, Part 1 - Graduate Course)
   * PSYCH 196B (Assistantship in Cognitive Science, at Zili Lab)
