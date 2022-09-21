@@ -11,12 +11,12 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+------
 * B.S. in Mathematics (Honors), UCLA, 2023 (expected)
 * B.S. in Cognitive Science, with Specialization in Computing, UCLA, 2023 (expected)
 
 Relevant Coursework
-======
+------
 * Fall 2019
   * MATH 32A (Multivariable Calculus, Part 1)
   * MATH 33A (Linear Algebra and Its Applications)
