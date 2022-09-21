@@ -27,4 +27,6 @@ Research as an Undergraduate
 
 Teaching Experience
 ------
-(Under construction.)
+I am an assistant instructor at the [UCLA Olga Radko Endowed Math Circle](https://circles.math.ucla.edu/circles/). 
+* I taught the Intermediate 2B class online during the 2021-2022 academic year. The topics include Number Theory, Algebra, Graph Theory, and Algorithms.
+* I will be teaching the Intermediate 2A class in-person during the 2022-2023 academic year. 
