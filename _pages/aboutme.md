@@ -1,11 +1,11 @@
 ---
 layout: archive
 title: "Education and Coursework"
-permalink: /education/
+permalink: /aboutme/
 author_profile: true
 redirect_from:
-  - /education
-  - /education.html
+  - /aboutme
+  - /aboutme.html
 ---
 
 {% include base_path %}
