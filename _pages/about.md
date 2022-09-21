@@ -17,15 +17,15 @@ While I am doing a double major, my focus of study is in mathematics and I will 
 Academic-related Work
 ======
 
-Grader
+Grader (Fall 2020 - Summer 2022)
 ------
 I worked as a grader for two years, mostly graded MATH 115AH (Honors Linear Algebra). I also graded MATH 115 (Linear Algebra) and MATH 105 Series (Mathematics for Teaching) from time to time. 
 
-Research as an Undergraduate
+Research as an Undergraduate (Summer 2021, Summer 2022)
 ------
 (Under construction.)
 
-Teaching Experience
+Teaching Experience (Fall 2021 - Expected Spring 2023)
 ------
 I am an assistant instructor at the [UCLA Olga Radko Endowed Math Circle](https://circles.math.ucla.edu/circles/). 
 * I taught the Intermediate 2B class online during the 2021-2022 academic year. The topics include Number Theory, Algebra, Graph Theory, and Algorithms.
