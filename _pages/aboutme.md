@@ -11,8 +11,56 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mathematics, UCLA, 2023 (expected)
+* B.S. in Mathematics (Honors), UCLA, 2023 (expected)
+* B.S. in Cognitive Science, with Specialization in Computing, UCLA, 2023 (expected)
 
 Courses
 ======
-
+* Fall 2019
+  * MATH 32A (Multivariable Calculus, Part 1)
+  * MATH 33A (Linear Algebra and Its Applications)
+* Winter 2020
+  * MATH 32B (Multivariable Calculus, Part 2)
+  * MATH 33B (Differential Equations)
+  * PSYCH 10 (Introductory Psychology)
+* Spring 2020
+  * MATH 115AH (Honors Linear Algebra)
+  * PSYCH 100A (Psychological Statistics)
+  * Philosophy 31 (Logic, First Course)
+* Summer 2020
+  * PSYCH 20A (MATLAB Programming)
+* Fall 2020
+  * MATH 110AH (Honors Algebra, Part 1)
+  * PSYCH 100B (Research Methods in Psychology)
+  * PSYCH 85 (Introduction to Cognitive Science)
+* Winter 2021
+  * MATH 110BH (Honors Algebra, Part 2)
+  * MATH 131AH (Honors Real Analysis, Part 1)
+  * PHILOSOPHY 133 (Topics in Logic and Semantics, on Computational Theory of Mind)
+* Spring 2021
+  * MATH 110C (Honors Algebra, Part 3)
+  * MATH 131BH (Honors Real Analysis, Part 2)
+  * MATH 135 (Ordinary Differential Equations)
+  * MATH 191 (Research Seminar, on Category Theory)
+* Summer 2021
+  * PSYCH 120A (Cognitive Psychology)
+  * PHILOSOPHY 7 (Introduction to Philosophy of Mind)
+* Fall 2021
+  * MATH 210A (Algebra, Part 1 - Graduate Course)
+  * PSYCH 124A (Psycholinguistics)
+* Winter 2022
+  * MATH 170E (Introduction to Probability and Statistics, Part 1)
+  * MATH 182 (Algorithm)
+  * MATH 212A (Homological Algebra, Part 1 - Graduate Course)
+  * PSYCH 186B (Cognitive Science Laboratory, on Neural Networks)
+* Spring 2022
+  * MATH 132H (Honors Complex Analysis)
+  * MATH 136 (Partial Differential Equations)
+  * MATH 164 (Optimization)
+* Summer 2022
+  * PSYCH 115 (Behavioral Neuroscience)
+* Fall 2022 (Expected)
+  * MATH 171 (Stochastic Processing)
+  * MATH 215A (Commutative Algebra - Graduate Course)
+  * MATH 225A (Differential Geometry, Part 1)
+  * PSYCH 196B (Assistantship in Cognitive Science, at Zili Lab)
