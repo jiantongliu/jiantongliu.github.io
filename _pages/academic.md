@@ -29,6 +29,13 @@ I am an assistant instructor at the [UCLA Olga Radko Endowed Math Circle](https:
 * I will be teaching the Intermediate 2A class in-person during the 2022-2023 academic year. 
 
 
+Directed Reading Program Mentee (Winter 2022 - Present)
+------
+I participated in the program to study advanced topics in mathematics under the supervision of [Ben Spitz](https://www.math.ucla.edu/~benspitz/), a PhD student at UCLA. I also participated in the program colloquium and talked about what I learned from the topic.
+Winter Topic: Enriched Category Theory
+Spring Topic: Algebraic Number Theory
+
+
 Psychology Research Experience (Fall 2022 - Expected Winter 2023)
 ------
 (Under construction.)
