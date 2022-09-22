@@ -15,7 +15,7 @@ This page contains classes I took and/or audited at UCLA, along with texts I fou
 
 ### List of Courses
 | Course Number   | Course Name      |  Textbook  |    Other Useful Resources |
-
+| | | | | 
 | :-------------: |:-------------:| :-----:| :-------: |
 | MATH 32A    | Multivariable Calculus | Rogawski, *Calculus: Early Transcendentals* |   |
 | MATH 32B    | Multivariable Calculus  | Rogawski, *Calculus: Early Transcendentals* |  |
