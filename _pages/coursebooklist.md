@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /coursebooklist
 title: "Coursebook List"
 excerpt: "List of Textbooks"
 author_profile: true
