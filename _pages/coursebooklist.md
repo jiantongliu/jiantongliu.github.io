@@ -1,7 +1,7 @@
 ---
-permalink: /coursebooklist/
+layout: archive
 title: "Coursebook List"
-excerpt: "List of Textbooks"
+permalink: /coursebooklist/
 author_profile: true
 redirect_from: 
   - /coursebooklist
