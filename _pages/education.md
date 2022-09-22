@@ -17,7 +17,7 @@ Education
 
 Relevant Coursework
 ------
-Here is a list of courses I took to fulfill the major requirements for pure math and cognitive science. A list of texts I found helpful when studying math can be found [here](/coursebooklist). 
+Here is a list of courses I took to fulfill the major requirements for pure math and cognitive science. A list of texts I found helpful when studying math can be found [here](/_pages/coursebooklist). 
 
 * Fall 2019
   * MATH 32A (Multivariable Calculus, Part 1)
