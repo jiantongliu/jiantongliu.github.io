@@ -4,7 +4,7 @@ title: "Coursebook List"
 excerpt: "List of Textbooks"
 author_profile: true
 redirect_from: 
-  - /coursebooklist/
+  - /coursebooklist
   - /coursebooklist.html
 ---
 
