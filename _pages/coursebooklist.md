@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Coursebook List"
-permalink: /coursebooklist/
+permalink: /
 author_profile: true
 redirect_from: 
   - /coursebooklist
