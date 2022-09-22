@@ -8,7 +8,7 @@ redirect_from:
   - /coursebooklist.html
 ---
 
-This page contains classes I took and/or audited at UCLA, along with texts I found useful while studying the relevant topics. 
+This page contains classes I took and/or audited at UCLA, along with texts I found useful while studying the relevant topics. Note that the webpage is not up to date. 
 
 *: Courses I audited. 
 
