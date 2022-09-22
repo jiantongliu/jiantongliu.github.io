@@ -1,11 +1,10 @@
 ---
 layout: archive
 title: "Coursebook List"
-permalink: /
+permalink: /coursebooklist
 author_profile: true
 redirect_from: 
-  - /coursebooklist
-  - /coursebooklist.html
+  - 
 ---
 
 This page contains classes I took and/or audited at UCLA, along with texts I found useful while studying the relevant topics. Note that the webpage is not up to date. 
