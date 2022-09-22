@@ -1,4 +1,15 @@
-# Coursebook List
+---
+permalink: /
+title: "Coursebook List"
+excerpt: "List of Textbooks"
+author_profile: true
+redirect_from: 
+  - /coursebooklist/
+  - /coursebooklist.html
+---
+
+Coursebook List
+======
 This page contains classes I took and/or audited at UCLA, along with texts I found useful while studying the relevant topics. 
 
 *: Courses I audited. 
