@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Organization of Transformative Works (OTW)](https://www.transformativeworks.org/): Oct 2018 - Present
+[Organization for Transformative Works (OTW)](https://www.transformativeworks.org/): Oct 2018 - Present
 ------
 
 (Under construction.)
