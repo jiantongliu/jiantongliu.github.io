@@ -1,5 +1,5 @@
 ---
-permalink: 
+permalink: /
 title: "Colorless green ideas sleep furiously."
 excerpt: "About me"
 author_profile: true
