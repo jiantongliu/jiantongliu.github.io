@@ -33,10 +33,11 @@ Directed Reading Program Mentee (Winter 2022 - Present)
 ------
 I participated in the program to study advanced topics in mathematics under the supervision of [Ben Spitz](https://www.math.ucla.edu/~benspitz/), a PhD student at UCLA. I also participated in the program colloquium and talked about what I learned from the topic.
 
-Winter Topic: Enriched Category Theory
+Winter 2022 Topic: Enriched Category Theory
 
-Spring Topic: Algebraic Number Theory
+Spring 2022 Topic: Algebraic Number Theory
 
+Fall 2022 Topic: Algebraic Topology
 
 Psychology Research Experience (Fall 2022 - Expected Winter 2023)
 ------
