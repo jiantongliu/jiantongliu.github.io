@@ -12,7 +12,7 @@ redirect_from:
 
 MATH 191 (Category Theory)
 ------
-* This is an undergrauate Honors seminar couse I took in Spring 2021, taught by Dr. Jonathan Rubin. The course covers the entire [_Category Theory in Context_](https://math.jhu.edu/~eriehl/context.pdf) book by Emily Riehl.
+* This is an undergrauate Honors seminar couse I took in Spring 2021, taught by Dr. Jonathan Rubin. The course covered the entire [_Category Theory in Context_](https://math.jhu.edu/~eriehl/context.pdf) book by Emily Riehl.
 
 
 MATH 205A (Algebraic Number Theory)
