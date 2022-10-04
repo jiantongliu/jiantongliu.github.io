@@ -10,6 +10,10 @@ redirect_from:
 
 {% include base_path %}
 
+MATH 131ABH (Honors Analysis)
+------
+* This is the undergraduate Honors analysis series I took in Winter and Spring 2021, taught by Professor Monica Visan. The core textbook for this series is Baby Rudin. 
+
 MATH 191 (Category Theory)
 ------
 * This is an undergrauate Honors seminar couse I took in Spring 2021, taught by Dr. Jonathan Rubin. The course covered the entire [_Category Theory in Context_](https://math.jhu.edu/~eriehl/context.pdf) book by Emily Riehl.
