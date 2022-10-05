@@ -19,7 +19,7 @@ MATH 115AH/B (Honors Linear Algebra)
 MATH 131AH/BH (Honors Analysis)
 ------
 * This is the undergraduate Honors analysis series I took in Winter and Spring 2021, taught by [Professor Monica Visan](https://www.math.ucla.edu/~visan/). The core textbook for this series is Baby Rudin. 
-* <a href = "../files/131H_Notes.pdf">Course Notes</a>, last updated to Lecture 8 of 131AH. </li>
+* <a href = "../files/131H_Notes.pdf">Course Notes</a>, last updated to Lecture 8 of 131AH.
 
 
 MATH 134/135/136 (Chaos and Differential Equations)
@@ -33,7 +33,7 @@ MATH 191 (Category Theory)
 MATH 205A (Algebraic Number Theory)
 ------
 * This is the first course in the graduate number theory course series. I am taking this course in Fall quarter of 2022 with [Professor Romyar Sharifi](https://www.math.ucla.edu/~sharifi/). Notes will be updated once in a while. The recommended text for this course is [Professor's lecture notes](https://www.math.ucla.edu/~sharifi/algnum.pdf). 
-* <a href = "../files/205A_Notes.pdf">Course Notes</a>, last updated on October 3. </li>
+* <a href = "../files/205A_Notes.pdf">Course Notes</a>, last updated on October 3.
 
 MATH 210A/B/C (Graduate Algebra)
 ------
