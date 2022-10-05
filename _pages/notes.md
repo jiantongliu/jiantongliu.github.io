@@ -19,6 +19,7 @@ MATH 115AH/B (Honors Linear Algebra)
 MATH 131AH/BH (Honors Analysis)
 ------
 * This is the undergraduate Honors analysis series I took in Winter and Spring 2021, taught by [Professor Monica Visan](https://www.math.ucla.edu/~visan/). The core textbook for this series is Baby Rudin. 
+* [Course Notes](https://github.com/jiantongliu/jiantongliu.github.io/blob/master/files/131H_Notes.pdf) (updated to Lecture 8)
 
 MATH 134/135/136 (Chaos and Differential Equations)
 ------
