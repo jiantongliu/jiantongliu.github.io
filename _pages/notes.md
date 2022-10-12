@@ -33,7 +33,7 @@ MATH 191 (Category Theory)
 MATH 205A (Algebraic Number Theory)
 ------
 * This is the first course in the graduate number theory course series. I am taking this course in Fall quarter of 2022 with [Professor Romyar Sharifi](https://www.math.ucla.edu/~sharifi/). Notes will be updated once in a while. The recommended text for this course is [Professor's lecture notes](https://www.math.ucla.edu/~sharifi/algnum.pdf). 
-* <a href = "../files/205A_Notes.pdf">Course Notes</a>, last updated on October 3.
+* <a href = "../files/205A_Notes.pdf">Course Notes</a>, last updated on October 12.
 
 MATH 210A/B/C (Graduate Algebra)
 ------
