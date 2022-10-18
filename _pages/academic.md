@@ -45,7 +45,7 @@ Psychology Research Experience (Fall 2022 - Expected Winter 2023)
 
 Talks
 ======
-* AMS Special Session at Joint Mathematics Meeting. _Bounds on Simple Hexagonal Lattice and Classification of $11$-stick Knots._ Jan 2023, Boston, Massachusetts.
+* AMS Special Session at Joint Mathematics Meetings. _Bounds on Simple Hexagonal Lattice and Classification of $11$-stick Knots._ Jan 2023, Boston, Massachusetts.
 
 * Polymath Jr Program Colloquium. _Bounds on Simple Hexagonal Lattice._ Aug 2022, Los Angeles, California.
 
