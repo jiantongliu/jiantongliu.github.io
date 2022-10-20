@@ -33,11 +33,11 @@ Directed Reading Program Mentee (Winter 2022 - Present)
 ------
 I participated in the program to study advanced topics in mathematics under the supervision of [Ben Spitz](https://www.math.ucla.edu/~benspitz/), a PhD student at UCLA. I also participated in the program colloquium and talked about what I learned from the topic.
 
-Winter 2022 Topic: Enriched Category Theory, reading [_Basic Concepts of Enriched Category Theory_](http://www.tac.mta.ca/tac/reprints/articles/10/tr10.pdf) by [Max Kelly](https://en.wikipedia.org/wiki/Max_Kelly). 
+* Winter 2022 Topic: Enriched Category Theory, reading [_Basic Concepts of Enriched Category Theory_](http://www.tac.mta.ca/tac/reprints/articles/10/tr10.pdf) by [Max Kelly](https://en.wikipedia.org/wiki/Max_Kelly). 
 
-Spring 2022 Topic: Algebraic Number Theory, reading [_Algebraic Number Theory_](http://www.math.toronto.edu/~ila/Neukirch_Algebraic_number_theory.pdf) by [Jürgen Neukirch](https://en.wikipedia.org/wiki/J%C3%BCrgen_Neukirch). 
+* Spring 2022 Topic: Algebraic Number Theory, reading [_Algebraic Number Theory_](http://www.math.toronto.edu/~ila/Neukirch_Algebraic_number_theory.pdf) by [Jürgen Neukirch](https://en.wikipedia.org/wiki/J%C3%BCrgen_Neukirch). 
 
-Fall 2022 Topic: Algebraic Topology, reading [_Algebraic Topology_](https://pi.math.cornell.edu/~hatcher/AT/ATpage.html) by [Allen Hatcher](https://en.wikipedia.org/wiki/Allen_Hatcher). 
+* Fall 2022 Topic: Algebraic Topology, reading [_Algebraic Topology_](https://pi.math.cornell.edu/~hatcher/AT/ATpage.html) by [Allen Hatcher](https://en.wikipedia.org/wiki/Allen_Hatcher). 
 
 Psychology Research Experience (Fall 2022 - Expected Winter 2023)
 ------
