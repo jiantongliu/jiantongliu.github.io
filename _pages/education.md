@@ -66,8 +66,7 @@ Here is a list of courses I took to fulfill the major requirements for pure math
 * Summer 2022
   * PSYCH 115 (Behavioral Neuroscience)
 * Fall 2022 (Expected)
-  * MATH 171 (Stochastic Processing)
-  * [MATH 205A](https://jiantongliu.github.io/notes/) (Algebraic Number Theory - Graduate Course)
+  * MATH 205A (Algebraic Number Theory - Graduate Course)
   * MATH 215A (Commutative Algebra - Graduate Course)
   * MATH 225A (Differential Geometry, Part 1 - Graduate Course)
   * PSYCH 196B (Assistantship in Cognitive Science, at Zili Lab)
