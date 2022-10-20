@@ -10,6 +10,8 @@ redirect_from:
 
 {% include base_path %}
 
+Here is a list of academic experiences, talks, and writings I have. 
+
 Academic Experience
 ======
 
