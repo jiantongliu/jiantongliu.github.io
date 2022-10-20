@@ -19,6 +19,8 @@ Relevant Coursework
 ------
 Here is a list of courses I took to fulfill the major requirements for pure math and cognitive science. A list of texts I found helpful when studying math can be found [here](https://jiantongliu.github.io/coursebooklist.html). Note that the webpage is not up to date. 
 
+\*: Graduate-level Courses
+
 * Fall 2019
   * MATH 32A (Multivariable Calculus, Part 1)
   * MATH 33A (Linear Algebra and Its Applications)
@@ -52,12 +54,12 @@ Here is a list of courses I took to fulfill the major requirements for pure math
   * PSYCH 120A (Cognitive Psychology)
   * PHILOSOPHY 7 (Introduction to Philosophy of Mind)
 * Fall 2021
-  * MATH 210A (Algebra, Part 1 - Graduate Course)
+  * MATH 210A\* (Algebra)
   * PSYCH 124A (Psycholinguistics)
 * Winter 2022
   * MATH 170E (Introduction to Probability and Statistics, Part 1)
   * MATH 182 (Algorithm)
-  * MATH 212A (Homological Algebra, Part 1 - Graduate Course)
+  * MATH 212A\* (Homological Algebra, Part 1)
   * PSYCH 186B (Cognitive Science Laboratory, on Neural Networks)
 * Spring 2022
   * MATH 132H (Honors Complex Analysis)
@@ -66,7 +68,7 @@ Here is a list of courses I took to fulfill the major requirements for pure math
 * Summer 2022
   * PSYCH 115 (Behavioral Neuroscience)
 * Fall 2022
-  * MATH 205A (Algebraic Number Theory - Graduate Course)
-  * MATH 215A (Commutative Algebra - Graduate Course)
-  * MATH 225A (Differential Geometry, Part 1 - Graduate Course)
+  * MATH 205A\* (Algebraic Number Theory)
+  * MATH 215A\* (Commutative Algebra)
+  * MATH 225A\* (Differential Topology)
   * PSYCH 196B (Assistantship in Cognitive Science, at Zili Lab)
