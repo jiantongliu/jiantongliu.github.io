@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Academic Work"
+title: "Academic Experience and Work"
 permalink: /academic/
 author_profile: true
 redirect_from:
@@ -10,6 +10,8 @@ redirect_from:
 
 {% include base_path %}
 
+Academic Experience
+======
 
 Grader (Fall 2020 - Summer 2022)
 ------
@@ -39,7 +41,7 @@ I participated in the program to study advanced topics in mathematics under the 
 
 * Fall 2022 Topic: Algebraic Topology, reading [_Algebraic Topology_](https://pi.math.cornell.edu/~hatcher/AT/ATpage.html) by [Allen Hatcher](https://en.wikipedia.org/wiki/Allen_Hatcher). 
 
-Psychology Research Experience (Fall 2022 - Expected Winter 2023)
+Psychology Research Assistance Experience (Fall 2022 - Expected Winter 2023)
 ------
 I am currently a undergraduate research assistant at Zili Lab, UCLA. 
 
