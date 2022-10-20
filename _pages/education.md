@@ -65,7 +65,7 @@ Here is a list of courses I took to fulfill the major requirements for pure math
   * MATH 164 (Optimization)
 * Summer 2022
   * PSYCH 115 (Behavioral Neuroscience)
-* Fall 2022 (Expected)
+* Fall 2022
   * MATH 205A (Algebraic Number Theory - Graduate Course)
   * MATH 215A (Commutative Algebra - Graduate Course)
   * MATH 225A (Differential Geometry, Part 1 - Graduate Course)
