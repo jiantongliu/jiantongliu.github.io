@@ -49,7 +49,7 @@ I am currently a undergraduate research assistant of [Zili Lab at UCLA](https://
 
 Talks
 ======
-* AMS Special Session at Joint Mathematics Meetings. _Bounds on Simple Hexagonal Lattice and Classification of $11$-stick Knots._ Jan 2023, Boston, Massachusetts.
+* AMS Special Session at Joint Mathematics Meetings. _Bounds on Simple Hexagonal Lattice and Classification of $11$-stick Knots._ Jan 2023, Boston, Massachusetts. [Abstract](https://meetings.ams.org/math/jmm2023/meetingapp.cgi/Paper/17903)
 
 * Polymath Jr Program Colloquium. _Bounds on Simple Hexagonal Lattice._ Aug 2022, Los Angeles, California.
 
@@ -62,7 +62,7 @@ Preprints and Publications
 
 In Preparation
 ------
-* _Bounds on Simple Hexagonal Lattice and Classification of $11$-stick Knots_, (joint work with Yueheng Bao, Ari Benveniste, Ansel Goh, and Ethan Sherman, supervised by Marion Campisi and Nicholas Cazet,) October 2022. 
+* _Bounds on Simple Hexagonal Lattice and Classification of $11$-stick Knots_ (joint work with Yueheng Bao, Ari Benveniste, Ansel Goh, and Ethan Sherman, supervised by Marion Campisi and Nicholas Cazet), October 2022. 
 
 Internal Report
 ------
