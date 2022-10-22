@@ -38,6 +38,6 @@ I participated in the program to study advanced topics in mathematics under the 
 
 * Fall 2022 Topic: Algebraic Topology, reading [_Algebraic Topology_](https://pi.math.cornell.edu/~hatcher/AT/ATpage.html) by [Allen Hatcher](https://en.wikipedia.org/wiki/Allen_Hatcher). 
 
-Psychology Research Assistance Experience (Fall 2022 - Expected Winter 2023)
+Psychology Lab Research Assistant (Fall 2022 - Expected Winter 2023)
 ------
 I am currently an undergraduate research assistant of [Zili Lab at UCLA](https://zililab.psych.ucla.edu/). 
