@@ -6,12 +6,12 @@ main:
     
   - title: "Academics"
     url: /academic/
-  
-  - title: "Volunteering Work"
-    url: /volunteer/
+
+  - title: "Talks and Works"
+    url: /works/
     
   - title: "Notes and Writings"
     url: /notes/
 
-  - title: "Talks and Works"
-    url: /works/
+  - title: "Volunteering Work"
+    url: /volunteer/
