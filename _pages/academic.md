@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-Here is a list of academic experiences, talks, and writings of mine. 
+Here is a list of my academic experiences, talks, and writings. 
 
 Academic Experience
 ======
@@ -35,7 +35,7 @@ I am an assistant instructor at the [UCLA Olga Radko Endowed Math Circle](https:
 
 Directed Reading Program Mentee (Winter 2022 - Present)
 ------
-I participated in the program to study advanced topics in mathematics under the supervision of [Ben Spitz](https://www.math.ucla.edu/~benspitz/), a PhD student at UCLA. I also participated in the program colloquium and talked about what I learned from the topic.
+I participated in the program to study advanced topics in mathematics under the supervision of [Ben Spitz](https://www.math.ucla.edu/~benspitz/), a PhD student at UCLA. I also participated in the program colloquiums and talked about what I learned from the topics.
 
 * Winter 2022 Topic: Enriched Category Theory, reading [_Basic Concepts of Enriched Category Theory_](http://www.tac.mta.ca/tac/reprints/articles/10/tr10.pdf) by [Max Kelly](https://en.wikipedia.org/wiki/Max_Kelly). 
 
@@ -45,7 +45,7 @@ I participated in the program to study advanced topics in mathematics under the 
 
 Psychology Research Assistance Experience (Fall 2022 - Expected Winter 2023)
 ------
-I am currently a undergraduate research assistant of [Zili Lab at UCLA](https://zililab.psych.ucla.edu/). 
+I am currently an undergraduate research assistant of [Zili Lab at UCLA](https://zililab.psych.ucla.edu/). 
 
 Talks
 ======
