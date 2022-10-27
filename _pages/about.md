@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello there! My name is Jiantong Liu and I am a fourth-year student at UCLA, studying pure math and cognitive science. A full version of my CV can also be found <a href = "../files/Jiantong_Liu_Resume.pdf"> here</a>. 
+Hello there! My name is Jiantong Liu and I am a fourth-year student at UCLA, studying pure math and cognitive science. A full version of my CV can also be found <a href = "../files/Jiantong_Liu_CV.pdf"> here</a>. 
 
 General Research Interest
 ======
