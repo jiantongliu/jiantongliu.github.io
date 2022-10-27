@@ -8,6 +8,11 @@ redirect_from:
   - /notes.html
 ---
 
+Here is a list of my notes and writings related to my coursework. 
+
+Lecture Notes
+======
+
 {% include base_path %}
 
 MATH 110AH/BH/C (Honors Algebra)
@@ -41,3 +46,11 @@ MATH 210A/B/C (Graduate Algebra)
 MATH 212A/B (Homological Algebra)
 ------
 * This is the homological algebra series I took in Winter 2022 and Winter 2023, taught by [Professor Paul Balmer](https://www.math.ucla.edu/~balmer/).
+
+
+Writings
+======
+
+Calculation of Class Numbers
+------
+* In this <a href = "../files/Calculation_of_Class_Numbers.pdf">document</a>, We discuss the relevant concepts and techniques that are frequently used when calculating the class number of a number field. We also use these facts to calculate a few class numbers. 
