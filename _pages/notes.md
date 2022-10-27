@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 Here is a list of my notes and writings related to my coursework. 
+***
 
 Lecture Notes
 ======
