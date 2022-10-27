@@ -51,6 +51,6 @@ MATH 212A/B (Homological Algebra)
 Writings
 ======
 
-<a href = "../files/Calculation_of_Class_Numbers.pdf">On Calculation of Class Numbers</a>
+<a href = "../files/On_Calculation_of_Class_Numbers.pdf">On Calculation of Class Numbers</a>
 ------
 * In this document, We discuss the relevant concepts and techniques that are frequently used when calculating the class number of a number field. We also use these facts to calculate a few class numbers. 
