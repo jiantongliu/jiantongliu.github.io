@@ -43,7 +43,7 @@ Writings
 ------
 
 * <a href = "../files/On_Calculation_of_Class_Numbers.pdf">On Calculation of Class Numbers</a>
-  * In this document, We discuss the relevant concepts and techniques that are frequently used when calculating the class number of a number field. We also use these facts to calculate a few class numbers. 
+  * In this document, we discuss the relevant concepts and techniques involved in calculating the class number of a number field, as well as give a few examples of such calculations. 
 
 * <a href = "../files/132H_Revision.pdf">Revision Notes for Honors Complex Analysis</a>
 
