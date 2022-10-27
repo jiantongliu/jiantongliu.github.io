@@ -17,9 +17,11 @@ I worked as a grader for two years, mostly graded MATH 115AH (Honors Linear Alge
 Math Research Experience as an Undergraduate (Summer 2021, Summer 2022)
 ------
 * UCLA CAM REU (Summer 2021)
-  * I worked in the Los Angeles GRYD Program (Gang Reduction Youth Development) research team and focused on compartmental modeling, stability analysis, and center manifold theory. The results were integrated as part of a final report "A Compartmental Model for the Dynamics of Gang Embeddedness and Youth Delinquency" along with a final presentation at the end of the REU program. My supervisors were Dr. David Hyde, Dr. Chuntian Wang, Dr. Andrea Bertozzi, Dr. Paul Brantingham, and Yotam Yaniv.
+  * I worked in the Los Angeles GRYD Program (Gang Reduction Youth Development) research team and focused on compartmental modeling, stability analysis, and center manifold theory. The results were integrated as part of a final report "A Compartmental Model for the Dynamics of Gang Embeddedness and Youth Delinquency" along with a final presentation at the end of the REU program. 
+  * Supervisor: Dr. David Hyde, Dr. Chuntian Wang, Dr. Andrea Bertozzi, Dr. Paul Brantingham, and Yotam Yaniv.
 * Polymath Jr (Summer 2022)
   * (Under construction.)
+  * Supervisor: Dr. Marion Campisi, Nicholas Cazet
 
 Teaching Experience (Fall 2021 - Expected Spring 2023)
 ------
