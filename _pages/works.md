@@ -21,6 +21,10 @@ Talks
 
 * UCLA CAM REU Colloquium. _Final Report on Gang Reduction and Youth Development Program._ Aug 2021, Los Angeles, California.
 
+I also had a few informal talks such as 
+
+* A presentation on the paper _Stick numbers in the simple hexagonal lattice_ by Bailey et al. on July 9, 2022, as a presentation on past literature at Polymath Jr program 2022. [<a href = "../files/Presentation_on_Stick_Numbers.pdf">Slides</a>] [[Video](https://youtu.be/XOJ_eurIdxI)]
+
 Preprints and Publications
 ------
 
