@@ -12,7 +12,7 @@ redirect_from:
 
 Talks
 ------
-* AMS Special Session at Joint Mathematics Meetings. _Bounds on Simple Hexagonal Lattice and Classification of $11$-stick Knots._ Jan 2023, Boston, Massachusetts. [[Abstract](https://meetings.ams.org/math/jmm2023/meetingapp.cgi/Paper/17903)]
+* AMS Special Session at Joint Mathematics Meetings. _Bounds in Simple Hexagonal Lattice and Classification of $11$-stick Knots._ Jan 2023, Boston, Massachusetts. [[Abstract](https://meetings.ams.org/math/jmm2023/meetingapp.cgi/Paper/17903)]
 
 * Polymath Jr Program Colloquium. _Bounds on Simple Hexagonal Lattice._ Aug 2022, Los Angeles, California.
 
@@ -27,8 +27,8 @@ I also had a few informal talks such as
 Preprints and Publications
 ------
 
-* In Preparation
-  * _Bounds on Simple Hexagonal Lattice and Classification of $11$-stick Knots_ (joint work with Yueheng Bao, Ari Benveniste, Ansel Goh, and Ethan Sherman, supervised by Marion Campisi and Nicholas Cazet), October 2022. 
+* Preprint
+  * _Bounds in Simple Hexagonal Lattice and Classification of $11$-stick Knots_ (joint work with Yueheng Bao, Ari Benveniste, Ansel Goh, and Ethan Sherman, supervised by Marion Campisi and Nicholas Cazet), October 2022. [[Preprint](https://arxiv.org/abs/2211.00687)]
 
 * Internal Report
   * _A Compartmental Model for the Dynamics of Gang Embeddedness and Youth Delinquency_ (with Antonia Fabian, Haoyang Lyu, Thien Tran, and Haley Xiaohe Zhang), August 2021.
