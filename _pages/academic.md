@@ -22,8 +22,8 @@ Math Research Experience as an Undergraduate (Summer 2021, Summer 2022)
 * Polymath Jr (Summer 2022)
   * Work on a project in combinatorial knot theory under the supervision of Dr. Marion Campisi of San Jose State University. The project mostly focuses on knots in simple hexagonal lattices, where we study the stick number and other properties of knots.
   * Represented the group to give a talk at the final colloquium of the program.
-  * Published the preprint article to arXiv in November 2022.
-  * Will represent the group to give a talk at the Joint Mathematics Meeting (JMM) in January 2023.
+  * Uploaded the preprint article to arXiv in November 2022. Acted as corresponding author and send the preprint article to a journal. 
+  * Will represent the group to give a talk at the Joint Mathematics Meeting (JMM) in January 2023. 
   * Supervisor: Dr. Marion Campisi, Nicholas Cazet
 
 Teaching Experience (Fall 2021 - Expected Spring 2023)
