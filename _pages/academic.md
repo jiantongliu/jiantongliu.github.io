@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Academic Experience"
+title: "Teaching and Research Experience"
 permalink: /academic/
 author_profile: true
 redirect_from:
@@ -17,7 +17,7 @@ I worked as a grader for two years, mostly for MATH 115AH (Honors Linear Algebra
 Math Research Experience as an Undergraduate (Summer 2021, Summer 2022)
 ------
 * UCLA CAM REU (Summer 2021)
-  * Worked in the Los Angeles GRYD Program (Gang Reduction Youth Development) research team and focused on compartmental modeling and stability analysis by using center manifold theory and dynamical systems. The results were constituted an important part of the final report "A Compartmental Model for the Dynamics of Gang Embeddedness and Youth Delinquency" and the final presentation at the end of the REU program. 
+  * Worked in the Los Angeles GRYD Program (Gang Reduction Youth Development) research team and focused on compartmental modeling and stability analysis by using center manifold theory and dynamical systems. The results constituted an important part of the final report "A Compartmental Model for the Dynamics of Gang Embeddedness and Youth Delinquency" and the final presentation at the end of the REU program. 
   * Supervisors: Professor David Hyde, Professor Chuntian Wang, Professor Andrea Bertozzi, Professor Paul Brantingham, and Yotam Yaniv.
 * Polymath Jr (Summer 2022)
   * Work on a project in combinatorial knot theory under the supervision of Professor Marion Campisi of San Jose State University. The project mostly focuses on knots in simple hexagonal lattices, where we study the stick number and other properties of knots.
