@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Teaching and Research Experience"
+title: "Academic Experience"
 permalink: /academic/
 author_profile: true
 redirect_from:
