@@ -12,19 +12,19 @@ redirect_from:
 
 Grader (Fall 2020 - Summer 2022)
 ------
-I worked as a grader for two years, mostly graded MATH 115AH (Honors Linear Algebra). I also graded MATH 115 (Linear Algebra) and MATH 105 Series Mathematics and Pedagogy for Teaching Secondary Mathematics) from time to time. 
+I worked as a grader for two years, mostly for MATH 115AH (Honors Linear Algebra). I also graded MATH 115 (Linear Algebra) and MATH 105 Series Mathematics and Pedagogy for Teaching Secondary Mathematics) from time to time. 
 
 Math Research Experience as an Undergraduate (Summer 2021, Summer 2022)
 ------
 * UCLA CAM REU (Summer 2021)
-  * I worked in the Los Angeles GRYD Program (Gang Reduction Youth Development) research team and focused on compartmental modeling, stability analysis, and center manifold theory. The results were integrated as part of a final report "A Compartmental Model for the Dynamics of Gang Embeddedness and Youth Delinquency" along with a final presentation at the end of the REU program. 
-  * Supervisor: Professor David Hyde, Professor Chuntian Wang, Professor Andrea Bertozzi, Professor Paul Brantingham, and Yotam Yaniv.
+  * Worked in the Los Angeles GRYD Program (Gang Reduction Youth Development) research team and focused on compartmental modeling and stability analysis by using center manifold theory and dynamical systems. The results were constituted an important part of the final report "A Compartmental Model for the Dynamics of Gang Embeddedness and Youth Delinquency" and the final presentation at the end of the REU program. 
+  * Supervisors: Professor David Hyde, Professor Chuntian Wang, Professor Andrea Bertozzi, Professor Paul Brantingham, and Yotam Yaniv.
 * Polymath Jr (Summer 2022)
   * Work on a project in combinatorial knot theory under the supervision of Professor Marion Campisi of San Jose State University. The project mostly focuses on knots in simple hexagonal lattices, where we study the stick number and other properties of knots.
   * Represented the group to give a talk at the final colloquium of the program.
-  * Uploaded the preprint article to arXiv in November 2022. Acted as corresponding author and send the preprint article to a journal. 
+  * Uploaded the preprint article to arXiv in November 2022. Acted as corresponding author for its publication. 
   * Will represent the group to give a talk at the Joint Mathematics Meeting (JMM) in January 2023. 
-  * Supervisor: Professor Marion Campisi, Nicholas Cazet
+  * Supervisors: Professor Marion Campisi, Nicholas Cazet
 
 Teaching Experience (Fall 2021 - Expected Spring 2023)
 ------
