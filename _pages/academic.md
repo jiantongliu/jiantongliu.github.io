@@ -12,7 +12,11 @@ redirect_from:
 
 Grader (Fall 2020 - Summer 2022)
 ------
-I worked as a grader for two years, mostly for MATH 115AH (Honors Linear Algebra). I also graded MATH 115 (Linear Algebra) and MATH 105 Series Mathematics and Pedagogy for Teaching Secondary Mathematics) from time to time. 
+I worked as a grader for two years, graded homework, quizzes and tests and provided feedback for many courses, including:
+* MATH 115AH (Honors Linear Algebra): Fall 2020 - Winter 2022
+* MATH 115A (Linear Algebra): Summer 2021, Summer 2022
+* MATH 105 Series (Mathematics and Pedagogy for Teaching Secondary Mathematics): Fall 2021 - Spring 2022
+
 
 Math Research Experience as an Undergraduate (Summer 2021, Summer 2022)
 ------
