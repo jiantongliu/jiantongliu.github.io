@@ -54,7 +54,7 @@ Here is a list of courses I took to fulfill the major requirements for pure math
   * PSYCH 120A (Cognitive Psychology)
   * PHILOSOPHY 7 (Introduction to Philosophy of Mind)
 * Fall 2021
-  * MATH 210A\* (Algebra)
+  * MATH 210A\* (Graduate Algebra, Part 1)
   * PSYCH 124A (Psycholinguistics)
 * Winter 2022
   * MATH 170E (Introduction to Probability and Statistics, Part 1)
@@ -73,6 +73,7 @@ Here is a list of courses I took to fulfill the major requirements for pure math
   * MATH 225A\* (Differential Topology)
   * PSYCH 196B (Assistantship in Cognitive Science, at Zili Lab)
 * Winter 2023 (Planned)
+  * MATH 210B\* (Graduate Algebra, Part 2)
   * MATH 212B\* (Homological Algebra, Part 2)
   * MATH 214A\* (Algebraic Geometry, Part 1)
   * PSYCH 196B (Assistantship in Cognitive Science, at Zili Lab)
