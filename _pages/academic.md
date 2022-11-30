@@ -33,7 +33,7 @@ I am an assistant instructor at the [UCLA Olga Radko Endowed Math Circle](https:
 * I am teaching the Intermediate 2A class in-person during the 2022-2023 academic year. 
 
 
-Directed Reading Program Mentee (Winter 2022 - Present)
+Directed Reading Program Mentee (Winter 2022 - Fall 2022)
 ------
 I participated in the program to study advanced topics in mathematics under the supervision of [Ben Spitz](https://www.math.ucla.edu/~benspitz/), a PhD student at UCLA. I also participated in the program colloquiums and talked about what I learned from the topics.
 
