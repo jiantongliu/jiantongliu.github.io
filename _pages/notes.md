@@ -32,7 +32,7 @@ Lecture Notes
 
 * MATH 205A (Algebraic Number Theory)
   * This is the first course in the graduate number theory course series. I am taking this course in Fall quarter of 2022 with [Professor Romyar Sharifi](https://www.math.ucla.edu/~sharifi/). Notes will be updated once in a while. The recommended text for this course is [Professor's lecture notes](https://www.math.ucla.edu/~sharifi/algnum.pdf). 
-  * <a href = "../files/205A_Notes.pdf">Course Notes</a>, last updated on November 29.
+  * <a href = "../files/205A_Notes.pdf">Course Notes</a>. 
 
 * MATH 210A/B/C (Graduate Algebra)
   * This is the graduate algebra series I took (and will be taking) in Fall 2021, Winter 2023, and Spring 2023, taught by [Professor Alexander Merkurjev](https://www.math.ucla.edu/~merkurev/). 
