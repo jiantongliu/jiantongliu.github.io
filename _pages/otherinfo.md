@@ -12,7 +12,7 @@ redirect_from:
 
 Friends
 ------
-- [Vince Ai](https://vince-ai.github.io/)
+- [Vince Ai](https://wensi-ai.github.io/)
 - [Chenda Duan](https://chendaduan.com/)
 - [Logan Hyslop](https://loganhyslop.github.io/)
 - [Zhengtong Liu](https://zhengtong-liu.github.io/)
