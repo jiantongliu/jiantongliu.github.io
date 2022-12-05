@@ -20,4 +20,5 @@ I have worked in three different committees in the past four years, including
 
 <p align="center">
 <img src="https://github.com/jiantongliu/jiantongliu.github.io/blob/master/images/2022%20IVD%20-%204%20Years.png" width="300" />
+  <em>International Volunteer Day 2022, Year 4 Icon</em>
 </p>
