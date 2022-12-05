@@ -21,13 +21,7 @@ I have worked in three different committees in the past four years, including
 
 <p align="center">
 <figure class="image">
-<img src="/images/2022%20IVD%20-%204%20Years.png" width="300" height="300" alt = "International Volunteer Day 2022, Year 4 Icon">
+<img src="/images/2022%20IVD%20-%204%20Years.png" width="200" height="200">
 <figcaption> International Volunteer Day 2022, Year 4 Icon </figcaption>
 </figure>
 </p>
-
-
-
-| ![International Volunteer Day 2022, Year 4 Icon](/images/2022%20IVD%20-%204%20Years.png) |
-|:--:| 
-| *International Volunteer Day 2022, Year 4 Icon* |
