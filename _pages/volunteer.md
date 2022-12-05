@@ -19,4 +19,4 @@ I have worked in three different committees in the past four years, including
 * Support Committee
 
 
-![International Volunteer Day, Year 4](https://github.com/jiantongliu/jiantongliu.github.io/blob/master/images/2022%20IVD%20-%204%20Years.png)
+![International Volunteer Day, Year 4](https://github.com/jiantongliu/jiantongliu.github.io/blob/master/images/2022%20IVD%20-%204%20Years.png | width=300)
