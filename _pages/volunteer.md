@@ -18,10 +18,16 @@ I have worked in three different committees in the past four years, including
 * Tag Wrangling Committee
 * Support Committee
 
-<center>
-  
-| <img src="/images/2022%20IVD%20-%204%20Years.png" width="300" /> |
+
+<p align="center">
+<figure class="image">
+<img src="/images/2022%20IVD%20-%204%20Years.png" width="300" height="300" alt = "International Volunteer Day 2022, Year 4 Icon">
+<figcaption> International Volunteer Day 2022, Year 4 Icon </figcaption>
+</figure>
+</p>
+
+
+
+| ![International Volunteer Day 2022, Year 4 Icon](/images/2022%20IVD%20-%204%20Years.png) |
 |:--:| 
 | *International Volunteer Day 2022, Year 4 Icon* |
-  
-</center>
