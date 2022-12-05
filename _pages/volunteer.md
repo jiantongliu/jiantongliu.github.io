@@ -19,8 +19,8 @@ I have worked in three different committees in the past four years, including
 * Support Committee
 
 <figure class="image">
-<p align="center">
-<img src="/images/2022%20IVD%20-%204%20Years.png" width="200">
+<img src="/images/2022%20IVD%20-%204%20Years.png" align="center" height="200" width="200">
+<center>
 <figcaption> International Volunteer Day 2022, Year 4 Icon </figcaption>
-</p>
+</center>
 </figure>
