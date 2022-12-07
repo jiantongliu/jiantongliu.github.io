@@ -14,9 +14,9 @@ redirect_from:
 ------
 
 I have worked in three different committees in the past four years, including
-* [Translation Committee](https://www.transformativeworks.org/committees/translation/)
-* [Tag Wrangling Committee](https://archiveofourown.org/wrangling_guidelines)
-* [Support Committee](https://www.transformativeworks.org/committees/support-committee/)
+* _Translation Committee_
+* _Tag Wrangling Committee_
+* _Support Committee_
 
 > The Organization for Transformative Works (OTW) is a nonprofit organization established by fans to serve the interests of fans by providing access to and preserving the history of fanworks and fan culture in its myriad forms. We believe that fanworks are transformative and that transformative works are legitimate.
 
