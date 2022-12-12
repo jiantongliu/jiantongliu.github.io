@@ -21,64 +21,70 @@ Here is a list of courses I took to fulfill the major requirements for pure math
 
 \*: Graduate-level Courses
 
-* Fall 2019
-  * MATH 32A (Multivariable Calculus, Part 1)
-  * MATH 33A (Linear Algebra and Its Applications)
-* Winter 2020
-  * MATH 32B (Multivariable Calculus, Part 2)
-  * MATH 33B (Differential Equations)
-  * PSYCH 10 (Introductory Psychology)
-  * PIC 10A (Introductory Programming)
-* Spring 2020
-  * MATH 115AH (Honors Linear Algebra)
-  * PSYCH 100A (Psychological Statistics)
-  * PHILOSOPHY 31 (Logic, First Course)
-* Summer 2020
-  * PSYCH 20A (MATLAB Programming, Part 1)
-* Fall 2020
-  * MATH 110AH (Honors Algebra, Part 1)
-  * PSYCH 100B (Research Methods in Psychology)
-  * PSYCH 85 (Introduction to Cognitive Science)
-  * PIC 16A (Programming in Python, Part 1)
-* Winter 2021
-  * MATH 110BH (Honors Algebra, Part 2)
-  * MATH 131AH (Honors Real Analysis, Part 1)
-  * PHILOSOPHY 133 (Topics in Logic and Semantics, on Computational Theory of Mind)
-  * PIC 10B (Intermediate Programming)
-* Spring 2021
-  * MATH 110C (Honors Algebra, Part 3)
-  * MATH 131BH (Honors Real Analysis, Part 2)
-  * MATH 135 (Ordinary Differential Equations)
-  * MATH 191 (Research Seminar, on Category Theory)
-* Summer 2021
-  * PSYCH 120A (Cognitive Psychology)
-  * PHILOSOPHY 7 (Introduction to Philosophy of Mind)
-* Fall 2021
-  * MATH 210A\* (Graduate Algebra, Part 1)
-  * PSYCH 124A (Psycholinguistics)
-* Winter 2022
-  * MATH 170E (Introduction to Probability and Statistics, Part 1)
-  * MATH 182 (Algorithm)
-  * MATH 212A\* (Homological Algebra, Part 1)
-  * PSYCH 186B (Cognitive Science Laboratory, on Neural Networks)
-* Spring 2022
-  * MATH 132H (Honors Complex Analysis)
-  * MATH 136 (Partial Differential Equations)
-  * MATH 164 (Optimization)
-* Summer 2022
-  * PSYCH 115 (Behavioral Neuroscience)
-* Fall 2022
-  * MATH 205A\* (Algebraic Number Theory)
-  * MATH 215A\* (Commutative Algebra)
-  * MATH 225A\* (Differential Topology)
-  * PSYCH 196B (Assistantship in Cognitive Science, at Zili Lab)
-* Winter 2023 (Planned)
-  * MATH 210B\* (Graduate Algebra, Part 2)
-  * MATH 212B\* (Homological Algebra, Part 2)
-  * MATH 214A\* (Algebraic Geometry, Part 1)
-  * PSYCH 196B (Assistantship in Cognitive Science, at Zili Lab)
 * Spring 2023 (Planned)
   * MATH 115B (Linear Algebra)
   * MATH 210C\* (Graduate Algebra, Part 3)
   * MATH 214B\* (Algebraic Geometry, Part 2)
   * MATH 225C\* (Algebraic Topology)
+* Winter 2023 (Planned)
+  * MATH 210B\* (Graduate Algebra, Part 2)
+  * MATH 212B\* (Homological Algebra, Part 2)
+  * MATH 214A\* (Algebraic Geometry, Part 1)
+  * PSYCH 196B (Assistantship in Cognitive Science, at Zili Lab)
+* Fall 2022
+  * MATH 205A\* (Algebraic Number Theory)
+  * MATH 215A\* (Commutative Algebra)
+  * MATH 225A\* (Differential Topology)
+  * PSYCH 196B (Assistantship in Cognitive Science, at Zili Lab)
+* Summer 2022
+  * PSYCH 115 (Behavioral Neuroscience)
+* Spring 2022
+  * MATH 132H (Honors Complex Analysis)
+  * MATH 136 (Partial Differential Equations)
+  * MATH 164 (Optimization)
+* Winter 2022
+  * MATH 170E (Introduction to Probability and Statistics, Part 1)
+  * MATH 182 (Algorithm)
+  * MATH 212A\* (Homological Algebra, Part 1)
+  * PSYCH 186B (Cognitive Science Laboratory, on Neural Networks)
+* Fall 2021
+  * MATH 210A\* (Graduate Algebra, Part 1)
+  * PSYCH 124A (Psycholinguistics)
+* Summer 2021
+  * PSYCH 120A (Cognitive Psychology)
+  * PHILOSOPHY 7 (Introduction to Philosophy of Mind)
+* Spring 2021
+  * MATH 110C (Honors Algebra, Part 3)
+  * MATH 131BH (Honors Real Analysis, Part 2)
+  * MATH 135 (Ordinary Differential Equations)
+  * MATH 191 (Research Seminar, on Category Theory)
+* Winter 2021
+  * MATH 110BH (Honors Algebra, Part 2)
+  * MATH 131AH (Honors Real Analysis, Part 1)
+  * PHILOSOPHY 133 (Topics in Logic and Semantics, on Computational Theory of Mind)
+  * PIC 10B (Intermediate Programming)
+* Fall 2020
+  * MATH 110AH (Honors Algebra, Part 1)
+  * PSYCH 100B (Research Methods in Psychology)
+  * PSYCH 85 (Introduction to Cognitive Science)
+  * PIC 16A (Programming in Python, Part 1)
+* Summer 2020
+  * PSYCH 20A (MATLAB Programming, Part 1)
+* Spring 2020
+  * MATH 115AH (Honors Linear Algebra)
+  * PSYCH 100A (Psychological Statistics)
+  * PHILOSOPHY 31 (Logic, First Course)
+* Winter 2020
+  * MATH 32B (Multivariable Calculus, Part 2)
+  * MATH 33B (Differential Equations)
+  * PSYCH 10 (Introductory Psychology)
+  * PIC 10A (Introductory Programming)
+* Fall 2019
+  * MATH 32A (Multivariable Calculus, Part 1)
+  * MATH 33A (Linear Algebra and Its Applications)
+
+
+
+
+
+
