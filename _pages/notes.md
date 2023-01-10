@@ -36,9 +36,12 @@ Lecture Notes
 
 * MATH 210A/B/C (Graduate Algebra)
   * This is the graduate algebra series I took (and will be taking) in Fall 2021, Winter 2023, and Spring 2023, taught by [Professor Alexander Merkurjev](https://www.math.ucla.edu/~merkurev/). 
+  * <a href = "../files/Graduate_Algebra_Book.pdf">Course Notes and Other Related Materials</a> (under construction)
 
 * MATH 212A/B (Homological Algebra)
   * This is the homological algebra series I took in Winter 2022 and Winter 2023, taught by [Professor Paul Balmer](https://www.math.ucla.edu/~balmer/).
+  * Lecture notes of 212A is still under preparation. 
+  * <a href = "../files/212B_Notes.pdf">Course Notes</a>
 
 Writings
 ------
