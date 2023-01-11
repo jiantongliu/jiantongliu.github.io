@@ -21,7 +21,7 @@ Lecture Notes
 
 * MATH 131AH/BH (Honors Analysis)
   * This is the undergraduate Honors analysis series I took in Winter and Spring 2021, taught by [Professor Monica Vișan](https://www.math.ucla.edu/~visan/). The core textbook for this series is Baby Rudin. 
-  * <a href = "../files/131H_Notes.pdf">Course Notes</a>, finished updating notes and homework of 131AH. 
+  * <a href = "../files/131H_Notes.pdf">Course Notes</a>, lated updated to Lecture 3 of 131BH. 
 
 
 * MATH 134/135/136 (Chaos and Differential Equations)
@@ -41,7 +41,7 @@ Lecture Notes
 * MATH 212A/B (Homological Algebra)
   * This is the homological algebra series I took in Winter 2022 and Winter 2023, taught by [Professor Paul Balmer](https://www.math.ucla.edu/~balmer/).
   * Lecture notes of 212A is still under preparation. 
-  * <a href = "../files/212B_Notes.pdf">Course Notes</a>
+  * <a href = "../files/212B_Notes.pdf">212B Course Notes</a>
 
 Writings
 ------
