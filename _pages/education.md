@@ -26,7 +26,7 @@ Here is a list of courses I took to fulfill the major requirements for pure math
   * MATH 210C\* (Graduate Algebra, Part 3)
   * MATH 214B\* (Algebraic Geometry, Part 2)
   * MATH 225C\* (Algebraic Topology)
-* Winter 2023 (Planned)
+* Winter 2023
   * MATH 210B\* (Graduate Algebra, Part 2)
   * MATH 212B\* (Homological Algebra, Part 2)
   * MATH 214A\* (Algebraic Geometry, Part 1)
