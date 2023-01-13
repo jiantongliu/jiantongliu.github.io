@@ -41,7 +41,7 @@ Lecture Notes
 * MATH 212A/B (Homological Algebra)
   * This is the homological algebra series I took in Winter 2022 and Winter 2023, taught by [Professor Paul Balmer](https://www.math.ucla.edu/~balmer/).
   * Lecture notes of 212A is still under preparation. 
-  * <a href = "../files/212B_Notes.pdf">212B Course Notes</a>, updated to lecture 2. 
+  * <a href = "../files/212B_Notes.pdf">212B Course Notes</a>, updated to lecture 3. 
 
 Writings
 ------
