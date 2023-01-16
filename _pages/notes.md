@@ -21,7 +21,7 @@ Lecture Notes
 
 * MATH 131AH/BH (Honors Analysis)
   * This is the undergraduate Honors analysis series I took in Winter and Spring 2021, taught by [Professor Monica Vișan](https://www.math.ucla.edu/~visan/). The core textbook for this series is Baby Rudin. 
-  * <a href = "../files/131H_Notes.pdf">Course Notes</a>, lated updated to Lecture 8 of 131BH. 
+  * <a href = "../files/131H_Notes.pdf">Course Notes</a>, lated updated to Lecture 10 of 131BH. 
 
 
 * MATH 134/135/136 (Chaos and Differential Equations)
