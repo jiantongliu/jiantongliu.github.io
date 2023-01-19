@@ -28,7 +28,7 @@ Here is a list of courses I took to fulfill the major requirements for pure math
   * MATH 225C\* (Algebraic Topology)
 * Winter 2023
   * MATH 210B\* (Graduate Algebra, Part 2)
-  * MATH 212B\* (Homological Algebra, Part 2)
+  * MATH 212B\* (Advanced Homological Algebra, on Tensor Triangulated Category)
   * MATH 214A\* (Algebraic Geometry, Part 1)
   * PSYCH 194C (Research Group Seminars: Cognitive Science, at Zili Lab)
   * PSYCH 196B (Research Apprenticeship in Cognitive Science, at Zili Lab)
@@ -46,7 +46,7 @@ Here is a list of courses I took to fulfill the major requirements for pure math
 * Winter 2022
   * MATH 170E (Introduction to Probability and Statistics, Part 1)
   * MATH 182 (Algorithm)
-  * MATH 212A\* (Homological Algebra, Part 1)
+  * MATH 212A\* (Homological Algebra)
   * PSYCH 186B (Cognitive Science Laboratory, on Neural Networks)
 * Fall 2021
   * MATH 210A\* (Graduate Algebra, Part 1)
