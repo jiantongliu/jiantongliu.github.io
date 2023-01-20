@@ -24,3 +24,5 @@ I have worked in three different committees in the past four years, including
 <img src="/images/2022%20IVD%20-%204%20Years.png" width="200"/>
 <figcaption align="center"> International Volunteer Day 2022, Year 4 Icon </figcaption>
 </p>
+
+I have also (co)hosted a few events as outreach opportunities with our users, fans, and followers. The latest one is [International Fanworks Day 2023](https://www.transformativeworks.org/international-fanworks-day-2023-is-coming-soon/). 
