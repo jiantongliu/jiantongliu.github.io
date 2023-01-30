@@ -46,6 +46,7 @@ Lecture Notes
 * MATH 215A/214A/214B (Commutative Algebra and Algebraic Geometry)
   * This is the algebraic geometry series I am taking from Fall 2022 to Spring 2023, taught by Dr. Chengxi Wang (215A) and Professor Burt Totaro (214A). 
   * <a href = "../files/215A_Notes_Revised.pdf">215A Course Notes</a>
+  * <a href = "../files/214A_Notes.pdf">214A Course Notes</a>, updated to lecture 9. 
 
 Writings
 ------
