@@ -50,6 +50,8 @@ Lecture Notes
 
 Writings
 ------
+* <a href = "../files/Hilbert_s_Nullstellensatz.pdf">On Hilbert's Nullstellensatz</a>
+  * This document is a general survey that introduces different concepts built up upon rings, including ideals, domains, and a little bit of algebraic geometry, so that we can make our way to (various statements of) Hilbert's Nullstellensatz. 
 
 * <a href = "../files/On_Calculation_of_Class_Numbers.pdf">On Calculation of Class Numbers</a>
   * In this document, we discuss the relevant concepts and techniques involved in calculating the class number of a number field, as well as give a few examples of such calculations. 
