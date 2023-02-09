@@ -22,10 +22,10 @@ Here is a list of courses I took to fulfill the major requirements for pure math
 \*: Graduate-level Courses
 
 * Spring 2023 (Planned)
-  * MATH 115B (Linear Algebra)
   * MATH 210C\* (Graduate Algebra, Part 3)
   * MATH 214B\* (Algebraic Geometry, Part 2)
   * MATH 225C\* (Algebraic Topology)
+  * MATH 229A\* (Lie Groups and Lie Algebras)
 * Winter 2023
   * MATH 210B\* (Graduate Algebra, Part 2)
   * MATH 212B\* (Advanced Homological Algebra, on Tensor Triangulated Category)
