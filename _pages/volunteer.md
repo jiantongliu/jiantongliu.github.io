@@ -13,10 +13,7 @@ redirect_from:
 [Organization for Transformative Works (OTW)](https://www.transformativeworks.org/): Oct 2018 - Present
 ------
 
-I have worked in three different committees in the past four years, including
-* _Translation Committee_
-* _Tag Wrangling Committee_
-* _Support Committee_
+I have worked in three different committees in the past four year. 
 
 > The Organization for Transformative Works (OTW) is a nonprofit organization established by fans to serve the interests of fans by providing access to and preserving the history of fanworks and fan culture in its myriad forms. We believe that fanworks are transformative and that transformative works are legitimate.
 
@@ -24,5 +21,3 @@ I have worked in three different committees in the past four years, including
 <img src="/images/2022%20IVD%20-%204%20Years.png" width="200"/>
 <figcaption align="center"> International Volunteer Day 2022, Year 4 Icon </figcaption>
 </p>
-
-I have also (co)hosted a few events as outreach opportunities with our users, fans, and followers. The latest one is [International Fanworks Day 2023](https://www.transformativeworks.org/international-fanworks-day-2023-is-coming-soon/). 
