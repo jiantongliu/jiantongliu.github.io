@@ -59,7 +59,7 @@ This page contains classes I took and/or audited at UCLA, along with texts I fou
 | MATH 214A | Introduction to Algebraic Geometry | Hartshorne, *Algebraic Geometry* | Vikil, *The Rising Sea* |
 | MATH 214B | Introduction to Algebraic Geometry | Hartshorne, *Algebraic Geometry* | Vikil, *The Rising Sea* |
 | MATH 215A | Commutative Algebra | Atiyah & Macdonald, *Introduction to Commutative Algebra* | Eisenbud, *Commutative Algebra* |
-| MATH 225A | | | |
-| MATH 225B* | | | |
-| MATH 225C* | | | |
+| MATH 225A | Differential Topology | | |
+| MATH 225B* | Differential Geometry | | |
+| MATH 225C* | Algebraic Topology | | |
 | MATH 229A* | Lie Group and Lie Algebra | Hall, *Lie Groups, Lie Algebras, and Representations* | Fulton & Harris, *Representation Theory* |
