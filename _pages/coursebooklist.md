@@ -46,18 +46,20 @@ This page contains classes I took and/or audited at UCLA, along with texts I fou
 | MATH 151B* | Numerical Analysis | Burden & Faires, *Numerical Analysis* |   |
 | MATH 156* | Machine Learning | Bishop, *Pattern Recognition and Machine Learning* |   |
 | MATH 164 | Optimization | Chong & Żak, *An Introduction to Optimization* |   |
+| MATH 170E | Probability |  |   |
+| MATH 182 | Algorithm |  |   |
 | MATH 191 | Category Theory: Algebra of Relations | Riehl, *Category Theory in Context* | Adámek, Herrlich, Strecker, *Abstract and Concrete Categories: The Joy of Cats*  |
 | | | Mac Lane, *Categories for the Working Mathematicians*  | Awodey, *Category Theory*|
+| MATH 205A | Algebraic Number Theory |  |  |
 | MATH 210A | Algebra | Lang, *Algebra* | Hungerford, *Algebra* |
-| MATH 210B* | Algebra | Lang, *Algebra* | Hungerford, *Algebra* |
-| MATH 210C* | Algebra | Lang, *Algebra* | Hungerford, *Algebra* |
+| MATH 210B | Algebra | Lang, *Algebra* | Hungerford, *Algebra* |
+| MATH 210C | Algebra | Lang, *Algebra* | Hungerford, *Algebra* |
 | MATH 212A | Homological Algebra | Hilton & Stammbach, *A Course in Homological Algebra* | Rotman, *An Introduction to Homological Algebra* |
-| MATH 225A* | | | |
+| MATH 212B | Advanced Homological Algebra |  |  |
+| MATH 214A | Introduction to Algebraic Geometry | Hartshorne, *Algebraic Geometry* | Vikil, *The Rising Sea* |
+| MATH 214B | Introduction to Algebraic Geometry | Hartshorne, *Algebraic Geometry* | Vikil, *The Rising Sea* |
+| MATH 215A | Commutative Algebra | Atiyah & Macdonald, *Introduction to Commutative Algebra* | Eisenbud, *Commutative Algebra* |
+| MATH 225A | | | |
 | MATH 225B* | | | |
 | MATH 225C* | | | |
-| MATH 229A* | Lie Group and Lie Algebra | Hall, *Lie Groups, Lie Algebras, and Representations* | Fulton & Harris, *Representation Theory*  |
-| Computing 10A | Introduction to Programming | | |
-| Computing 10B | Intermediate Programming |  | | 
-| Computing 16A | Python with Applications I | | |
-| Psychology 20A | MATLAB Programming for Behavioral Sciences | | [MATLAB Documentation](https://www.mathworks.com/help/matlab/) |
-
+| MATH 229A* | Lie Group and Lie Algebra | Hall, *Lie Groups, Lie Algebras, and Representations* | Fulton & Harris, *Representation Theory* |
