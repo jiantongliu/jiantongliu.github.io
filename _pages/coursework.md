@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Relevant Coursework"
-permalink: /education/
+title: "Coursework"
+permalink: /coursework/
 author_profile: true
 redirect_from:
-  - /education
-  - /education.html
+  - /coursework
+  - /coursework.html
 ---
 
 {% include base_path %}
