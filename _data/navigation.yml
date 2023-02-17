@@ -1,9 +1,6 @@
 # main links links
 main:
 
-  - title: "Coursework"
-    url: /education/
-    
   - title: "Teaching & Research"
     url: /academic/
 
