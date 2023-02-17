@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Education and Coursework"
+title: "Relevant Coursework"
 permalink: /education/
 author_profile: true
 redirect_from:
@@ -10,13 +10,6 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-------
-* B.S. in Mathematics (Honors), UCLA, 2023 (expected)
-* B.S. in Cognitive Science, with Specialization in Computing, UCLA, 2023 (expected)
-
-Relevant Coursework
-------
 Here is a list of courses I took to fulfill the major requirements for pure math and cognitive science. A list of texts I found helpful can be found [here](https://jiantongliu.github.io/coursebooklist.html). Note that the webpage is not up to date. 
 
 \*: Graduate-level Courses
