@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Other Information"
+title: ""
 permalink: /otherinfo/
 author_profile: true
 redirect_from:
