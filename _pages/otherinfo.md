@@ -47,3 +47,7 @@ Links & Resources
 * Diagram Editors:
   * [Quiver](https://q.uiver.app/)
   * [Tikzcd](https://tikzcd.yichuanshen.de/)
+* [1Lab](https://1lab.dev/)
+* [Univalent mathematics in Agda](https://github.com/UniMath/agda-unimath)
+* [Theorem Proving in Lean](https://leanprover.github.io/theorem_proving_in_lean/index.html)
+* [Proofs of the Fundamental Theorem of Algebra](https://www.cut-the-knot.org/fta/analytic.shtml)
