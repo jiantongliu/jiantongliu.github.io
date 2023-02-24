@@ -60,6 +60,23 @@ Tools
 * [GroupNames](https://people.maths.bris.ac.uk/~matyd/GroupNames/)
 * [nLab](https://ncatlab.org/nlab/show/HomePage)
 
+A Few MathOverflow/StackExchange Posts
+------
+* [How do I sell out with abstract algebra?](https://math.stackexchange.com/questions/365005)
+* [On Ph.D. Qualifying Exams](https://math.stackexchange.com/questions/267554)
+* [The Langlands program for beginners](https://math.stackexchange.com/questions/48981)
+* [Can someone explain the Yoneda Lemma to an applied mathematician?](https://math.stackexchange.com/questions/37165/)/["Philosophical" meaning of the Yoneda Lemma](https://mathoverflow.net/questions/3184)/[What is Yoneda's Lemma a generalization of?](https://mathoverflow.net/questions/12511)
+* [Is Serge Lang's _Algebra_ still worth reading?](https://math.stackexchange.com/questions/354221)
+* [Examples of morphisms of schemes to keep in mind?](https://math.stackexchange.com/questions/666113)
+* [How to develop intuition in topology?](https://math.stackexchange.com/questions/576593)
+* [Examples of common false beliefs in mathematics](https://mathoverflow.net/questions/23478)
+* [How to memorise (understand) Nakayama's lemma and its corollaries?](https://mathoverflow.net/questions/61446)
+* [Ways to prove the fundamental theorem of algebra](https://mathoverflow.net/questions/10535)
+* [Short exact sequences every mathematician should know](https://mathoverflow.net/questions/363720)
+* [Most interesting mathematics mistake?](https://mathoverflow.net/questions/879/)/[What are your favorite instructional counterexamples?](https://mathoverflow.net/questions/16829/)/[Counterexamples in algebra?](https://mathoverflow.net/questions/29006)
+* [Unnecessary uses of the axiom of choice](https://mathoverflow.net/questions/416407)/[Simpler proofs using the axiom of choice](https://mathoverflow.net/questions/438948)
+* ["Pick up a homological algebra book and prove all of the theorems yourself" (exercise from Lang's Algebra)](https://mathoverflow.net/questions/10897)
+
 Others
 ------
 * [Yoneda's Story](http://www.neverendingbooks.org/le-lemme-de-la-gare-du-nord)
