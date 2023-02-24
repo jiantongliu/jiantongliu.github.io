@@ -46,6 +46,7 @@ Tools
   * [Quiver](https://q.uiver.app/)
   * [Tikzcd](https://tikzcd.yichuanshen.de/)
 * [Knot Info](https://knotinfo.math.indiana.edu/)
+* [Knotfolio](https://kmill.github.io/knotfolio/)
 * [Univalent mathematics in Agda](https://github.com/UniMath/agda-unimath)
 * [Manim (Community Version)](https://github.com/ManimCommunity/manim)
 * [1Lab](https://1lab.dev/)
@@ -68,3 +69,5 @@ Others
 * [The Transition from Grad Student to Assistant Professor](https://career.berkeley.edu/grad-students-postdocs/academic-job-search/the-transition-from-grad-student-to-assistant-professor/)
 * [Proofs of the Fundamental Theorem of Algebra](https://www.cut-the-knot.org/fta/analytic.shtml)
 * [The Map of Mathematics](https://www.quantamagazine.org/the-map-of-mathematics-20200213/)
+* [Making Music](https://learningmusic.ableton.com/)
+* [All things Linguistic](https://allthingslinguistic.com/post/612521255509393408/a-very-long-list-of-linguistics-youtube-channels)
