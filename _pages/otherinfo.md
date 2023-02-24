@@ -28,7 +28,8 @@ I have worked in three different committees in the past four years.
 Links & Resources
 ======
 
-* [Hermann Weyl's speech at Emmy Noether's funeral](https://mathshistory.st-andrews.ac.uk/Extras/Weyl_Noether/)
+* [MacTutor History of Mathematics Archive](https://mathshistory.st-andrews.ac.uk/), and in particular
+  * [Hermann Weyl's speech at Emmy Noether's funeral](https://mathshistory.st-andrews.ac.uk/Extras/Weyl_Noether/)
 * <a href="http://math.jhu.edu/~savitt/GTM.html">The Springer GTM Test</a>
 * [Community translation (French to English) of A. Grothendieck's EGA.](https://github.com/ryankeleti/ega)
 * [Some Materials for the Graduate Algebra Course](https://math.hawaii.edu/~lee/algebra/)
@@ -56,3 +57,4 @@ Links & Resources
 * [The "What Is...?" column](http://arminstraub.com/math/what-is-column)
 * [The Transition from Grad Student to Assistant Professor](https://career.berkeley.edu/grad-students-postdocs/academic-job-search/the-transition-from-grad-student-to-assistant-professor/)
 * [researchseminars.org](https://researchseminars.org/)
+* [The Stacks Project](https://stacks.math.columbia.edu/)
