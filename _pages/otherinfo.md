@@ -55,3 +55,4 @@ Links & Resources
 * [xkcd](https://xkcd.com/)
 * [The "What Is...?" column](http://arminstraub.com/math/what-is-column)
 * [The Transition from Grad Student to Assistant Professor](https://career.berkeley.edu/grad-students-postdocs/academic-job-search/the-transition-from-grad-student-to-assistant-professor/)
+* [researchseminars.org](https://researchseminars.org/)
