@@ -56,6 +56,9 @@ Tools
 * [Theorem Proving in Lean](https://leanprover.github.io/theorem_proving_in_lean/index.html)
 * [researchseminars.org](https://researchseminars.org/)
 * [List of REUs](https://docs.google.com/spreadsheets/d/1U-27BeHMSJCWumbNByal2tHyYo9wRVud9WoRE70E47Y)
+* [Database of Ring Theory](https://ringtheory.herokuapp.com/)
+* [GroupNames](https://people.maths.bris.ac.uk/~matyd/GroupNames/)
+* [nLab](https://ncatlab.org/nlab/show/HomePage)
 
 Others
 ------
