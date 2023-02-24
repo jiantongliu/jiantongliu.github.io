@@ -50,7 +50,6 @@ Tools
 * [Manim (Community Version)](https://github.com/ManimCommunity/manim)
 * [1Lab](https://1lab.dev/)
 * [Theorem Proving in Lean](https://leanprover.github.io/theorem_proving_in_lean/index.html)
-* [Proofs of the Fundamental Theorem of Algebra](https://www.cut-the-knot.org/fta/analytic.shtml)
 * [researchseminars.org](https://researchseminars.org/)
 
 Others
@@ -67,3 +66,5 @@ Others
 * [Natural Number Game](https://www.ma.imperial.ac.uk/~buzzard/xena/natural_number_game/)
 * [Proof Techniques](https://mfleck.cs.illinois.edu/proof.html)
 * [The Transition from Grad Student to Assistant Professor](https://career.berkeley.edu/grad-students-postdocs/academic-job-search/the-transition-from-grad-student-to-assistant-professor/)
+* [Proofs of the Fundamental Theorem of Algebra](https://www.cut-the-knot.org/fta/analytic.shtml)
+
