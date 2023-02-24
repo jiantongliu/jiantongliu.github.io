@@ -40,3 +40,5 @@ Links & Resources
 * [Posters by Anatoly Fomenko](https://chronologia.org/en/math_impressions/images.html)
 * [Natural Number Game](https://www.ma.imperial.ac.uk/~buzzard/xena/natural_number_game/)
 * [Milne's Course Notes](https://www.jmilne.org/math/CourseNotes/)
+* [Topology: A Categorical Approach](https://topology.mitpress.mit.edu/)
+* [The HoTT Book](https://homotopytypetheory.org/book/)
