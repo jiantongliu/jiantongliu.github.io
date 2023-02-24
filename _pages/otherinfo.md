@@ -28,7 +28,7 @@ I have worked in three different committees in the past four years.
 Links & Resources
 ======
 
-Useful Books
+Useful Materials
 ------
 * [Some Materials for the Graduate Algebra Course](https://math.hawaii.edu/~lee/algebra/)
 * [Community translation (French to English) of A. Grothendieck's EGA.](https://github.com/ryankeleti/ega)
@@ -37,7 +37,7 @@ Useful Books
 * [Milne's Course Notes](https://www.jmilne.org/math/CourseNotes/)
 * [Topology: A Categorical Approach](https://topology.mitpress.mit.edu/)
 * [The Stacks Project](https://stacks.math.columbia.edu/)
-
+* [Terence Tao's Blog](https://terrytao.wordpress.com/)
 
 Tools
 ------
@@ -53,7 +53,7 @@ Tools
 * [Proofs of the Fundamental Theorem of Algebra](https://www.cut-the-knot.org/fta/analytic.shtml)
 * [researchseminars.org](https://researchseminars.org/)
 
-Non-technical
+Others
 ------
 * [Yoneda's Story](http://www.neverendingbooks.org/le-lemme-de-la-gare-du-nord)
 * [The "What Is...?" column](http://arminstraub.com/math/what-is-column)
