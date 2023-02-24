@@ -76,6 +76,8 @@ A Few MathOverflow/StackExchange Posts
 * [Most interesting mathematics mistake?](https://mathoverflow.net/questions/879/)/[What are your favorite instructional counterexamples?](https://mathoverflow.net/questions/16829/)/[Counterexamples in algebra?](https://mathoverflow.net/questions/29006)
 * [Unnecessary uses of the axiom of choice](https://mathoverflow.net/questions/416407)/[Simpler proofs using the axiom of choice](https://mathoverflow.net/questions/438948)
 * ["Pick up a homological algebra book and prove all of the theorems yourself" (exercise from Lang's Algebra)](https://mathoverflow.net/questions/10897)
+* [Sheafification - Why does twice suffice?](https://mathoverflow.net/questions/95579)
+* [Has anyone found an error in an early version of Neukirch?](https://mathoverflow.net/questions/48759)
 
 Others
 ------
