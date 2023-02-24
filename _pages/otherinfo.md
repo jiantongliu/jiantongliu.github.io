@@ -53,3 +53,4 @@ Links & Resources
 * [Proofs of the Fundamental Theorem of Algebra](https://www.cut-the-knot.org/fta/analytic.shtml)
 * [Proof Techniques](https://mfleck.cs.illinois.edu/proof.html)
 * [xkcd](https://xkcd.com/)
+* [The "What Is...?" column](http://arminstraub.com/math/what-is-column)
