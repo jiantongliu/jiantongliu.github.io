@@ -38,6 +38,7 @@ Useful Materials
 * [Topology: A Categorical Approach](https://topology.mitpress.mit.edu/)
 * [The Stacks Project](https://stacks.math.columbia.edu/)
 * [Terence Tao's Blog](https://terrytao.wordpress.com/)
+* [The HoTTest Summer School](https://www.uwo.ca/math/faculty/kapulkin/seminars/hottest_summer_school_2022.html)
 
 Tools
 ------
@@ -71,3 +72,4 @@ Others
 * [The Map of Mathematics](https://www.quantamagazine.org/the-map-of-mathematics-20200213/)
 * [Making Music](https://learningmusic.ableton.com/)
 * [All things Linguistic](https://allthingslinguistic.com/post/612521255509393408/a-very-long-list-of-linguistics-youtube-channels)
+* [Scorigami](https://nflscorigami.com/)
