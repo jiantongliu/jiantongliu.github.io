@@ -67,4 +67,4 @@ Others
 * [Proof Techniques](https://mfleck.cs.illinois.edu/proof.html)
 * [The Transition from Grad Student to Assistant Professor](https://career.berkeley.edu/grad-students-postdocs/academic-job-search/the-transition-from-grad-student-to-assistant-professor/)
 * [Proofs of the Fundamental Theorem of Algebra](https://www.cut-the-knot.org/fta/analytic.shtml)
-
+* [The Map of Mathematics](https://www.quantamagazine.org/the-map-of-mathematics-20200213/)
