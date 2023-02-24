@@ -42,3 +42,4 @@ Links & Resources
 * [Milne's Course Notes](https://www.jmilne.org/math/CourseNotes/)
 * [Topology: A Categorical Approach](https://topology.mitpress.mit.edu/)
 * [The HoTT Book](https://homotopytypetheory.org/book/)
+* [Yoneda's Story](http://www.neverendingbooks.org/le-lemme-de-la-gare-du-nord)
