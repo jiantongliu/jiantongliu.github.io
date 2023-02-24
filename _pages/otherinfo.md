@@ -51,3 +51,5 @@ Links & Resources
 * [Univalent mathematics in Agda](https://github.com/UniMath/agda-unimath)
 * [Theorem Proving in Lean](https://leanprover.github.io/theorem_proving_in_lean/index.html)
 * [Proofs of the Fundamental Theorem of Algebra](https://www.cut-the-knot.org/fta/analytic.shtml)
+* [Proof Techniques](https://mfleck.cs.illinois.edu/proof.html)
+* [xkcd](https://xkcd.com/)
