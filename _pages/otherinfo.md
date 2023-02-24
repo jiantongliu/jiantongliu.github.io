@@ -28,7 +28,7 @@ I have worked in three different committees in the past four years.
 Links & Resources
 ======
 
-Useful Materials
+Useful Course Materials
 ------
 * [Some Materials for the Graduate Algebra Course](https://math.hawaii.edu/~lee/algebra/)
 * [Community translation (French to English) of A. Grothendieck's EGA.](https://github.com/ryankeleti/ega)
@@ -39,6 +39,8 @@ Useful Materials
 * [The Stacks Project](https://stacks.math.columbia.edu/)
 * [Terence Tao's Blog](https://terrytao.wordpress.com/)
 * [The HoTTest Summer School](https://www.uwo.ca/math/faculty/kapulkin/seminars/hottest_summer_school_2022.html)
+* [Richard Borcherds's Youtube Channel](https://www.youtube.com/channel/UCIyDqfi_cbkp-RU20aBF-MQ)
+* [Billy Woods' Videos on Algebraic Number Theory](https://www.youtube.com/playlist?list=PLSibAQEfLnTwq2-zCB-t9v2WvnnVKd0wn)
 
 Tools
 ------
