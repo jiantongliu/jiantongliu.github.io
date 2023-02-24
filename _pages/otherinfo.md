@@ -55,6 +55,7 @@ Tools
 * [1Lab](https://1lab.dev/)
 * [Theorem Proving in Lean](https://leanprover.github.io/theorem_proving_in_lean/index.html)
 * [researchseminars.org](https://researchseminars.org/)
+* [List of REUs](https://docs.google.com/spreadsheets/d/1U-27BeHMSJCWumbNByal2tHyYo9wRVud9WoRE70E47Y)
 
 Others
 ------
