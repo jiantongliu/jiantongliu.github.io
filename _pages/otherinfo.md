@@ -43,3 +43,7 @@ Links & Resources
 * [Topology: A Categorical Approach](https://topology.mitpress.mit.edu/)
 * [The HoTT Book](https://homotopytypetheory.org/book/)
 * [Yoneda's Story](http://www.neverendingbooks.org/le-lemme-de-la-gare-du-nord)
+* [Knot Info](https://knotinfo.math.indiana.edu/)
+* Diagram Editors:
+  * [Quiver](https://q.uiver.app/)
+  * [Tikzcd](https://tikzcd.yichuanshen.de/)
