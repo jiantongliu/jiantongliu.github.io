@@ -49,4 +49,4 @@ I participated in the program to study advanced topics in mathematics under the 
 
 Psychology Lab Research Assistant (Fall 2022 - Expected Winter 2023)
 ------
-I am currently an undergraduate research assistant of [Zili Lab at UCLA](https://zililab.psych.ucla.edu/). 
+I am currently a research assistant of [Zili Lab at UCLA](https://zililab.psych.ucla.edu/), working on a research project related to [motion perception](https://zililab.psych.ucla.edu/research/shape-from-motion/). 
