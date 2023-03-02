@@ -59,6 +59,7 @@ Tools
 * [Database of Ring Theory](https://ringtheory.herokuapp.com/)
 * [GroupNames](https://people.maths.bris.ac.uk/~matyd/GroupNames/)
 * [nLab](https://ncatlab.org/nlab/show/HomePage)
+* [(Mathematics) Collaboration Distance Calculator](https://mathscinet.ams.org/mathscinet/collaborationDistance.html)
 
 A Few MathOverflow/StackExchange Posts
 ------
