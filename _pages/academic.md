@@ -43,6 +43,7 @@ I worked as a grader for two years, graded homework, quizzes and tests and provi
     <td>115AH</td>
     <td>115AH</td>
     <td>115A</td>
+   </tr>
  </table></details><BR> 
 
 Math Research Experience as an Undergraduate (Summer 2021, Summer 2022)
