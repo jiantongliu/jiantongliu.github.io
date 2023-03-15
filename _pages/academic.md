@@ -58,7 +58,7 @@ Math Research Experience as an Undergraduate (Summer 2021, Summer 2022)
   * Represented the group to give a talk at the Joint Mathematics Meeting (JMM) in January 2023. 
   * Supervisors: Professor Marion Campisi, Nicholas Cazet
 
-Teaching Experience (Fall 2021 - Expected Spring 2023)
+Teaching Experience (Fall 2021 - Spring 2023)
 ------
 I am an assistant instructor at the [UCLA Olga Radko Endowed Math Circle](https://circles.math.ucla.edu/circles/). 
 * I taught the Intermediate 2B class online during the 2021-2022 academic year. The topics include Number Theory, Algebra, Graph Theory, and Algorithms.
@@ -75,6 +75,6 @@ I participated in the program to study advanced topics in mathematics under the 
 
 * Fall 2022 Topic: Algebraic Topology, reading [_Algebraic Topology_](https://pi.math.cornell.edu/~hatcher/AT/ATpage.html) by [Allen Hatcher](https://en.wikipedia.org/wiki/Allen_Hatcher). 
 
-Psychology Lab Research Assistant (Fall 2022 - Expected Winter 2023)
+Psychology Lab Research Assistant (Fall 2022 - Spring 2023)
 ------
 I am currently a research assistant of [Zili Lab at UCLA](https://zililab.psych.ucla.edu/), working on a research project related to [motion perception](https://zililab.psych.ucla.edu/research/shape-from-motion/). 
