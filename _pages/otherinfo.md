@@ -100,3 +100,4 @@ Others
 * [All things Linguistic](https://allthingslinguistic.com/post/612521255509393408/a-very-long-list-of-linguistics-youtube-channels)
 * [Scorigami](https://nflscorigami.com/)
 * [Conway's Game of Life](https://playgameoflife.com/)
+* [Ken Ribet’s love note from Serge Lang](https://mathbabe.org/2012/01/03/ken-ribets-love-note-from-serge-lang/)
