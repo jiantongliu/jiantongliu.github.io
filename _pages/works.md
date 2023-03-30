@@ -33,3 +33,4 @@ Preprints and Publications
 * Internal Report
   * _A Compartmental Model for the Dynamics of Gang Embeddedness and Youth Delinquency_ (with Antonia Fabian, Haoyang Lyu, Thien Tran, and Haley Xiaohe Zhang), August 2021.
   * _Experimental Design on Effect of Video Games on Visual Learning_, December 2022. [<a href = "../files/Jiantong_Liu_Psychology_196B_Project_Report_F2022.pdf">Report</a>]
+  * _Calculating Perceived Height of the Stereokinetic Cylinder based on Monocular Linear Perspective and Binocular Disparity_, March 2023.
