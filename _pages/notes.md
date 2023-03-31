@@ -25,6 +25,7 @@ Lecture Notes
 
 
 * MATH 134/135/136 (Chaos and Differential Equations)
+  * This is a series in differential equations, taught by [Dr. Jiajun Tong](http://faculty.bicmr.pku.edu.cn/~tongj/) (134, 135) and [Professor Marcus Roper](https://www.marcusroper.org/) (136). 
 
 * MATH 191 (Category Theory)
   * This is an undergrauate Honors seminar couse I took in Spring 2021, taught by Dr. Jonathan Rubin. The course covered the entire [_Category Theory in Context_](https://math.jhu.edu/~eriehl/context.pdf) book by Emily Riehl.
