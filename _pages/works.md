@@ -30,7 +30,7 @@ Preprints and Publications
 * Preprint
   * _Bounds in Simple Hexagonal Lattice and Classification of $11$-stick Knots_ (joint work with Yueheng Bao, Ari Benveniste, Ansel Goh, and Ethan Sherman, supervised by Professor Marion Campisi and Nicholas Cazet), November 2022. https://doi.org/10.48550/arXiv.2211.00687. [[Preprint](https://arxiv.org/abs/2211.00687)]
 
-* Internal Report
+* Report
   * _A Compartmental Model for the Dynamics of Gang Embeddedness and Youth Delinquency_ (with Antonia Fabian, Haoyang Lyu, Thien Tran, and Haley Xiaohe Zhang), August 2021.
   * _Experimental Design on Effect of Video Games on Visual Learning_, December 2022. [<a href = "../files/Jiantong_Liu_Psychology_196B_Project_Report_F2022.pdf">Report</a>]
   * _Calculating Perceived Height of the Stereokinetic Cylinder based on Monocular Linear Perspective and Binocular Disparity_, March 2023.
