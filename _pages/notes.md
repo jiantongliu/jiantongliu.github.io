@@ -56,7 +56,7 @@ Lecture Notes
 * MATH 229A (Lie Groups and Lie Algebras)
 
 * MATH 290C (Participating Seminar: Current Literature in Algebra)
-  * <a href = "../files/Winter_2023_Algebra_Seminar.pdf">Winter 2023 Seminar Notes</a>, on semisimple and reductive groups. 
+  * <a href = "../files/Winter_2023_290C_Notes.pdf">Winter 2023 Seminar Notes</a>, on semisimple and reductive groups. 
   * Spring 2023 Seminar: $\infty$-category theory. Placeholder for notes. 
 
 * UCLA Algebra Seminar 
