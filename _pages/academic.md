@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Teaching and Research"
-permalink: /academic/
+title: "My Teaching and Research Experiences as an Undergraduate"
+permalink: /ugradacademic/
 author_profile: true
 redirect_from:
-  - /academic
-  - /academic.html
+  - /ugradacademic
+  - /ugradacademic.html
 ---
 
 {% include base_path %}
