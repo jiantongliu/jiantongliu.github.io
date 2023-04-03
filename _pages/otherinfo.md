@@ -15,7 +15,7 @@ Undergraduate Years
 
 You can find 
 * a list of teaching and research experience I had [here](https://jiantongliu.github.io/ugradacademic.html), and 
-* my courselist (at UCLA( [here](https://jiantongliu.github.io/coursework.html). 
+* my courselist (at UCLA) [here](https://jiantongliu.github.io/coursework.html). 
 
 
 Volunteering
