@@ -49,6 +49,7 @@ Useful Course Materials
 * [The HoTTest Summer School](https://www.uwo.ca/math/faculty/kapulkin/seminars/hottest_summer_school_2022.html)
 * [Richard Borcherds's Youtube Channel](https://www.youtube.com/channel/UCIyDqfi_cbkp-RU20aBF-MQ)
 * [Billy Woods' Videos on Algebraic Number Theory](https://www.youtube.com/playlist?list=PLSibAQEfLnTwq2-zCB-t9v2WvnnVKd0wn)
+* [Kerodon](https://kerodon.net/)
 
 Tools
 ------
