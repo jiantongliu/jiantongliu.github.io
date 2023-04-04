@@ -12,9 +12,7 @@ Hello there! My name is Jiantong Liu and I am a fourth-year student at UCLA, stu
 
 General Research Interest
 ------
-As a double major, my research interest is in mathematics and I am thinking of pursuing a Ph.D. program in mathematics after graduation. My interest includes:
-* Algebra: Algebraic Geometry, Algebraic Topology, Category Theory, Algebraic Number Theory, and Homotopy Theory. 
-* Partial Differential Equations, Dynamical Systems, and Chaos. 
+As a double major, my research interest is in mathematics and I am thinking of pursuing a Ph.D. program in mathematics after graduation. I am mostly interested in abstract nonsense like algebraic topology, category theory, and homotopy theory. I am also interested in PDEs and dynamics, as well as mathematical logic like proof theory and homotopy type theory.  
 
 Education
 ------
