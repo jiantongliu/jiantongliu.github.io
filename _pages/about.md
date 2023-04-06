@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello there! My name is Jiantong Liu and I am a fourth-year student at UCLA, studying pure math and cognitive science. I am an incoming Ph.D. student at UIUC. 
+Hello there! My name is Jiantong Liu and I am a fourth-year student at UCLA, studying pure math and cognitive science. I am be a Ph.D. student at UIUC starting Fall 2023. 
 
 General Research Interest
 ------
