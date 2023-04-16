@@ -14,7 +14,7 @@ Here is a list of courses I took to fulfill major requirements at UCLA. A list o
 
 \*: Graduate-level Courses
 
-* Spring 2023 (Planned)
+* Spring 2023
   * MATH 210C\* (Graduate Algebra, Part 3)
   * MATH 214B\* (Algebraic Geometry, Part 2)
   * MATH 225C\* (Algebraic Topology)
