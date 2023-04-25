@@ -98,7 +98,10 @@ Others
   * [Hermann Weyl's speech at Emmy Noether's funeral](https://mathshistory.st-andrews.ac.uk/Extras/Weyl_Noether/)
 * <a href="http://math.jhu.edu/~savitt/GTM.html">The Springer GTM Test</a>
 * [The proof is trivial!](http://www.theproofistrivial.com/)
-* [Mathematics Genealogy Project](https://www.genealogy.math.ndsu.nodak.edu/index.php)
+* [Mathematics Genealogy Project](https://www.genealogy.math.ndsu.nodak.edu/index.php), a few profiles I helped filling out: 
+  * [Edward Frenkel](https://www.mathgenealogy.org/id.php?id=18760)
+  * [Mason Osborne](https://www.mathgenealogy.org/id.php?id=278889)
+  * [Teruhisa Matsusaka](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=6476)
 * [Posters by Anatoly Fomenko](https://chronologia.org/en/math_impressions/images.html)
 * [Natural Number Game](https://www.ma.imperial.ac.uk/~buzzard/xena/natural_number_game/)
 * [Proof Techniques](https://mfleck.cs.illinois.edu/proof.html)
@@ -110,3 +113,6 @@ Others
 * [Scorigami](https://nflscorigami.com/)
 * [Conway's Game of Life](https://playgameoflife.com/)
 * [Ken Ribet’s love note from Serge Lang](https://mathbabe.org/2012/01/03/ken-ribets-love-note-from-serge-lang/)
+* Snake-fighting
+  * [_FAQ: The "Snake Fight" Portion of Your Thesis Defense_](https://www.mcsweeneys.net/articles/faq-the-snake-fight-portion-of-your-thesis-defense) by Luke Burns
+  * [_RE: Thesis defense issue_ by kalirush](https://archiveofourown.org/works/28299630), a transformative work based on the work above. 
