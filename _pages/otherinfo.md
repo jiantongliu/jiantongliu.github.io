@@ -88,6 +88,7 @@ A Few MathOverflow/StackExchange Posts
 * ["Pick up a homological algebra book and prove all of the theorems yourself" (exercise from Lang's _Algebra_)](https://mathoverflow.net/questions/10897)
 * [Sheafification - Why does twice suffice?](https://mathoverflow.net/questions/95579)
 * [Has anyone found an error in an early version of Neukirch?](https://mathoverflow.net/questions/48759)
+* [Outline for reading course in algebraic topology](https://math.stackexchange.com/q/1327310/792702)
 
 Others
 ------
