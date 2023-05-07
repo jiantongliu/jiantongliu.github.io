@@ -64,6 +64,8 @@ Lecture Notes
 
 Writings
 ------
+* <a href = "../files/Hatcher_Solution_Master_Document.pdf">Solutions of Hatcher's _Algebraic Topology_</a>, ongoing project (password requried)
+
 * <a href = "../files/Hilbert_s_Nullstellensatz.pdf">On Hilbert's Nullstellensatz</a>
   * This document is a general survey that introduces different concepts built up upon rings, including ideals, domains, and a little bit of algebraic geometry, so that we can make our way to (various statements of) Hilbert's Nullstellensatz. 
 
