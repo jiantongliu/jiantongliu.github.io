@@ -62,7 +62,7 @@ Lecture Notes
 * UCLA Algebra Seminar 
   * Spring 2023 Seminar: geometric Langlands program. Placeholder for notes. 
 
-Writings
+Expository Writings
 ------
 * <a href = "../files/Hatcher_Solution_Master_Document.pdf">Solutions of Hatcher's _Algebraic Topology_</a>, ongoing project (password requried)
 
@@ -75,3 +75,23 @@ Writings
 * <a href = "../files/132H_Revision.pdf">Revision Notes for Honors Complex Analysis</a>
 
 * <a href = "../files/164_Revision.pdf">Revision Notes for Optimization</a>
+
+* _A Compartmental Model for the Dynamics of Gang Embeddedness and Youth Delinquency_ (with Antonia Fabian, Haoyang Lyu, Thien Tran, and Haley Xiaohe Zhang), August 2021.
+
+* _Experimental Design on Effect of Video Games on Visual Learning_, December 2022. [<a href = "../files/Jiantong_Liu_Psychology_196B_Project_Report_F2022.pdf">Report</a>]
+
+* _Calculating Perceived Height of the Stereokinetic Cylinder based on Monocular Linear Perspective and Binocular Disparity_, March 2023.
+
+Talks
+------
+* AMS Special Session at Joint Mathematics Meetings. _Bounds in Simple Hexagonal Lattice and Classification of $11$-stick Knots._ Jan 2023, Boston, Massachusetts. [[Abstract](https://meetings.ams.org/math/jmm2023/meetingapp.cgi/Paper/17903)] [<a href = "../files/JMM_Knot_Theory_Presentation_Slides.pdf">Slides</a>]
+
+* Polymath Jr Program Colloquium. _Bounds on Simple Hexagonal Lattice._ Aug 2022, Los Angeles, California. [<a href = "../files/Jiantong_Liu_Lattice_Number_Presentation.pdf">Slides</a>]
+
+* Directed Reading Program Colloquium. _Enriched Categories and Applications_. Mar 2022, Los Angeles, California. [<a href = "../files/Presentation_on_Enriched_Category.pdf">Slides</a>]
+
+* UCLA CAM REU Colloquium. _Final Report on Gang Reduction and Youth Development Program._ Aug 2021, Los Angeles, California.
+
+I also had a few informal talks such as 
+
+* A presentation on the paper _Stick numbers in the simple hexagonal lattice_ by Bailey et al. on July 9, 2022, as a literature review presentation at Polymath Jr program 2022. [<a href = "../files/Presentation_on_Stick_Numbers.pdf">Slides</a>]
