@@ -49,7 +49,7 @@ Lecture Notes
   * This is the algebraic geometry series I am taking from Fall 2022 to Spring 2023, taught by Dr. Chengxi Wang (215A), Professor Burt Totaro (214A), and Dr. Joaquín Moraga (214B). 
   * <a href = "../files/215A_Notes_Revised.pdf">215A Course Notes</a>
   * <a href = "../files/214A_Notes.pdf">214A Course Notes</a>
-  * <a href = "../files/214B_Notes.pdf">214B Course Notes</a>, updated to Lecture 15
+  * <a href = "../files/214B_Notes.pdf">214B Course Notes</a>
 
 * MATH 225C (Algebraic Topology)
 
@@ -58,9 +58,6 @@ Lecture Notes
 * MATH 290C (Participating Seminar: Current Literature in Algebra)
   * <a href = "../files/Winter_2023_290C_Notes.pdf">Winter 2023 Seminar Notes</a>, on semisimple and reductive groups. 
   * Spring 2023 Seminar: $\infty$-category theory. Placeholder for notes. 
-
-* UCLA Algebra Seminar 
-  * Spring 2023 Seminar: geometric Langlands program. Placeholder for notes. 
 
 Expository Writings
 ------
