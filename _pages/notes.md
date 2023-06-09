@@ -54,13 +54,17 @@ Lecture Notes
 * MATH 225C (Algebraic Topology)
 
 * MATH 229A (Lie Groups and Lie Algebras)
+  * This is a course in Lie theory taught by [Professor Raphaël Rouquier](https://www.math.ucla.edu/~rouquier/).
+  * <a href = "../files/229A_Notes.pdf">229A Course Notes</a>
 
 * MATH 290C (Participating Seminar: Current Literature in Algebra)
   * <a href = "../files/Winter_2023_290C_Notes.pdf">Winter 2023 Seminar Notes</a>, on semisimple and reductive groups. 
-  * Spring 2023 Seminar: $\infty$-category theory. Placeholder for notes. 
+  * <a href = "../files/Spring_2023_Infinity_Category_Seminar.pdf">Spring 2023 Seminar Notes</a>, on $\infty$-category theory. 
 
 Expository Writings
 ------
+* <a href = "../files/Classification_of_Root_Systems.pdf">Classification of Root Systems</a>
+
 * <a href = "../files/Hatcher_Solution_Master_Document.pdf">Solutions of Hatcher's _Algebraic Topology_</a>, ongoing project (password requried)
 
 * <a href = "../files/Hilbert_s_Nullstellensatz.pdf">On Hilbert's Nullstellensatz</a>
