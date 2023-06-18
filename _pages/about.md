@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello there! My name is Jiantong Liu and I am a fourth-year student at UCLA, studying pure math and cognitive science. I will be a Ph.D. student in mathematics at UIUC starting Fall 2023. [Here](https://jiantongliu.github.io/files/Jiantong_Liu_CV_2023.pdf) is a copy of my CV. 
+Hello there! My name is Jiantong Liu and I am a fourth-year student at UCLA, studying pure math and cognitive science. I will be a Ph.D. student in mathematics at UIUC starting in Fall 2023. [Here](https://jiantongliu.github.io/files/Jiantong_Liu_CV_2023.pdf) is a copy of my CV. 
 
 General Research Interest
 ------
@@ -16,5 +16,5 @@ As of right now, I am mostly interested in abstract nonsense like algebraic topo
 
 Education
 ------
-* B.S. in Mathematics (Honors), UCLA, 2023 (expected)
-* B.S. in Cognitive Science, with Specialization in Computing, UCLA, 2023 (expected)
+* B.S. in Mathematics (Highest Departmental Honors), UCLA, 2023
+* B.S. in Cognitive Science, with Specialization in Computing, UCLA, 2023
