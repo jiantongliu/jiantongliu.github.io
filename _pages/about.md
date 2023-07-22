@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello there! My name is Jiantong Liu and I am a fourth-year student at University of California, Los Angeles (UCLA), studying pure math and cognitive science. I will be a Ph.D. student in mathematics at UIUC starting in Fall 2023. [Here](https://jiantongliu.github.io/files/Jiantong_Liu_CV_2023.pdf) is a copy of my CV. 
+Hello there! My name is Jiantong Liu and I am an incoming first-year Ph.D. student at University of Illinois Urbana-Champaign (UIUC). Before that, I finished my undergraduate studies at University of California, Los Angeles (UCLA), studying pure math and cognitive science. [Here](https://jiantongliu.github.io/files/Jiantong_Liu_CV_2023.pdf) is a copy of my CV. 
 
 General Research Interest
 ------
