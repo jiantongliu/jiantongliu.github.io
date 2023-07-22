@@ -31,7 +31,6 @@ Lecture Notes
 * MATH 191 (Category Theory)
   * This is an undergrauate Honors seminar couse I took in Spring 2021, taught by Dr. Jonathan Rubin. The course covered the entire [_Category Theory in Context_](https://math.jhu.edu/~eriehl/context.pdf) book by Emily Riehl.
 
-
 * MATH 205A (Algebraic Number Theory)
   * This is the first course in the graduate number theory course series. I took this course in Fall 2022 with [Professor Romyar Sharifi](https://www.math.ucla.edu/~sharifi/). The recommended text for this course is [Professor's lecture notes](https://www.math.ucla.edu/~sharifi/algnum.pdf). 
   * <a href = "../files/205A_Notes.pdf">Course Notes</a>
@@ -63,23 +62,15 @@ Lecture Notes
 
 Expository Writings
 ------
-* <a href = "../files/Classification_of_Root_Systems.pdf">Classification of Root Systems</a>
+* My revision notes for Comprehensive Exams at UIUC. (To be added.)
+
+* <a href = "../files/Classification_of_Root_Systems.pdf">Classification of Root Systems</a>, this is the final project I wrote for MATH 229A (Lie Groups and Lie Algebra) at UCLA. 
 
 * <a href = "../files/Hatcher_Solution_Master_Document.pdf">Solutions of Hatcher's _Algebraic Topology_</a>, ongoing project (password requried)
 
-* <a href = "../files/Hilbert_s_Nullstellensatz.pdf">On Hilbert's Nullstellensatz</a>
-  * This document is a general survey that introduces different concepts built up upon rings, including ideals, domains, and a little bit of algebraic geometry, so that we can make our way to (various statements of) Hilbert's Nullstellensatz. 
-
-* <a href = "../files/On_Calculation_of_Class_Numbers.pdf">On Calculation of Class Numbers</a>
-  * In this document, we discuss the relevant concepts and techniques involved in calculating the class number of a number field, as well as give a few examples of such calculations. 
-
-* <a href = "../files/132H_Revision.pdf">Revision Notes for Honors Complex Analysis</a>
-
-* <a href = "../files/164_Revision.pdf">Revision Notes for Optimization</a>
-
 * _A Compartmental Model for the Dynamics of Gang Embeddedness and Youth Delinquency_ (with Antonia Fabian, Haoyang Lyu, Thien Tran, and Haley Xiaohe Zhang), August 2021.
 
-* _Experimental Design on Effect of Video Games on Visual Learning_, December 2022. [<a href = "../files/Jiantong_Liu_Psychology_196B_Project_Report_F2022.pdf">Report</a>]
+* _Experimental Design on Effect of Video Games on Visual Learning_, December 2022. 
 
 * _Calculating Perceived Height of the Stereokinetic Cylinder based on Monocular Linear Perspective and Binocular Disparity_, March 2023.
 
@@ -92,7 +83,3 @@ Talks
 * Directed Reading Program Colloquium. _Enriched Categories and Applications_. Mar 2022, Los Angeles, California. [<a href = "../files/Presentation_on_Enriched_Category.pdf">Slides</a>]
 
 * UCLA CAM REU Colloquium. _Final Report on Gang Reduction and Youth Development Program._ Aug 2021, Los Angeles, California.
-
-I also had a few informal talks such as 
-
-* A presentation on the paper _Stick numbers in the simple hexagonal lattice_ by Bailey et al. on July 9, 2022, as a literature review presentation at Polymath Jr program 2022. [<a href = "../files/Presentation_on_Stick_Numbers.pdf">Slides</a>]
