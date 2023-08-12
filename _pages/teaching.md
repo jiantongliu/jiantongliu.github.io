@@ -11,12 +11,12 @@ redirect_from:
 {% include base_path %}
 
 <table>
-    <thead>
+    <thead style="text-align:center">
         <tr style="text-align:center">
             <th colspan=4>At UCLA</th>
         </tr>
     </thead>
-  <thead>
+  <thead style="text-align:center">
         <tr>
             <th style="text-align:center">Year</th>
             <th style="text-align:center">Term</th>
