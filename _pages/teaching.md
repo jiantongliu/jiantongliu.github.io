@@ -11,7 +11,7 @@ redirect_from:
 {% include base_path %}
 
 <table>
-    <thead">
+    <thead>
         <tr>
             <th colspan=4 style="text-align:center">At UCLA</th>
         </tr>
