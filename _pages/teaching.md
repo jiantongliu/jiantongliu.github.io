@@ -71,7 +71,7 @@ redirect_from:
           </tr>
         <tr>
                   <td></td>
-                  <td>Spring</td>
+                  <td>Summer</td>
                   <td>115A</td>
         </tr>
     </tbody>
