@@ -88,10 +88,12 @@ redirect_from:
             <th>Teaching</th>
         </tr>
     </thead>
+    <tbody style="text-align:center">
     <tr>
             <td>2023</td>
             <td>Fall</td>
             <td>241 (Calculus III)</td>
             <td></td>
     </tr>
+    </tbody>
 </table>
