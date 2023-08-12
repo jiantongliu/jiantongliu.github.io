@@ -11,17 +11,17 @@ redirect_from:
 {% include base_path %}
 
 <table>
-    <thead style="text-align:center">
-        <tr>
+    <thead>
+        <tr style="text-align:center">
             <th colspan=4>At UCLA</th>
         </tr>
     </thead>
-  <thead style="text-align:center">
+  <thead>
         <tr>
-            <th>Year</th>
-            <th>Term</th>
-            <th>Grading</th>
-            <th>Teaching</th>
+            <th style="text-align:center">Year</th>
+            <th style="text-align:center">Term</th>
+            <th style="text-align:center">Grading</th>
+            <th style="text-align:center">Teaching</th>
         </tr>
     </thead>
     <tbody style="text-align:center">
@@ -76,11 +76,11 @@ redirect_from:
         </tr>
     </tbody>
     <thead>
-        <tr>
+        <tr style="text-align:center">
             <th colspan=4>At UIUC</th>
         </tr>
     </thead>
-    <thead>
+    <thead style="text-align:center">
       <tr>
             <th>Year</th>
             <th>Term</th>
