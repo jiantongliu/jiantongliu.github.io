@@ -79,6 +79,8 @@ redirect_from:
         <tr>
             <th colspan=4>At UIUC</th>
         </tr>
+    </thead>
+    <thead>
       <tr>
             <th>Year</th>
             <th>Term</th>
