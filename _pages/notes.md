@@ -106,16 +106,34 @@ Here is a list of my notes and writings related to my coursework. You can also f
     </thead>
     <tbody style="text-align:center">
         <tr>
+            <td>Commutative Algebra (502)</td>
+            <td>Fall 2023</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Differentiable Manifolds, Part I (518)</td>
+            <td>Fall 2023</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Algebraic Topology, Part II (526)</td>
+            <td>Fall 2023</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
             <td>Group Cohomology (595)</td>
             <td>Fall 2023</td>
             <td>Vesna Stojanoska</td>
             <td>N/A</td>
         </tr>
         <tr>
-            <td>Algebraic Topology, Part II (526)</td>
+            <td>Open Problems in Geometric Group Theory (595)</td>
             <td>Fall 2023</td>
-            <td>Vesna Stojanoska</td>
-            <td>Hatcher, Algebraic Topology</td>
+            <td>Igor Mineyev</td>
+            <td>N/A</td>
         </tr>
     </tbody>
 </table>
