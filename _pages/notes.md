@@ -34,7 +34,13 @@ Here is a list of my notes and writings related to my coursework. You can also f
             <td><a href = "../files/131H_Notes.pdf">Honors Analysis (131AH/BH)</a></td>
             <td>Winter & Spring 2021</td>
             <td><a href="https://www.math.ucla.edu/~visan/">Monica Vișan</a></td>
-            <td>Rudin, Principles of mathematical analysis.</td>
+            <td>Rudin, Principles of Mathematical Analysis.</td>
+        </tr>
+        <tr>
+            <td>Category Theory (191)</a></td>
+            <td>Spring 2021</td>
+            <td>Jonathan Rubin</td>
+            <td>Riehl, Category Theory in Context.</td>
         </tr>
         <tr>
             <td><a href = "../files/205A_Notes.pdf">Algebraic Number Theory (205A)</a></td>
@@ -49,7 +55,13 @@ Here is a list of my notes and writings related to my coursework. You can also f
             <td>Lang, Algebra.</td>
         </tr>
         <tr>
-            <td><a href = "../files/212B_Notes.pdf">Tensor Triangulated Category (212B)</a></td>
+            <td>Homological Algebra (212A)</td>
+            <td>Winter 2022</td>
+            <td><a href="https://www.math.ucla.edu/~balmer/">Paul Balmer</a></td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td><a href = "../files/212B_Notes.pdf">Tensor Triangulated Geometry (212B)</a></td>
             <td>Winter 2023</td>
             <td><a href="https://www.math.ucla.edu/~balmer/">Paul Balmer</a></td>
             <td>N/A</td>
@@ -58,19 +70,19 @@ Here is a list of my notes and writings related to my coursework. You can also f
             <td><a href = "../files/215A_Notes_Revised.pdf">Commutative Algebra (215A)</a></td>
             <td>Fall 2022</td>
             <td><a href="https://sites.google.com/view/hyd6flw">Chengxi Wang</a></td>
-            <td>Atiyah & Macdonald, Introduction to Commutative Algebra</td>
+            <td>Atiyah & Macdonald, Introduction to Commutative Algebra.</td>
         </tr>
         <tr>
             <td><a href = "../files/214A_Notes.pdf">Algebraic Geometry, Part I (214A)</a></td>
             <td>Winter 2023</td>
             <td><a href="https://www.math.ucla.edu/~totaro/">Burt Totaro</a></td>
-            <td>Hartshorne, Algebraic Geometry</td>
+            <td>Hartshorne, Algebraic Geometry.</td>
         </tr>
         <tr>
             <td><a href = "../files/214B_Notes.pdf">Algebraic Geometry, Part II (214B)</a></td>
             <td>Spring 2023</td>
             <td><a href="https://www.math.ucla.edu/~jmoraga/">Joaquí­n Moraga</a></td>
-            <td>Hartshorne, Algebraic Geometry</td>
+            <td>Hartshorne, Algebraic Geometry.</td>
         </tr>
         <tr>
             <td><a href = "../files/229A_Notes.pdf">Lie Theory (229A)</a></td>
