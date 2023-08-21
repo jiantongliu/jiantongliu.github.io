@@ -7,54 +7,109 @@ redirect_from:
   - /notes
   - /notes.html
 ---
+{% include base_path %}
 
-Here is a list of my notes and writings related to my coursework. You can also find a comprehensive courselist [here](https://jiantongliu.github.io/coursework.html). 
 
 Lecture Notes
 ------
 
-{% include base_path %}
+Here is a list of my notes and writings related to my coursework. You can also find a comprehensive courselist [here](https://jiantongliu.github.io/coursework.html). 
 
-* MATH 110AH/BH/C (Honors Algebra)
+<table>
+    <thead>
+        <tr>
+            <th colspan=4 style="text-align:center">At UCLA</th>
+        </tr>
+    </thead>
+  <thead>
+        <tr>
+            <th style="text-align:center">Course</th>
+            <th style="text-align:center">Term</th>
+            <th style="text-align:center">Lecturer</th>
+            <th style="text-align:center">Textbook</th>
+        </tr>
+    </thead>
+    <tbody style="text-align:center">
+        <tr>
+            <td><a href = "../files/131H_Notes.pdf">Honors Analysis (131AH/BH)</a></td>
+            <td>Winter & Spring 2021</td>
+            <td><a href="https://www.math.ucla.edu/~visan/">Monica Vișan</a></td>
+            <td>Rudin, Principles of mathematical analysis.</td>
+        </tr>
+        <tr>
+            <td><a href = "../files/205A_Notes.pdf">Algebraic Number Theory (205A)</a></td>
+            <td>Fall 2022</td>
+            <td><a href="https://www.math.ucla.edu/~sharifi/">Romyar Sharifi</a></td>
+            <td><a href="https://www.math.ucla.edu/~sharifi/algnum.pdf">Lecture Notes</a></td>
+        </tr>
+        <tr>
+            <td><a href = "../files/Graduate_Algebra_Book.pdf">Graduate Algebra (210A/B/C)</a></td>
+            <td>Fall 2021, Winter 2023, Spring 2023</td>
+            <td><a href="https://www.math.ucla.edu/~merkurev/">Alexander Merkurjev</a></td>
+            <td>Lang, Algebra.</td>
+        </tr>
+        <tr>
+            <td><a href = "../files/212B_Notes.pdf">Tensor Triangulated Category (212B)</a></td>
+            <td>Winter 2023</td>
+            <td><a href="https://www.math.ucla.edu/~balmer/">Paul Balmer</a></td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td><a href = "../files/215A_Notes_Revised.pdf">Commutative Algebra (215A)</a></td>
+            <td>Fall 2022</td>
+            <td><a href="https://sites.google.com/view/hyd6flw">Chengxi Wang</a></td>
+            <td>Atiyah & Macdonald, Introduction to Commutative Algebra</td>
+        </tr>
+        <tr>
+            <td><a href = "../files/214A_Notes.pdf">Algebraic Geometry, Part I (214A)</a></td>
+            <td>Winter 2023</td>
+            <td><a href="https://www.math.ucla.edu/~totaro/">Burt Totaro</a></td>
+            <td>Hartshorne, Algebraic Geometry</td>
+        </tr>
+        <tr>
+            <td><a href = "../files/214B_Notes.pdf">Algebraic Geometry, Part II (214B)</a></td>
+            <td>Spring 2023</td>
+            <td><a href="https://www.math.ucla.edu/~jmoraga/">Joaquí­n Moraga</a></td>
+            <td>Hartshorne, Algebraic Geometry</td>
+        </tr>
+        <tr>
+            <td><a href = "../files/229A_Notes.pdf">Lie Theory (229A)</a></td>
+            <td>Spring 2023</td>
+            <td><a href="https://www.math.ucla.edu/~rouquier/">Raphaël Rouquier</a></td>
+            <td>N/A</td>
+        </tr>
+    </tbody>
+    <thead>
+        <tr>
+            <th colspan=4 style="text-align:center">At UIUC</th>
+        </tr>
+    </thead>
+    <thead>
+        <tr>
+            <th style="text-align:center">Course</th>
+            <th style="text-align:center">Term</th>
+            <th style="text-align:center">Lecturer</th>
+            <th style="text-align:center">Textbook</th>
+        </tr>
+    </thead>
+    <tbody style="text-align:center">
+        <tr>
+            <td>Group Cohomology (595)</td>
+            <td>Fall 2023</td>
+            <td>Vesna Stojanoska</td>
+            <td>N/A</td>
+        </tr>
+        <tr>
+            <td>Algebraic Topology, Part II (526)</td>
+            <td>Fall 2023</td>
+            <td>Vesna Stojanoska</td>
+            <td>Hatcher, Algebraic Topology</td>
+        </tr>
+    </tbody>
+</table>
 
-* MATH 115AH/B (Honors Linear Algebra)
-
-* MATH 131AH/BH (Honors Analysis)
-  * This is the undergraduate Honors analysis series I took in Winter and Spring 2021, taught by [Professor Monica Vișan](https://www.math.ucla.edu/~visan/). The core textbook for this series is Baby Rudin. 
-  * <a href = "../files/131H_Notes.pdf">Course Notes</a>
-
-
-* MATH 134/135/136 (Chaos and Differential Equations)
-  * This is a series in differential equations, taught by [Dr. Jiajun Tong](http://faculty.bicmr.pku.edu.cn/~tongj/) (134, 135) and [Professor Marcus Roper](https://www.marcusroper.org/) (136). 
-  * <a href = "../files/Differential_Equations_Notes.pdf">Course Notes (under construction)</a>
-
-* MATH 191 (Category Theory)
-  * This is an undergrauate Honors seminar couse I took in Spring 2021, taught by Dr. Jonathan Rubin. The course covered the entire [_Category Theory in Context_](https://math.jhu.edu/~eriehl/context.pdf) book by Emily Riehl.
-
-* MATH 205A (Algebraic Number Theory)
-  * This is the first course in the graduate number theory course series. I took this course in Fall 2022 with [Professor Romyar Sharifi](https://www.math.ucla.edu/~sharifi/). The recommended text for this course is [Professor's lecture notes](https://www.math.ucla.edu/~sharifi/algnum.pdf). 
-  * <a href = "../files/205A_Notes.pdf">Course Notes</a>
-
-* MATH 210A/B/C (Graduate Algebra)
-  * This is the graduate algebra series I took (and will be taking) in Fall 2021, Winter 2023, and Spring 2023, taught by [Professor Alexander Merkurjev](https://www.math.ucla.edu/~merkurev/). 
-  * <a href = "../files/Graduate_Algebra_Book.pdf">Course Notes and Other Related Materials</a> (under construction)
-
-* MATH 212A/B (Homological Algebra)
-  * This is the homological algebra series I took in Winter 2022 and Winter 2023, taught by [Professor Paul Balmer](https://www.math.ucla.edu/~balmer/).
-  * Lecture notes of 212A is still under preparation. 
-  * <a href = "../files/212B_Notes.pdf">212B Course Notes</a>
-
-* MATH 215A/214A/214B (Commutative Algebra and Algebraic Geometry)
-  * This is the algebraic geometry series I am taking from Fall 2022 to Spring 2023, taught by Dr. Chengxi Wang (215A), Professor Burt Totaro (214A), and Dr. Joaquín Moraga (214B). 
-  * <a href = "../files/215A_Notes_Revised.pdf">215A Course Notes</a>
-  * <a href = "../files/214A_Notes.pdf">214A Course Notes</a>
-  * <a href = "../files/214B_Notes.pdf">214B Course Notes</a>
-
-* MATH 225C (Algebraic Topology)
-
-* MATH 229A (Lie Groups and Lie Algebras)
-  * This is a course in Lie theory taught by [Professor Raphaël Rouquier](https://www.math.ucla.edu/~rouquier/).
-  * <a href = "../files/229A_Notes.pdf">229A Course Notes</a>
+Seminar Notes
+------
 
 * MATH 290C (Participating Seminar: Current Literature in Algebra)
   * <a href = "../files/Winter_2023_290C_Notes.pdf">Winter 2023 Seminar Notes</a>, on semisimple and reductive groups. 
