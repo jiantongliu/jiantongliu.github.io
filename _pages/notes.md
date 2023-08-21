@@ -85,6 +85,12 @@ Here is a list of my notes and writings related to my coursework. You can also f
             <td>Hartshorne, Algebraic Geometry.</td>
         </tr>
         <tr>
+            <td>Algebraic Topology (225C)</td>
+            <td>Spring 2023</td>
+            <td><a href="https://math.ucla.edu/~sucharit/">Sucharit Sarkar</a></td>
+            <td>Hatcher, Algebraic Topology.</td>
+        </tr>
+        <tr>
             <td><a href = "../files/229A_Notes.pdf">Lie Theory (229A)</a></td>
             <td>Spring 2023</td>
             <td><a href="https://www.math.ucla.edu/~rouquier/">Raphaël Rouquier</a></td>
@@ -121,7 +127,7 @@ Here is a list of my notes and writings related to my coursework. You can also f
             <td>Algebraic Topology, Part II (526)</td>
             <td>Fall 2023</td>
             <td>Vesna Stojanoska</td>
-            <td>Hatcher, Algebraic Topology</td>
+            <td>Hatcher, Algebraic Topology.</td>
         </tr>
         <tr>
             <td>Group Cohomology (595)</td>
