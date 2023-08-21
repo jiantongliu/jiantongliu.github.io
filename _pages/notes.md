@@ -25,7 +25,7 @@ Here is a list of my notes and writings related to my coursework. You can also f
         <tr>
             <th style="text-align:center">Course</th>
             <th style="text-align:center">Term</th>
-            <th style="text-align:center">Lecturer</th>
+            <th style="text-align:center">Instructor</th>
             <th style="text-align:center">Textbook</th>
         </tr>
     </thead>
@@ -100,7 +100,7 @@ Here is a list of my notes and writings related to my coursework. You can also f
         <tr>
             <th style="text-align:center">Course</th>
             <th style="text-align:center">Term</th>
-            <th style="text-align:center">Lecturer</th>
+            <th style="text-align:center">Instructor</th>
             <th style="text-align:center">Textbook</th>
         </tr>
     </thead>
@@ -108,20 +108,20 @@ Here is a list of my notes and writings related to my coursework. You can also f
         <tr>
             <td>Commutative Algebra (502)</td>
             <td>Fall 2023</td>
-            <td></td>
+            <td>Sankar Dutta</td>
             <td></td>
         </tr>
         <tr>
             <td>Differentiable Manifolds, Part I (518)</td>
             <td>Fall 2023</td>
-            <td></td>
-            <td></td>
+            <td>Eugene Lerman</td>
+            <td>Lee, Introduction to Smooth Manifolds.</td>
         </tr>
         <tr>
             <td>Algebraic Topology, Part II (526)</td>
             <td>Fall 2023</td>
-            <td></td>
-            <td></td>
+            <td>Vesna Stojanoska</td>
+            <td>Hatcher, Algebraic Topology</td>
         </tr>
         <tr>
             <td>Group Cohomology (595)</td>
