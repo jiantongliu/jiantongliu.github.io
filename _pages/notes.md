@@ -124,19 +124,19 @@ Here is a list of my notes and writings related to my coursework. You can also f
             <td>Lee, Introduction to Smooth Manifolds.</td>
         </tr>
         <tr>
-            <td>Algebraic Topology, Part II (526)</td>
+            <td><a href = "../files/526_Notes.pdf">Algebraic Topology, Part II (526)</a></td>
             <td>Fall 2023</td>
             <td>Vesna Stojanoska</td>
             <td>Hatcher, Algebraic Topology.</td>
         </tr>
         <tr>
-            <td>Group Cohomology (595)</td>
+            <td><a href = "../files/595_GC_Notes.pdf">Group Cohomology (595)</a></td>
             <td>Fall 2023</td>
             <td>Vesna Stojanoska</td>
             <td>N/A</td>
         </tr>
         <tr>
-            <td>Open Problems in Geometric Group Theory (595)</td>
+            <td><a href = "../files/595_GGT_Notes.pdf">Open Problems in Geometric Group Theory (595)</a></td>
             <td>Fall 2023</td>
             <td>Igor Mineyev</td>
             <td>N/A</td>
