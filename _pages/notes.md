@@ -133,12 +133,6 @@ Lecture Notes
             <td>Vesna Stojanoska</td>
             <td>N/A</td>
         </tr>
-        <tr>
-            <td><a href = "../files/595_GGT_Notes.pdf">Open Problems in Geometric Group Theory (595)</a></td>
-            <td>Fall 2023</td>
-            <td>Igor Mineyev</td>
-            <td>N/A</td>
-        </tr>
     </tbody>
 </table>
 
