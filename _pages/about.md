@@ -12,7 +12,7 @@ Hello there! My name is Jiantong Liu and I am a first-year Ph.D. student at Univ
 
 General Research Interest
 ------
-Currently, I am interested in abstract nonsense like algebraic topology, category theory, and homotopy theory. I am also interested in PDEs and dynamics, as well as mathematical logic like proof theory and homotopy type theory.  
+Currently, I am interested in abstract nonsense like algebraic geometry, algebraic topology, and category theory. I am also interested in PDEs and dynamics, as well as mathematical logic like proof theory and homotopy type theory.  
 
 Education
 ------
