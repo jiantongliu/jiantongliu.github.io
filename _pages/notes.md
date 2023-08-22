@@ -155,13 +155,12 @@ Seminar Notes
     </thead>
     <tbody style="text-align:center">
         <tr>
-            <td>Algebra Seminar</td>
+            <td rowspan=2>Algebra</td>
             <td>Winter 2023</td>
             <td><a href="https://www.math.ucla.edu/~merkurev/">Alexander Merkurjev</a></td>
             <td><a href = "../files/Winter_2023_290C_Notes.pdf">Semisimple and Reductive Groups</a></td>
         </tr>
         <tr>
-            <td>Algebra Seminar</td>
             <td>Spring 2023</td>
             <td><a href="https://www.math.ucla.edu/~balmer/">Paul Balmer</a></td>
             <td><a href = "../files/Spring_2023_Infinity_Category_Seminar.pdf">Infinity-Category Theory</a></td>
@@ -181,6 +180,24 @@ Seminar Notes
         </tr>
     </thead>
     <tbody style="text-align:center">
+        <tr>
+            <td>Algebraic Geometry</td>
+            <td>Fall 2023</td>
+            <td>Sheldon Katz</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Algebraic Geometry & Commutative Algebra</td>
+            <td>Fall 2023</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Homotopy Theory</td>
+            <td>Fall 2023</td>
+            <td></td>
+            <td></td>
+        </tr>
     </tbody>
 </table>
 
