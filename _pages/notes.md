@@ -48,7 +48,7 @@ Lecture Notes
         </tr>
         <tr>
             <td><a href = "../files/Graduate_Algebra_Book.pdf">Graduate Algebra (210A/B/C)</a></td>
-            <td>Fall 2021, Winter 2023, Spring 2023</td>
+            <td>Fall 2021, Winter & Spring 2023</td>
             <td><a href="https://www.math.ucla.edu/~merkurev/">Alexander Merkurjev</a></td>
             <td>Lang, Algebra.</td>
         </tr>
