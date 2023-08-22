@@ -121,7 +121,7 @@ Here is a list of my notes and writings related to my coursework. You can also f
             <td>Differentiable Manifolds, Part I (518)</td>
             <td>Fall 2023</td>
             <td>Eugene Lerman</td>
-            <td>Lee, Introduction to Smooth Manifolds.</td>
+            <td>Lee, Intro to Smooth Manifolds.</td>
         </tr>
         <tr>
             <td><a href = "../files/526_Notes.pdf">Algebraic Topology, Part II (526)</a></td>
