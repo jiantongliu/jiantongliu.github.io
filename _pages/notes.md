@@ -37,7 +37,7 @@ Here is a list of my notes and writings related to my coursework. You can also f
             <td>Rudin, Principles of Mathematical Analysis.</td>
         </tr>
         <tr>
-            <td>Category Theory (191)</td>
+            <td><a href = "../files/191_Notes.pdf">Category Theory (191)</a></td>
             <td>Spring 2021</td>
             <td>Jonathan Rubin</td>
             <td>Riehl, Category Theory in Context.</td>
