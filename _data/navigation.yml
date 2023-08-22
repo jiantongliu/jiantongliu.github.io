@@ -3,6 +3,9 @@ main:
 
   - title: "Teaching"
     url: /teaching/
+    
+  - title: "Notes"
+    url: /notes/
 
   - title: "Other Information"
     url: /otherinfo/
