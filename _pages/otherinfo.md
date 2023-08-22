@@ -10,6 +10,11 @@ redirect_from:
 
 {% include base_path %}
 
+Recent Travels
+======
+* Nov 2023: Western Algebraic Geometry Symposium (WAGS), St. Louis, MO. 
+* Jan 2023: Joint Mathematics Meetings (JMM), Boston, MA. 
+
 Undergraduate Years
 ======
 
