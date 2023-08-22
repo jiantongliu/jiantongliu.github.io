@@ -70,7 +70,7 @@ Here is a list of my notes and writings related to my coursework. You can also f
             <td><a href = "../files/215A_Notes_Revised.pdf">Commutative Algebra (215A)</a></td>
             <td>Fall 2022</td>
             <td><a href="https://sites.google.com/view/hyd6flw">Chengxi Wang</a></td>
-            <td>Atiyah & Macdonald, Introduction to Commutative Algebra.</td>
+            <td>Atiyah & Macdonald, Intro to Commutative Algebra.</td>
         </tr>
         <tr>
             <td><a href = "../files/214A_Notes.pdf">Algebraic Geometry, Part I (214A)</a></td>
