@@ -145,9 +145,50 @@ Lecture Notes
 Seminar Notes
 ------
 
-* MATH 290C (Participating Seminar: Current Literature in Algebra)
-  * <a href = "../files/Winter_2023_290C_Notes.pdf">Winter 2023 Seminar Notes</a>, on semisimple and reductive groups. 
-  * <a href = "../files/Spring_2023_Infinity_Category_Seminar.pdf">Spring 2023 Seminar Notes</a>, on $\infty$-category theory. 
+<table>
+    <thead>
+        <tr>
+            <th colspan=4 style="text-align:center">At UCLA</th>
+        </tr>
+    </thead>
+  <thead>
+        <tr>
+            <th style="text-align:center">Area</th>
+            <th style="text-align:center">Term</th>
+            <th style="text-align:center">Faculty</th>
+            <th style="text-align:center">Topic</th>
+        </tr>
+    </thead>
+    <tbody style="text-align:center">
+        <tr>
+            <td>Algebra Seminar</td>
+            <td>Winter 2023</td>
+            <td><a href="https://www.math.ucla.edu/~merkurev/">Alexander Merkurjev</a></td>
+            <td><a href = "../files/Winter_2023_290C_Notes.pdf">Semisimple and Reductive Groups</a></td>
+        </tr>
+        <tr>
+            <td>Algebra Seminar</td>
+            <td>Spring 2023</td>
+            <td><a href="https://www.math.ucla.edu/~balmer/">Paul Balmer</a></td>
+            <td><a href = "../files/Spring_2023_Infinity_Category_Seminar.pdf">Infinity-Category Theory</a></td>
+        </tr>
+    </tbody>
+    <thead>
+        <tr>
+            <th colspan=4 style="text-align:center">At UIUC</th>
+        </tr>
+    </thead>
+    <thead>
+        <tr>
+            <th style="text-align:center">Area</th>
+            <th style="text-align:center">Term</th>
+            <th style="text-align:center">Faculty</th>
+            <th style="text-align:center">Topic</th>
+        </tr>
+    </thead>
+    <tbody style="text-align:center">
+    </tbody>
+</table>
 
 Expository Writings
 ------
