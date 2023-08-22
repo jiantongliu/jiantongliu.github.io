@@ -170,5 +170,3 @@ Talks
 * Polymath Jr Program Colloquium. _Bounds on Simple Hexagonal Lattice._ Aug 2022, Los Angeles, California. [<a href = "../files/Jiantong_Liu_Lattice_Number_Presentation.pdf">Slides</a>]
 
 * Directed Reading Program Colloquium. _Enriched Categories and Applications_. Mar 2022, Los Angeles, California. [<a href = "../files/Presentation_on_Enriched_Category.pdf">Slides</a>]
-
-* UCLA CAM REU Colloquium. _Final Report on Gang Reduction and Youth Development Program._ Aug 2021, Los Angeles, California.
