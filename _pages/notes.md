@@ -13,8 +13,6 @@ redirect_from:
 Lecture Notes
 ------
 
-Here is a list of my notes and writings related to my coursework. You can also find a comprehensive courselist [here](https://jiantongliu.github.io/coursework.html). 
-
 <table>
     <thead>
         <tr>
