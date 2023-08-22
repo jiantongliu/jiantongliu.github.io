@@ -112,10 +112,10 @@ Here is a list of my notes and writings related to my coursework. You can also f
     </thead>
     <tbody style="text-align:center">
         <tr>
-            <td>Commutative Algebra (502)</td>
+            <td><a href = "../files/502_Notes.pdf">Commutative Algebra (502)</a></td>
             <td>Fall 2023</td>
             <td>Sankar Dutta</td>
-            <td></td>
+            <td>Serre, Local Algebra.</td>
         </tr>
         <tr>
             <td>Differentiable Manifolds, Part I (518)</td>
