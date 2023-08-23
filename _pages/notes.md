@@ -29,55 +29,55 @@ Lecture Notes
     </thead>
     <tbody style="text-align:center">
         <tr>
-            <td><a href = "../files/131H_Notes.pdf">Honors Analysis (131AH/BH)</a></td>
+            <td><a href = "../files/131H_Notes.pdf">Honors Analysis</a> (131AH/BH)</td>
             <td>Winter & Spring 2021</td>
             <td><a href="https://www.math.ucla.edu/~visan/">Monica Vișan</a></td>
             <td>Rudin, Principles of Mathematical Analysis.</td>
         </tr>
         <tr>
-            <td><a href = "../files/191_Notes.pdf">Category Theory (191)</a></td>
+            <td><a href = "../files/191_Notes.pdf">Category Theory</a> (191)</td>
             <td>Spring 2021</td>
             <td>Jonathan Rubin</td>
             <td>Riehl, Category Theory in Context.</td>
         </tr>
         <tr>
-            <td><a href = "../files/205A_Notes.pdf">Algebraic Number Theory (205A)</a></td>
+            <td><a href = "../files/205A_Notes.pdf">Algebraic Number Theory</a> (205A)</td>
             <td>Fall 2022</td>
             <td><a href="https://www.math.ucla.edu/~sharifi/">Romyar Sharifi</a></td>
             <td><a href="https://www.math.ucla.edu/~sharifi/algnum.pdf">Lecture Notes</a></td>
         </tr>
         <tr>
-            <td><a href = "../files/Graduate_Algebra_Book.pdf">Graduate Algebra (210A/B/C)</a></td>
+            <td><a href = "../files/Graduate_Algebra_Book.pdf">Graduate Algebra</a> (210A/B/C)</td>
             <td>Fall 2021, Winter & Spring 2023</td>
             <td><a href="https://www.math.ucla.edu/~merkurev/">Alexander Merkurjev</a></td>
             <td>Lang, Algebra.</td>
         </tr>
         <tr>
-            <td><a href = "../files/212A_Notes.pdf">Homological Algebra (212A)</a></td>
+            <td><a href = "../files/212A_Notes.pdf">Homological Algebra</a> (212A)</td>
             <td>Winter 2022</td>
             <td><a href="https://www.math.ucla.edu/~balmer/">Paul Balmer</a></td>
             <td>N/A</td>
         </tr>
         <tr>
-            <td><a href = "../files/212B_Notes.pdf">Tensor Triangulated Geometry (212B)</a></td>
+            <td><a href = "../files/212B_Notes.pdf">Tensor Triangulated Geometry</a> (212B)</td>
             <td>Winter 2023</td>
             <td><a href="https://www.math.ucla.edu/~balmer/">Paul Balmer</a></td>
             <td>N/A</td>
         </tr>
         <tr>
-            <td><a href = "../files/215A_Notes_Revised.pdf">Commutative Algebra (215A)</a></td>
+            <td><a href = "../files/215A_Notes_Revised.pdf">Commutative Algebra</a> (215A)</td>
             <td>Fall 2022</td>
             <td><a href="https://sites.google.com/view/hyd6flw">Chengxi Wang</a></td>
             <td>Atiyah & Macdonald, Intro to Commutative Algebra.</td>
         </tr>
         <tr>
-            <td><a href = "../files/214A_Notes.pdf">Algebraic Geometry, Part I (214A)</a></td>
+            <td><a href = "../files/214A_Notes.pdf">Algebraic Geometry, Part I</a> (214A)</td>
             <td>Winter 2023</td>
             <td><a href="https://www.math.ucla.edu/~totaro/">Burt Totaro</a></td>
             <td>Hartshorne, Algebraic Geometry.</td>
         </tr>
         <tr>
-            <td><a href = "../files/214B_Notes.pdf">Algebraic Geometry, Part II (214B)</a></td>
+            <td><a href = "../files/214B_Notes.pdf">Algebraic Geometry, Part II</a> (214B)</td>
             <td>Spring 2023</td>
             <td><a href="https://www.math.ucla.edu/~jmoraga/">Joaquí­n Moraga</a></td>
             <td>Hartshorne, Algebraic Geometry.</td>
@@ -89,7 +89,7 @@ Lecture Notes
             <td>Hatcher, Algebraic Topology.</td>
         </tr>
         <tr>
-            <td><a href = "../files/229A_Notes.pdf">Lie Theory (229A)</a></td>
+            <td><a href = "../files/229A_Notes.pdf">Lie Theory</a> (229A)</td>
             <td>Spring 2023</td>
             <td><a href="https://www.math.ucla.edu/~rouquier/">Raphaël Rouquier</a></td>
             <td>N/A</td>
@@ -110,7 +110,7 @@ Lecture Notes
     </thead>
     <tbody style="text-align:center">
         <tr>
-            <td><a href = "../files/502_Notes.pdf">Commutative Algebra (502)</a></td>
+            <td><a href = "../files/502_Notes.pdf">Commutative Algebra</a> (502)</td>
             <td>Fall 2023</td>
             <td>Sankar Dutta</td>
             <td>Serre, Local Algebra.</td>
@@ -118,19 +118,19 @@ Lecture Notes
         <tr>
             <td>Differentiable Manifolds, Part I (518)</td>
             <td>Fall 2023</td>
-            <td>Eugene Lerman</td>
+            <td><a href="https://lerman.web.illinois.edu/">Eugene Lerman</a></td>
             <td>Lee, Intro to Smooth Manifolds.</td>
         </tr>
         <tr>
-            <td><a href = "../files/526_Notes.pdf">Algebraic Topology, Part II (526)</a></td>
+            <td><a href = "../files/526_Notes.pdf">Algebraic Topology, Part II</a> (526)</td>
             <td>Fall 2023</td>
-            <td>Vesna Stojanoska</td>
+            <td><a href="https://vesna.web.illinois.edu/">Vesna Stojanoska</a></td>
             <td>Hatcher, Algebraic Topology.</td>
         </tr>
         <tr>
-            <td><a href = "../files/595_GC_Notes.pdf">Group Cohomology (595)</a></td>
+            <td><a href = "../files/595_GC_Notes.pdf">Group Cohomology</a> (595)</td>
             <td>Fall 2023</td>
-            <td>Vesna Stojanoska</td>
+            <td><a href="https://vesna.web.illinois.edu/">Vesna Stojanoska</a></td>
             <td>N/A</td>
         </tr>
     </tbody>
@@ -183,7 +183,7 @@ Seminar Notes
         <tr>
             <td>Algebraic Geometry</td>
             <td>Fall 2023</td>
-            <td>Sheldon Katz</td>
+            <td><a href="https://katzs.web.illinois.edu/">Sheldon Katz</a></td>
             <td></td>
         </tr>
         <tr>
