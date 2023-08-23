@@ -53,7 +53,7 @@ Lecture Notes
             <td>Lang, Algebra.</td>
         </tr>
         <tr>
-            <td>Homological Algebra (212A)</td>
+            <td><a href = "../files/212A_Notes.pdf">Homological Algebra (212A)</a></td>
             <td>Winter 2022</td>
             <td><a href="https://www.math.ucla.edu/~balmer/">Paul Balmer</a></td>
             <td>N/A</td>
