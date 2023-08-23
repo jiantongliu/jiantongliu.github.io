@@ -55,14 +55,12 @@ Lecture Notes
         <tr>
             <td><a href = "../files/212A_Notes.pdf">Homological Algebra</a> (212A)</td>
             <td>Winter 2022</td>
-            <td><a href="https://www.math.ucla.edu/~balmer/">Paul Balmer</a></td>
-            <td>N/A</td>
+            <td rowspan = 2><a href="https://www.math.ucla.edu/~balmer/">Paul Balmer</a></td>
+            <td rowspan = 2>N/A</td>
         </tr>
         <tr>
             <td><a href = "../files/212B_Notes.pdf">Tensor Triangulated Geometry</a> (212B)</td>
             <td>Winter 2023</td>
-            <td><a href="https://www.math.ucla.edu/~balmer/">Paul Balmer</a></td>
-            <td>N/A</td>
         </tr>
         <tr>
             <td><a href = "../files/215A_Notes_Revised.pdf">Commutative Algebra</a> (215A)</td>
@@ -74,13 +72,12 @@ Lecture Notes
             <td><a href = "../files/214A_Notes.pdf">Algebraic Geometry, Part I</a> (214A)</td>
             <td>Winter 2023</td>
             <td><a href="https://www.math.ucla.edu/~totaro/">Burt Totaro</a></td>
-            <td>Hartshorne, Algebraic Geometry.</td>
+            <td rowspan = 2>Hartshorne, Algebraic Geometry.</td>
         </tr>
         <tr>
             <td><a href = "../files/214B_Notes.pdf">Algebraic Geometry, Part II</a> (214B)</td>
             <td>Spring 2023</td>
             <td><a href="https://www.math.ucla.edu/~jmoraga/">Joaquí­n Moraga</a></td>
-            <td>Hartshorne, Algebraic Geometry.</td>
         </tr>
         <tr>
             <td>Algebraic Topology (225C)</td>
