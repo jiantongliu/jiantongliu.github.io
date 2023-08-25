@@ -189,12 +189,6 @@ Seminar Notes
             <td></td>
             <td></td>
         </tr>
-        <tr>
-            <td>Homotopy Theory</td>
-            <td>Fall 2023</td>
-            <td></td>
-            <td></td>
-        </tr>
     </tbody>
 </table>
 
