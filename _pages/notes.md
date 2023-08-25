@@ -113,7 +113,7 @@ Lecture Notes
             <td>Serre, Local Algebra.</td>
         </tr>
         <tr>
-            <td>Differentiable Manifolds, Part I (518)</td>
+            <td><a href = "../files/518_Notes.pdf">Differentiable Manifolds, Part I</a> (518)</td>
             <td>Fall 2023</td>
             <td><a href="https://lerman.web.illinois.edu/">Eugene Lerman</a></td>
             <td>Lee, Intro to Smooth Manifolds.</td>
