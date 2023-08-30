@@ -130,6 +130,12 @@ Lecture Notes
             <td><a href="https://vesna.web.illinois.edu/">Vesna Stojanoska</a></td>
             <td>N/A</td>
         </tr>
+        <tr>
+            <td>Algebraic K-theory (597)</td>
+            <td>Fall 2023</td>
+            <td><a href="https://math.illinois.edu/directory/profile/jbheller">Jeremiah Heller</a></td>
+            <td>N/A</td>
+        </tr>
     </tbody>
 </table>
 
@@ -176,20 +182,6 @@ Seminar Notes
             <th style="text-align:center">Topic</th>
         </tr>
     </thead>
-    <tbody style="text-align:center">
-        <tr>
-            <td>Algebraic Geometry</td>
-            <td>Fall 2023</td>
-            <td><a href="https://katzs.web.illinois.edu/">Sheldon Katz</a></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>Algebraic Geometry & Commutative Algebra</td>
-            <td>Fall 2023</td>
-            <td></td>
-            <td></td>
-        </tr>
-    </tbody>
 </table>
 
 Expository Writings
