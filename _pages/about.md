@@ -12,7 +12,9 @@ Hello there! My name is Jiantong Liu and I am a first-year Ph.D. student at Univ
 
 General Research Interest
 ------
-Currently, I am interested in abstract nonsense like algebraic geometry, algebraic topology, and category theory. I am also interested in PDEs and dynamics, as well as mathematical logic like proof theory and homotopy type theory.  
+I am currently interested in abstract nonsense like algebraic geometry, algebraic topology, and category theory. I am also interested in PDEs and dynamics, as well as mathematical logic like proof theory and homotopy type theory.  
+
+In Fall 2023, I am doing a reading course with [Professor Jeremiah Heller](https://math.illinois.edu/directory/profile/jbheller) on algebraic K-theory. 
 
 Education
 ------
