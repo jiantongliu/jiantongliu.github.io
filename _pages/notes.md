@@ -186,7 +186,9 @@ Seminar Notes
 
 Expository Writings
 ------
-* My revision notes for Comprehensive Exams at UIUC. (To be added.)
+* My revision notes for Comprehensive Exams at UIUC.
+  * <a href = "../files/UIUC_Algebra_Qual_Facts.pdf">List of Facts</a>
+  * <a href = "../files/UIUC_Algebra_Qualification_Exam.pdf">Solutions</a>
 
 * <a href = "../files/Classification_of_Root_Systems.pdf">Classification of Root Systems</a>, this is the final project I wrote for MATH 229A (Lie Groups and Lie Algebra) at UCLA. 
 
