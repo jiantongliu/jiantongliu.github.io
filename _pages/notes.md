@@ -186,7 +186,7 @@ Seminar Notes
 
 Expository Writings
 ------
-* My revision notes for Comprehensive Exams at UIUC.
+* My revision notes for UIUC algebra comprehensive exam.
   * <a href = "../files/UIUC_Algebra_Qual_Facts.pdf">List of Facts</a>
   * <a href = "../files/UIUC_Algebra_Qualification_Exam.pdf">Solutions</a>
 
