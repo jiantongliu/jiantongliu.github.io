@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Colorless green ideas sleep furiously."
+title: "Chasing Diagrams."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
