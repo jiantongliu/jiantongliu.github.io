@@ -20,8 +20,8 @@ redirect_from:
         <tr>
             <th style="text-align:center">Year</th>
             <th style="text-align:center">Term</th>
-            <th style="text-align:center">Grading</th>
-            <th style="text-align:center">Teaching</th>
+            <th style="text-align:center">As Grader</th>
+            <th style="text-align:center">As TA</th>
         </tr>
     </thead>
     <tbody style="text-align:center">
@@ -77,8 +77,8 @@ redirect_from:
       <tr>
             <th style="text-align:center">Year</th>
             <th style="text-align:center">Term</th>
-            <th style="text-align:center">Grading</th>
-            <th style="text-align:center">Teaching</th>
+            <th style="text-align:center">As Grader</th>
+            <th style="text-align:center">As TA</th>
         </tr>
     </thead>
     <tbody style="text-align:center">
