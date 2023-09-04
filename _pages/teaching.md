@@ -32,45 +32,38 @@ redirect_from:
             <td rowspan=10></td>
         </tr>
         <tr>
-            <td>2021</td>
+            <td rowspan = 5>2021</td>
             <td>Winter</td>
         </tr>
         <tr>
-            <td></td>
             <td>Spring</td>
         </tr>
         <tr>
-            <td></td>
             <td>Summer</td>
             <td>115A (Upper Division Linear Algebra)</td>
         </tr>
         <tr>
-              <td></td>
               <td>Fall</td>
               <td>115AH</td>
         </tr>
         <tr>
-                <td></td>
                 <td>Fall</td>
                 <td>105A (Mathematics for Teaching)</td>
         </tr>
         <tr>
-                <td>2022</td>
+                <td rowspan = 4>2022</td>
                 <td>Winter</td>
                 <td>115AH</td>
         </tr>
         <tr>
-                  <td></td>
                   <td>Winter</td>
                   <td>105B (Mathematics for Teaching)</td>
           </tr>
         <tr>
-                  <td></td>
                   <td>Spring</td>
                   <td>105C (Mathematics for Teaching)</td>
           </tr>
         <tr>
-                  <td></td>
                   <td>Summer</td>
                   <td>115A</td>
         </tr>
