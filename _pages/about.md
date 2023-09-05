@@ -14,8 +14,6 @@ General Research Interest
 ------
 I am currently interested in abstract nonsense like algebraic geometry, algebraic topology, and category theory. I am also interested in PDEs and dynamics, as well as mathematical logic like proof theory and homotopy type theory.  
 
-I am doing a reading course with Professor [Jeremiah Heller](https://math.illinois.edu/directory/profile/jbheller) on algebraic K-theory. 
-
 Education
 ------
 * B.S. in Mathematics, with Highest Departmental Honors, UCLA, 2023
