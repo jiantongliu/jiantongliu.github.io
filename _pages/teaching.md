@@ -43,20 +43,18 @@ redirect_from:
             <td>115A (Upper Division Linear Algebra)</td>
         </tr>
         <tr>
-              <td>Fall</td>
+              <td rowspan = 2>Fall</td>
               <td>115AH</td>
         </tr>
         <tr>
-                <td>Fall</td>
                 <td>105A (Mathematics for Teaching)</td>
         </tr>
         <tr>
                 <td rowspan = 4>2022</td>
-                <td>Winter</td>
+                <td rowspan = 2>Winter</td>
                 <td>115AH</td>
         </tr>
         <tr>
-                  <td>Winter</td>
                   <td>105B (Mathematics for Teaching)</td>
           </tr>
         <tr>
