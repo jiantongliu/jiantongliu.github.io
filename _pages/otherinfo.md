@@ -10,12 +10,6 @@ redirect_from:
 
 {% include base_path %}
 
-Recent Travels
-======
-* Nov 2023: Western Algebraic Geometry Symposium (WAGS), St. Louis, MO.
-* Oct 2023: FRG workshop on Brauer groups and derived categories, Evanston, IL.
-* Jan 2023: Joint Mathematics Meetings (JMM), Boston, MA. 
-
 Undergraduate Years
 ======
 
