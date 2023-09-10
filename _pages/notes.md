@@ -131,7 +131,7 @@ Lecture Notes
             <td>N/A</td>
         </tr>
         <tr>
-            <td><a href = "../files/597_K_Notes.pdf">Algebraic K-theory</a> (597)</td>
+            <td>Algebraic K-theory (597)</td>
             <td>Fall 2023</td>
             <td><a href="https://math.illinois.edu/directory/profile/jbheller">Jeremiah Heller</a></td>
             <td>N/A</td>
