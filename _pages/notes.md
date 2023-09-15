@@ -80,6 +80,12 @@ Lecture Notes
             <td><a href="https://www.math.ucla.edu/~jmoraga/">Joaquí­n Moraga</a></td>
         </tr>
         <tr>
+            <td>Differential Topology (225A)</td>
+            <td>Fall 2022</td>
+            <td><a href="https://www.math.ucla.edu/~liu/">Kefeng Liu</a></td>
+            <td>N/A</td>
+        </tr>
+        <tr>
             <td>Algebraic Topology (225C)</td>
             <td>Spring 2023</td>
             <td><a href="https://math.ucla.edu/~sucharit/">Sucharit Sarkar</a></td>
