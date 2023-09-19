@@ -115,7 +115,7 @@ Lecture Notes
         <tr>
             <td><a href = "../files/502_Notes.pdf">Commutative Algebra</a> (502)</td>
             <td>Fall 2023</td>
-            <td>Sankar Dutta</td>
+            <td><a href="https://math.illinois.edu/directory/profile/s-dutta">Sankar Dutta</a></td>
             <td>Serre, Local Algebra.</td>
         </tr>
         <tr>
