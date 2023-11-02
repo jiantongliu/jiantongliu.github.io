@@ -139,7 +139,7 @@ Lecture Notes
     </tbody>
 </table>
 
-Seminar Notes
+Reading Course Notes
 ------
 
 <table>
