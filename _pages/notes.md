@@ -194,7 +194,7 @@ Reading Course Notes
             <td>Weibel, The $K$-book.</td>
         </tr>
         <tr>
-            <td>Quillen, <a href = "https://www.jstor.org/stable/1970825">$K$-theory over Finite Fields(1972)</a></td>
+            <td>Quillen, <a href = "https://www.jstor.org/stable/1970825">$K$-theory over Finite Fields</a>. (1972)</td>
         </tr>
         </tbody>
 </table>
