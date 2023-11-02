@@ -184,7 +184,7 @@ Seminar Notes
             <th colspan=4 style="text-align:center">At UIUC</th>
         </tr>
     </thead>
-    <thead>
+  <tbody style="text-align:center">
         <tr>
             <th style="text-align:center">Topic</th>
             <th style="text-align:center">Term</th>
@@ -202,7 +202,7 @@ Seminar Notes
             <td>Quillen, On the Cohomology and $K$-Theory of the General Linear Groups Over a Finite Field. (1972)</td>
         </tr>
         </tbody>
-    </thread>
+</tbody>
 </table>
 
 Expository Writings
