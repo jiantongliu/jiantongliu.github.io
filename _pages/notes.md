@@ -201,6 +201,7 @@ Seminar Notes
         <tr>
             <td>Quillen, On the Cohomology and $K$-Theory of the General Linear Groups Over a Finite Field. (1972)</td>
         </tr>
+        </tbody>
     </thread>
 </table>
 
