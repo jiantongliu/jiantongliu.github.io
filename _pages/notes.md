@@ -173,10 +173,10 @@ Seminar Notes
             <td>Milne, <a href="https://www.jmilne.org/math/CourseNotes/ala.html">Reductive Groups</a>.</td>
         </tr>
         <tr>
-            <td>$\infty-Category Theory</td>
+            <td>$\infty$-Category Theory</td>
             <td>Spring 2023</td>
             <td><a href="https://www.math.ucla.edu/~balmer/">Paul Balmer</a></td>
-            <td>Riehl, Elements of $\infty-Category Theory.</td>
+            <td>Riehl, Elements of $\infty$-Category Theory.</td>
         </tr>
     </tbody>
     <thead>
