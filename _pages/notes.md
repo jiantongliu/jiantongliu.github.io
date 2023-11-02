@@ -173,10 +173,10 @@ Seminar Notes
             <td>Milne, <a href="https://www.jmilne.org/math/CourseNotes/ala.html">Reductive Groups</a>.</td>
         </tr>
         <tr>
-            <td>Infinity-category Theory</td>
+            <td>$\infty-Category Theory</td>
             <td>Spring 2023</td>
             <td><a href="https://www.math.ucla.edu/~balmer/">Paul Balmer</a></td>
-            <td>Riehl, Elements of Infinity-Category Theory.</td>
+            <td>Riehl, Elements of $\infty-Category Theory.</td>
         </tr>
     </tbody>
     <thead>
@@ -186,22 +186,22 @@ Seminar Notes
     </thead>
     <thead>
         <tr>
-            <th style="text-align:center">Area</th>
+            <th style="text-align:center">Topic</th>
             <th style="text-align:center">Term</th>
             <th style="text-align:center">Faculty</th>
-            <th style="text-align:center">Topic</th>
+            <th style="text-align:center">Text</th>
         </tr>
         <tbody style="text-align:center">
         <tr>
-            <td rowspan=2>Algebraic K-theory</td>
+            <td rowspan=2>Algebraic $K$-theory</td>
             <td rowspan=2>Fall 2023</td>
             <td rowspan=2><a href="https://math.illinois.edu/directory/profile/jbheller">Jeremiah Heller</a></td>
-            <td>Weibel, The K-book.</td>
+            <td>Weibel, The $K$-book.</td>
         </tr>
         <tr>
-            <td>Quillen, On the Cohomology and K-Theory of the General Linear Groups Over a Finite Field (1972).</td>
+            <td>Quillen, On the Cohomology and $K$-Theory of the General Linear Groups Over a Finite Field. (1972)</td>
         </tr>
-    </tbody>
+    </thread>
 </table>
 
 Expository Writings
