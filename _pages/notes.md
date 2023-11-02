@@ -136,12 +136,6 @@ Lecture Notes
             <td><a href="https://vesna.web.illinois.edu/">Vesna Stojanoska</a></td>
             <td>N/A</td>
         </tr>
-        <tr>
-            <td>Algebraic K-theory (597)</td>
-            <td>Fall 2023</td>
-            <td><a href="https://math.illinois.edu/directory/profile/jbheller">Jeremiah Heller</a></td>
-            <td>N/A</td>
-        </tr>
     </tbody>
 </table>
 
@@ -200,7 +194,7 @@ Seminar Notes
             <td>Weibel, The $K$-book.</td>
         </tr>
         <tr>
-            <td>Quillen, On the Cohomology and $K$-Theory of the General Linear Groups Over a Finite Field. (1972)</td>
+            <td>Quillen, <a href = "https://www.jstor.org/stable/1970825">$K$-theory over Finite Fields(1972)</a></td>
         </tr>
         </tbody>
 </table>
