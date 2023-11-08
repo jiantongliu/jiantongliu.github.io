@@ -188,13 +188,16 @@ Reading Course Notes
   </thead>
         <tbody style="text-align:center">
         <tr>
-            <td rowspan=2>Algebraic $K$-theory</td>
-            <td rowspan=2>Fall 2023</td>
-            <td rowspan=2><a href="https://math.illinois.edu/directory/profile/jbheller">Jeremiah Heller</a></td>
+            <td rowspan=3>Algebraic $K$-theory</td>
+            <td rowspan=3>Fall 2023</td>
+            <td rowspan=3><a href="https://math.illinois.edu/directory/profile/jbheller">Jeremiah Heller</a></td>
             <td>Weibel, The $K$-book.</td>
         </tr>
         <tr>
             <td>Quillen, <a href = "https://www.jstor.org/stable/1970825">$K$-theory over Finite Fields</a>. (1972)</td>
+        </tr>
+        <tr>
+            <td>Suslin, <a href = "https://link.springer.com/article/10.1007/BF01394024">On the $K$-theory of Algebraically Closed Fields</a>. (1973)</td>
         </tr>
         </tbody>
 </table>
