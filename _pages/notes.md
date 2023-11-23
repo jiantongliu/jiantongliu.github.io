@@ -131,10 +131,34 @@ Lecture Notes
             <td>Hatcher, Algebraic Topology.</td>
         </tr>
         <tr>
+            <td>Real Analysis (540)</td>
+            <td>Spring 2024</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Combinatorial Mathematics (580)</td>
+            <td>Spring 2024</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
             <td><a href = "../files/595_GC_Notes.pdf">Group Cohomology</a> (595)</td>
             <td>Fall 2023</td>
             <td><a href="https://vesna.web.illinois.edu/">Vesna Stojanoska</a></td>
             <td>N/A</td>
+        </tr>
+         <tr>
+            <td>Local Cohomology (595)</td>
+            <td>Spring 2024</td>
+            <td></td>
+            <td></td>
+        </tr>
+         <tr>
+            <td>Higher Category Theory (595)</td>
+            <td>Spring 2024</td>
+            <td></td>
+            <td></td>
         </tr>
     </tbody>
 </table>
