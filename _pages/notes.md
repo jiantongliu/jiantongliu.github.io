@@ -212,9 +212,9 @@ Reading Course Notes
   </thead>
         <tbody style="text-align:center">
         <tr>
-            <td rowspan=3>Algebraic $K$-theory</td>
-            <td rowspan=3>Fall 2023</td>
-            <td rowspan=3><a href="https://math.illinois.edu/directory/profile/jbheller">Jeremiah Heller</a></td>
+            <td rowspan=4>Algebraic $K$-theory</td>
+            <td rowspan=4>Fall 2023</td>
+            <td rowspan=4><a href="https://math.illinois.edu/directory/profile/jbheller">Jeremiah Heller</a></td>
             <td>Weibel, The $K$-book.</td>
         </tr>
         <tr>
@@ -222,6 +222,9 @@ Reading Course Notes
         </tr>
         <tr>
             <td>Suslin, <a href = "https://link.springer.com/article/10.1007/BF01394024">On the $K$-theory of Algebraically Closed Fields</a>. (1973)</td>
+        </tr>
+        <tr>
+            <td>Quillen, <a href = "https://link.springer.com/chapter/10.1007/BFb0067053">Higher Algebraic $K$-theory: I</a>. (1973)</td>
         </tr>
         </tbody>
 </table>
