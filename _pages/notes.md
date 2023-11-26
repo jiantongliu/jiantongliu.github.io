@@ -221,10 +221,10 @@ Reading Course Notes
             <td>Quillen, <a href = "https://www.jstor.org/stable/1970825">$K$-theory over Finite Fields</a>. (1972)</td>
         </tr>
         <tr>
-            <td>Suslin, <a href = "https://link.springer.com/article/10.1007/BF01394024">On the $K$-theory of Algebraically Closed Fields</a>. (1973)</td>
+            <td>Quillen, <a href = "https://link.springer.com/chapter/10.1007/BFb0067053">Higher Algebraic $K$-theory: I</a>. (1973)</td>
         </tr>
         <tr>
-            <td>Quillen, <a href = "https://link.springer.com/chapter/10.1007/BFb0067053">Higher Algebraic $K$-theory: I</a>. (1973)</td>
+            <td>Suslin, <a href = "https://link.springer.com/article/10.1007/BF01394024">On the $K$-theory of Algebraically Closed Fields</a>. (1983)</td>
         </tr>
         </tbody>
 </table>
