@@ -8,4 +8,4 @@ date: 2023-10-10
 location: "UIUC"
 ---
 
-This is part 2 of a series of talks about Quillen's [1972 paper](https://www.jstor.org/stable/1970825), given at [UIUC Algebraic K-theory reading Seminar](https://jiantongliu.github.io/597K/). 
+This is part 2 of a series of talks about Quillen's [1972 paper](https://www.jstor.org/stable/1970825), given at [UIUC Algebraic K-theory Reading Seminar](https://jiantongliu.github.io/597K/). 
