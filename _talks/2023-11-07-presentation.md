@@ -1,10 +1,10 @@
 ---
-title: "Brauer Lift"
+title: "Quillen's detection theorem"
 collection: talks
 type: "Presentation"
-permalink: /talks/2023-10-10-presentation
+permalink: /talks/2023-11-07-presentation
 venue: "UIUC Algebraic K-theory Reading Seminar"
-date: 2023-10-10
+date: 2023-11-07
 ---
 
 For more information, see [here](https://jiantongliu.github.io/597K/). 
