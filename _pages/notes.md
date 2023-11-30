@@ -244,11 +244,3 @@ Expository Writings
 * _Experimental Design on Effect of Video Games on Visual Learning_, December 2022. 
 
 * _Calculating Perceived Height of the Stereokinetic Cylinder based on Monocular Linear Perspective and Binocular Disparity_, March 2023.
-
-Talks
-------
-* AMS Special Session at Joint Mathematics Meetings. _Bounds in Simple Hexagonal Lattice and Classification of $11$-stick Knots._ Jan 2023, Boston, Massachusetts. [[Abstract](https://meetings.ams.org/math/jmm2023/meetingapp.cgi/Paper/17903)] [<a href = "../files/JMM_Knot_Theory_Presentation_Slides.pdf">Slides</a>]
-
-* Polymath Jr Program Colloquium. _Bounds on Simple Hexagonal Lattice._ Aug 2022, Los Angeles, California. [<a href = "../files/Jiantong_Liu_Lattice_Number_Presentation.pdf">Slides</a>]
-
-* Directed Reading Program Colloquium. _Enriched Categories and Applications_. Mar 2022, Los Angeles, California. [<a href = "../files/Presentation_on_Enriched_Category.pdf">Slides</a>]
