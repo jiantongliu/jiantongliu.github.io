@@ -8,4 +8,4 @@ date: 2022-03-31
 location: "UCLA"
 ---
 
-This is a presentation I gave at the end of the quarter for my directed reading project with [Ben Spitz](https://www.math.ucla.edu/~benspitz/).
+I gave a [presentation](https://jiantongliu.github.io/files/Presentation_on_Enriched_Category.pdf) at the end of the quarter for my directed reading project with [Ben Spitz](https://www.math.ucla.edu/~benspitz/).
