@@ -1,6 +1,6 @@
 ---
 title: "Suslin's K-theory of algebraically closed fields"
-collection: talks
+collection: test
 type: "Presentation"
 permalink: /talks/2023-11-28-presentation
 venue: "Algebraic K-theory Reading Seminar"
