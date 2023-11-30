@@ -182,7 +182,7 @@ Reading Course Notes
     </thead>
     <tbody style="text-align:center">
         <tr>
-            <td rowspan=2>Semisimple and Reductive Groups</td>
+            <td rowspan=2>Semisimple and Reductive Groups (290C)</td>
             <td rowspan=2>Winter 2023</td>
             <td rowspan=2><a href="https://www.math.ucla.edu/~merkurev/">Alexander Merkurjev</a></td>
             <td>Knus et al., The Book of Involutions.</td>
@@ -191,7 +191,7 @@ Reading Course Notes
             <td>Milne, <a href="https://www.jmilne.org/math/CourseNotes/ala.html">Reductive Groups</a>.</td>
         </tr>
         <tr>
-            <td>$\infty$-Category Theory</td>
+            <td>$\infty$-Category Theory (290C)</td>
             <td>Spring 2023</td>
             <td><a href="https://www.math.ucla.edu/~balmer/">Paul Balmer</a></td>
             <td>Riehl, Elements of $\infty$-Category Theory.</td>
@@ -212,19 +212,19 @@ Reading Course Notes
   </thead>
         <tbody style="text-align:center">
         <tr>
-            <td rowspan=4>Algebraic $K$-theory</td>
+            <td rowspan=4><a href="https://jiantongliu.github.io/597K/">Algebraic K-theory</a> (597)</td>
             <td rowspan=4>Fall 2023</td>
             <td rowspan=4><a href="https://math.illinois.edu/directory/profile/jbheller">Jeremiah Heller</a></td>
-            <td>Weibel, The $K$-book.</td>
+            <td>Weibel, The K-book.</td>
         </tr>
         <tr>
-            <td>Quillen, <a href = "https://www.jstor.org/stable/1970825">$K$-theory over Finite Fields</a>. (1972)</td>
+            <td>Quillen, <a href = "https://www.jstor.org/stable/1970825">K-theory over Finite Fields</a>. (1972)</td>
         </tr>
         <tr>
-            <td>Quillen, <a href = "https://link.springer.com/chapter/10.1007/BFb0067053">Higher Algebraic $K$-theory: I</a>. (1973)</td>
+            <td>Quillen, <a href = "https://link.springer.com/chapter/10.1007/BFb0067053">Higher Algebraic K-theory: I</a>. (1973)</td>
         </tr>
         <tr>
-            <td>Suslin, <a href = "https://link.springer.com/article/10.1007/BF01394024">On the $K$-theory of Algebraically Closed Fields</a>. (1983)</td>
+            <td>Suslin, <a href = "https://link.springer.com/article/10.1007/BF01394024">On the K-theory of Algebraically Closed Fields</a>. (1983)</td>
         </tr>
         </tbody>
 </table>
