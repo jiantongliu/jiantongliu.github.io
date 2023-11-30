@@ -92,6 +92,6 @@ Courses
     </tbody>
 </table>
 
-Others
+Miscellaneous
 ------
 I was an assistant instructor at the [UCLA Olga Radko Endowed Math Circle](https://circles.math.ucla.edu/circles/) between Fall 2021 and Spring 2023. 
