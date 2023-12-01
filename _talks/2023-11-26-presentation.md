@@ -1,5 +1,5 @@
 ---
-title: "Quillen's devissage theorem and localization theorem"
+title: "Quillen's Devissage Theorem and Localization Theorem"
 collection: talks
 type: "Presentation"
 permalink: /talks/2023-11-26-presentation
