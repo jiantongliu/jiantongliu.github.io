@@ -1,5 +1,5 @@
 ---
-title: "Suslin's K-theory of algebraically closed fields"
+title: "Suslin's rigidity theorem"
 collection: talks
 type: "Presentation"
 permalink: /talks/2023-11-28-presentation
