@@ -1,5 +1,5 @@
 ---
-title: "Suslin's Rigidity Theorem"
+title: "Suslin's Rigidity Theorem, Part 1"
 collection: talks
 type: "Presentation"
 permalink: /talks/2023-11-28-presentation
