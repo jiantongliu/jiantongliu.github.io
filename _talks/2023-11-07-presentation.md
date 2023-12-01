@@ -1,5 +1,5 @@
 ---
-title: "Quillen's detection theorem"
+title: "Quillen's Detection Theorem"
 collection: talks
 type: "Presentation"
 permalink: /talks/2023-11-07-presentation
