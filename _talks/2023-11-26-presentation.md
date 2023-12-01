@@ -8,4 +8,4 @@ date: 2023-11-26
 location: "UIUC"
 ---
 
-For more information, see [here](https://jiantongliu.github.io/597K/). 
+The notes for this prsentation can be found <a href = "../files/Quillen_Devissage_Theorem_and_Localization_Theorem.pdf">here</a>. For more information, see [here](https://jiantongliu.github.io/597K/). 
