@@ -8,4 +8,4 @@ date: 2023-11-26
 location: "UIUC"
 ---
 
-The notes for this prsentation can be found <a href = "../files/Quillen_Devissage_Theorem_and_Localization_Theorem.pdf">here</a>. For more information, see [here](https://jiantongliu.github.io/597K/). 
+We used Quillen's theorem A and B to prove Devissage theorem and Localization theorem, along with certain important consequences. The notes for this prsentation can be found <a href = "../files/Quillen_Devissage_Theorem_and_Localization_Theorem.pdf">here</a>. For more information, see [here](https://jiantongliu.github.io/597K/). 
