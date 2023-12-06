@@ -8,4 +8,4 @@ date: 2023-12-05
 location: "UIUC"
 ---
 
-The notes for this prsentation can be found <a href = "../files/Suslin_s_K_theory_of_Algebraically_Closed_Fields.pdf">here</a>. For more information, see [here](https://jiantongliu.github.io/597K/). 
+We continued our discussion of Suslin's K-theory of algebraically closed fields and proved his rigidity theorem. The notes for this prsentation can be found <a href = "../files/Suslin_s_K_theory_of_Algebraically_Closed_Fields.pdf">here</a>. For more information, see [here](https://jiantongliu.github.io/597K/). 
