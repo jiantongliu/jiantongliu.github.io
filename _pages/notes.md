@@ -133,13 +133,13 @@ Lecture Notes
         <tr>
             <td>Real Analysis (540)</td>
             <td>Spring 2024</td>
-            <td></td>
+            <td><a href="https://xcli.web.illinois.edu/homepage/">Xiaochun Li</a></td>
             <td></td>
         </tr>
         <tr>
             <td>Combinatorial Mathematics (580)</td>
             <td>Spring 2024</td>
-            <td></td>
+            <td><a href="https://math.illinois.edu/directory/profile/jobal">Jozsef Balogh</a></td>
             <td></td>
         </tr>
         <tr>
@@ -151,13 +151,13 @@ Lecture Notes
          <tr>
             <td>Local Cohomology (595)</td>
             <td>Spring 2024</td>
-            <td></td>
+            <td><a href="https://math.illinois.edu/directory/profile/s-dutta">Sankar Dutta</a></td>
             <td></td>
         </tr>
          <tr>
             <td>Higher Category Theory (595)</td>
             <td>Spring 2024</td>
-            <td></td>
+            <td><a href="https://rezk.web.illinois.edu/">Charles Rezk</a></td>
             <td></td>
         </tr>
     </tbody>
