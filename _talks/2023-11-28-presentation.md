@@ -8,4 +8,4 @@ date: 2023-11-28
 location: "UIUC"
 ---
 
-For more information, see [here](https://jiantongliu.github.io/597K/). 
+The notes for this prsentation can be found <a href = "../files/Suslin_s_K_theory_of_Algebraically_Closed_Fields.pdf">here</a>. For more information, see [here](https://jiantongliu.github.io/597K/). 
