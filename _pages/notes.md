@@ -119,6 +119,18 @@ Lecture Notes
             <td>Serre, Local Algebra.</td>
         </tr>
         <tr>
+            <td>Group Representation Theory (506)</td>
+            <td>Spring 2024</td>
+            <td><a href="https://math.illinois.edu/directory/profile/whaboush">William Haboush</a></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Algebraic Geometry, Part I (511)</td>
+            <td>Spring 2024</td>
+            <td><a href="https://math.illinois.edu/directory/profile/csdodd2">Christopher Dodd</a></td>
+            <td></td>
+        </tr>
+        <tr>
             <td><a href = "../files/518_Notes.pdf">Differentiable Manifolds, Part I</a> (518)</td>
             <td>Fall 2023</td>
             <td><a href="https://lerman.web.illinois.edu/">Eugene Lerman</a></td>
@@ -147,18 +159,6 @@ Lecture Notes
             <td>Fall 2023</td>
             <td><a href="https://vesna.web.illinois.edu/">Vesna Stojanoska</a></td>
             <td>N/A</td>
-        </tr>
-         <tr>
-            <td>Local Cohomology (595)</td>
-            <td>Spring 2024</td>
-            <td><a href="https://math.illinois.edu/directory/profile/s-dutta">Sankar Dutta</a></td>
-            <td></td>
-        </tr>
-         <tr>
-            <td>Higher Category Theory (595)</td>
-            <td>Spring 2024</td>
-            <td><a href="https://rezk.web.illinois.edu/">Charles Rezk</a></td>
-            <td></td>
         </tr>
     </tbody>
 </table>
