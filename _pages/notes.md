@@ -86,7 +86,7 @@ Lecture Notes
             <td>N/A</td>
         </tr>
         <tr>
-            <td>Algebraic Topology (225C)</td>
+            <td><a href = "https://drive.google.com/file/d/1hYd0zgafSdYPqFQmDlB9tcaxwb_6gwGy/view?usp=sharing">Algebraic Topology</a> (225C)</td>
             <td>Spring 2023</td>
             <td><a href="https://math.ucla.edu/~sucharit/">Sucharit Sarkar</a></td>
             <td>Hatcher, Algebraic Topology.</td>
