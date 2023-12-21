@@ -235,6 +235,8 @@ Expository Writings
   * <a href = "../files/UIUC_Algebra_Qual_Facts.pdf">List of Facts</a>
   * <a href = "../files/UIUC_Algebra_Qualification_Exam.pdf">Solutions</a>
 
+* Brown Representability Theorem, this is the final project I wrote for MATH 526 (Algebraic topology, Part II) at UIUC.
+
 * <a href = "../files/Classification_of_Root_Systems.pdf">Classification of Root Systems</a>, this is the final project I wrote for MATH 229A (Lie Groups and Lie Algebra) at UCLA. 
 
 * <a href = "../files/Hatcher_Solution_Master_Document.pdf">Solutions of Hatcher's _Algebraic Topology_</a>, ongoing project (password requried)
