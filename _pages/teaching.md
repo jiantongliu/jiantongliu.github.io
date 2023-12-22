@@ -100,10 +100,10 @@ Courses
     </thead>
   <thead>
         <tr>
-            <th style="text-align:center" style="width:60px">Year</th>
-            <th style="text-align:center" style="width:60px">Term</th>
-            <th style="text-align:center" style="width:60px">As Grader</th>
-            <th style="text-align:center" style="width:60px">As TA</th>
+            <th style="text-align:center">Year</th>
+            <th style="text-align:center">Term</th>
+            <th style="text-align:center">As Grader</th>
+            <th style="text-align:center">As TA</th>
         </tr>
     </thead>
     <tbody style="text-align:center">
@@ -171,6 +171,81 @@ Courses
     </tbody>
 </table>
 
+<strong>Current courses</strong><BR>
+ <table>
+  <tr>
+    <td style="width:70px"></td>
+    <td style="width:60px">Fall</td>
+    <td style="width:60px">Winter</td>
+    <td style="width:60px">Spring</td>
+    <td style="width:60px">Summer</td>
+  </tr>
+  <tr>
+    <td>2023-24:</td>
+    <td><a href="./100.html">100</a><br>
+	<a href="./101.html">101</a></td>	
+    <td>-</td>
+    <td>235</td>
+    <td>-</td>
+  </tr>
+ </table>
+<details><summary><strong>Old courses</strong></summary>
+ <table>
+   <tr>
+     <td>2022-23:</td>
+     <td>100</td>
+     <td>-</td>
+     <td><a href="./225C.html">225C</a></td>
+     <td>-</td>
+   </tr>
+   <tr>
+    <td>2021-22:</td>
+    <td>100<br>
+      101
+    </td>
+    <td>-</td>
+    <td><a href="./khovanov.html">235</a></td>
+    <td>-</td>
+  </tr>
+ <tr>
+    <td>2020-21:</td>
+    <td>100<br>
+      101
+    </td>
+    <td><a href="./heegaard-floer.html">236</a></td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>2019-20:</td>
+    <td>100<br>
+      101
+    </td>
+    <td>-</td>
+    <td>225C</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>2018-19:</td>
+    <td>100</td>
+    <td>120A</td>
+    <td>225C</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>2017-18:</td>
+    <td>100</td>
+    <td>225B</td>
+    <td>32A</td>
+    <td>-</td>
+  <tr>
+    <td style="width:70px">2016-17:</td>
+    <td style="width:60px">120A</td>
+    <td style="width:60px">285F</td>
+    <td style="width:60px">225C</td>
+    <td style="width:60px">31B</td>
+  </tr>
+ </table></details><BR> 
 
 
 Miscellaneous
