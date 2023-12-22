@@ -100,10 +100,10 @@ Courses
     </thead>
   <thead>
         <tr>
-            <th style="text-align:center">Year</th>
-            <th style="text-align:center">Term</th>
-            <th style="text-align:center">As Grader</th>
-            <th style="text-align:center">As TA</th>
+            <th style="text-align:center" style="width:60px">Year</th>
+            <th style="text-align:center" style="width:60px">Term</th>
+            <th style="text-align:center" style="width:60px">As Grader</th>
+            <th style="text-align:center" style="width:60px">As TA</th>
         </tr>
     </thead>
     <tbody style="text-align:center">
@@ -170,6 +170,8 @@ Courses
     </tr>
     </tbody>
 </table>
+
+
 
 Miscellaneous
 ------
