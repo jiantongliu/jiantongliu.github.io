@@ -110,7 +110,7 @@ Courses
         <tr>
             <td>2020</td>
             <td>Fall</td>
-            <td rowspan=3, title = "Honors Linear Algebra">115AH</td>
+            <td title = "Honors Linear Algebra", rowspan=3>115AH</td>
             <td rowspan=10></td>
         </tr>
         <tr>
