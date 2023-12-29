@@ -87,12 +87,13 @@ Courses
             <td>2023</td>
             <td>Fall</td>
             <td>241 (Calculus III)</td>
-            <td rowspan=2></td>
+            <td></td>
     </tr>
-	<tr>
+    <tr>
             <td>2024</td>
             <td>Spring</td>
-            <td>257 (Linear Algebra with Computational Applications)</td>
+            <td></td>
+	    <td>257 (Linear Algebra with Computational Applications)</td>
     </tr>
     </tbody>
 </table>
