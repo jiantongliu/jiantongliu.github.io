@@ -92,7 +92,7 @@ Courses
 	<tr>
             <td>2024</td>
             <td>Spring</td>
-            <td></td>
+            <td>257 (Linear Algebra with Computational Applications)</td>
     </tr>
     </tbody>
 </table>
