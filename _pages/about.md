@@ -14,8 +14,8 @@ General Research Interest
 ------
 I am currently interested in abstract nonsense like algebraic geometry, category theory, and homotopy theory. I am also interested in PDEs, dynamics, and topics in mathematical physics. 
 
-Current Teaching (in Spring 2024)
+Current Teaching
 ------
-MATH 257 (Linear Algebra with Computational Applications)\
+Spring 2024: MATH 257 (Linear Algebra with Computational Applications)\
 Office: Altgeld Hall 110\
 Office Hours: TBD
