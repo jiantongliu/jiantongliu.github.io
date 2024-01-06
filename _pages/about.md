@@ -8,13 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Hello there! My name is Jiantong Liu and I am a first-year Ph.D. student at University of Illinois Urbana-Champaign (UIUC). Before that, I received my bachelor's degree from University of California, Los Angeles (UCLA) majoring pure math and cognitive science. [Here](https://jiantongliu.github.io/files/Jiantong_Liu_CV.pdf) is my CV. 
+I am a first-year Ph.D. student at University of Illinois Urbana-Champaign (UIUC). Before that, I received my bachelor's degree from University of California, Los Angeles (UCLA) in 2023, studying pure math and cognitive science. [Here](https://jiantongliu.github.io/files/Jiantong_Liu_CV.pdf) is my CV. 
 
 General Research Interest
 ------
 I am currently interested in abstract nonsense like algebraic geometry, category theory, and homotopy theory. I am also interested in PDEs, dynamics, and topics in mathematical physics. 
 
-Education
+Current Teaching (in Spring 2024)
 ------
-* B.S. in Mathematics, with Highest Departmental Honors, UCLA, 2023
-* B.S. in Cognitive Science, with Specialization in Computing, UCLA, 2023
+MATH 257 (Linear Algebra with Computational Applications)\
+Office: Altgeld Hall 110\
+Office Hours: TBD
