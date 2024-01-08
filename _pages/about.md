@@ -17,5 +17,4 @@ I am currently interested in abstract nonsense like algebraic geometry, category
 Current Teaching
 ------
 Spring 2024: MATH 257 (Linear Algebra with Computational Applications)\
-Office: Altgeld Hall 110\
-Office Hours: TBD
+Office: 110 Altgeld Hall
