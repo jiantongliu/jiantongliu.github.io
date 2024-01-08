@@ -119,12 +119,6 @@ Lecture Notes
             <td>Serre, Local Algebra.</td>
         </tr>
         <tr>
-            <td>Group Representation Theory (506)</td>
-            <td>Spring 2024</td>
-            <td><a href="https://math.illinois.edu/directory/profile/whaboush">William Haboush</a></td>
-            <td></td>
-        </tr>
-        <tr>
             <td>Algebraic Geometry, Part I (511)</td>
             <td>Spring 2024</td>
             <td><a href="https://math.illinois.edu/directory/profile/csdodd2">Christopher Dodd</a></td>
