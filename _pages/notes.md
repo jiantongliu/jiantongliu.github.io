@@ -119,12 +119,6 @@ Lecture Notes
             <td>Serre, Local Algebra.</td>
         </tr>
         <tr>
-            <td>Algebraic Geometry, Part I (511)</td>
-            <td>Spring 2024</td>
-            <td><a href="https://math.illinois.edu/directory/profile/csdodd2">Christopher Dodd</a></td>
-            <td></td>
-        </tr>
-        <tr>
             <td><a href = "../files/518_Notes.pdf">Differentiable Manifolds, Part I</a> (518)</td>
             <td>Fall 2023</td>
             <td><a href="https://lerman.web.illinois.edu/">Eugene Lerman</a></td>
@@ -140,7 +134,7 @@ Lecture Notes
             <td>Real Analysis (540)</td>
             <td>Spring 2024</td>
             <td><a href="https://xcli.web.illinois.edu/homepage/">Xiaochun Li</a></td>
-            <td></td>
+            <td>Foland, Real Analysis.</td>
         </tr>
         <tr>
             <td>Combinatorial Mathematics (580)</td>
@@ -204,10 +198,10 @@ Reading Course Notes
             <th style="text-align:center">Text</th>
         </tr>
   </thead>
-        <tbody style="text-align:center">
+  <tbody style="text-align:center">
         <tr>
             <td rowspan=4><a href="https://jiantongliu.github.io/597K/">Algebraic K-theory</a> (597)</td>
-            <td rowspan=4>Fall 2023</td>
+            <td rowspan=4>Fall 2023 & Spring 2024</td>
             <td rowspan=4><a href="https://math.illinois.edu/directory/profile/jbheller">Jeremiah Heller</a></td>
             <td>Weibel, The K-book.</td>
         </tr>
@@ -220,7 +214,13 @@ Reading Course Notes
         <tr>
             <td>Suslin, <a href = "https://link.springer.com/article/10.1007/BF01394024">On the K-theory of Algebraically Closed Fields</a>. (1983)</td>
         </tr>
-        </tbody>
+        <tr>
+            <td>Local Cohomology (597)</td>
+            <td>Spring 2024</td>
+            <td><a href="https://math.illinois.edu/directory/profile/s-dutta">Sankar Dutta</a></td>
+            <td>Matsumura, Commutative Algebra.</td>
+        </tr>
+    </tbody>
 </table>
 
 Expository Writings
