@@ -10,12 +10,13 @@ redirect_from:
 
 {% include base_path %}
 
-Undergraduate Years
+Travels
 ======
-
-You can find 
-* a list of teaching and research experience I had [here](https://jiantongliu.github.io/ugradacademic.html), and 
-* my courselist (at UCLA) [here](https://jiantongliu.github.io/coursework.html). 
+You may have seen me before at: 
+* Symmetric Tensor Categories and Representation Theory (IPAM workshop), January 2024, Los Angeles.
+* Western Algebraic Geometry Symposium, November 2023, St. Louis.
+* Midwest Topology Seminar, September 2023, Champaign.
+* Joint Mathematics Meeting, January 2023, Boston. 
 
 
 Volunteering
