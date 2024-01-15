@@ -16,4 +16,4 @@ I am currently interested in abstract nonsense like algebraic geometry, category
 
 Current Teaching
 ------
-Spring 2024: MATH 257 (Linear Algebra with Computational Applications)\
+Spring 2024: MATH 257 (Linear Algebra with Computational Applications)
