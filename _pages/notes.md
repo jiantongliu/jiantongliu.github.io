@@ -131,16 +131,16 @@ Lecture Notes
             <td>Hatcher, Algebraic Topology.</td>
         </tr>
         <tr>
-            <td>Real Analysis (540)</td>
+            <td><a href = "../files/540_Notes.pdf">Real Analysis</a> (540)</td>
             <td>Spring 2024</td>
             <td><a href="https://xcli.web.illinois.edu/homepage/">Xiaochun Li</a></td>
             <td>Foland, Real Analysis.</td>
         </tr>
         <tr>
-            <td>Combinatorial Mathematics (580)</td>
+            <td><a href = "../files/580_Notes.pdf">Combinatorial Mathematics</a> (580)</td>
             <td>Spring 2024</td>
             <td><a href="https://math.illinois.edu/directory/profile/jobal">Jozsef Balogh</a></td>
-            <td></td>
+            <td>West, Combinatorial Mathematics.</td>
         </tr>
         <tr>
             <td><a href = "../files/595_GC_Notes.pdf">Group Cohomology</a> (595)</td>
