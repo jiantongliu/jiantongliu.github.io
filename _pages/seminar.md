@@ -10,5 +10,3 @@ redirect_from:
 {% include base_path %}
 
 [K-theory Reading Seminar](https://jiantongliu.github.io/597K/)
-
-[Local Cohomology Reading Group](https://jiantongliu.github.io/597LC/)
