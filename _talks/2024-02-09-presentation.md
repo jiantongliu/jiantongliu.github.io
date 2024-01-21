@@ -4,7 +4,7 @@ collection: talks
 type: "Presentation"
 permalink: /talks/2023-02-09-presentation
 venue: "Algebraic K-theory Reading Seminar"
-date: TBD
+date: 2024-02-09
 location: "UIUC"
 ---
 
