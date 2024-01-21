@@ -3,7 +3,7 @@ title: "+=Q Theorem"
 collection: talks
 type: "Presentation"
 permalink: /talks/2023-02-09-presentation
-venue: "TBD"
+venue: "Algebraic K-theory Reading Seminar"
 date: TBD
 location: "UIUC"
 ---
