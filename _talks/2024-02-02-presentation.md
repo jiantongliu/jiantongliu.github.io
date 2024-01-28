@@ -2,9 +2,9 @@
 title: "$+=Q$ Theorem"
 collection: talks
 type: "Presentation"
-permalink: /talks/2024-02-09-presentation
+permalink: /talks/2024-02-02-presentation
 venue: "Algebraic K-theory Reading Seminar"
-date: 2024-02-09
+date: 2024-02-02
 location: "UIUC"
 ---
 
