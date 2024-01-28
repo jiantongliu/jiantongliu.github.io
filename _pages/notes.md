@@ -200,25 +200,23 @@ Reading Course Notes
   </thead>
   <tbody style="text-align:center">
         <tr>
-            <td rowspan=4><a href="https://jiantongliu.github.io/597K/">Algebraic K-theory</a> (597)</td>
-            <td rowspan=4>Fall 2023 & Spring 2024</td>
-            <td rowspan=4><a href="https://math.illinois.edu/directory/profile/jbheller">Jeremiah Heller</a></td>
+            <td rowspan=2><a href="https://jiantongliu.github.io/597K/">Algebraic K-theory</a> (597)</td>
+            <td>Fall 2023</td>
+            <td rowspan=2><a href="https://math.illinois.edu/directory/profile/jbheller">Jeremiah Heller</a></td>
             <td>Weibel, The K-book.</td>
         </tr>
         <tr>
-            <td>Quillen, <a href = "https://www.jstor.org/stable/1970825">K-theory over Finite Fields</a>. (1972)</td>
-        </tr>
-        <tr>
-            <td>Quillen, <a href = "https://link.springer.com/chapter/10.1007/BFb0067053">Higher Algebraic K-theory: I</a>. (1973)</td>
-        </tr>
-        <tr>
-            <td>Suslin, <a href = "https://link.springer.com/article/10.1007/BF01394024">On the K-theory of Algebraically Closed Fields</a>. (1983)</td>
-        </tr>
-        <tr>
-            <td>Local Cohomology (597)</td>
             <td>Spring 2024</td>
-            <td><a href="https://math.illinois.edu/directory/profile/s-dutta">Sankar Dutta</a></td>
+            <td>Hebestreit, <a href="https://florianadler.github.io/AlgebraBonn/KTheory.pdf">Algebraic and Hermitian K-Theory</a>.</td>
+        </tr>
+        <tr>
+            <td rowspan=2>Local Cohomology (597)</td>
+            <td rowspan=2>Spring 2024</td>
+            <td rowspan=2><a href="https://math.illinois.edu/directory/profile/s-dutta">Sankar Dutta</a></td>
             <td>Matsumura, Commutative Algebra.</td>
+        </tr>
+        <tr>
+            <td>Serre, Local Algebra.</td>
         </tr>
     </tbody>
 </table>
