@@ -12,7 +12,7 @@ I am a first-year Ph.D. student at University of Illinois Urbana-Champaign (UIUC
 
 General Research Interest
 ------
-I am currently interested in abstract nonsense like algebraic geometry, algebraic K-theory, higher algebra, and homotopy theory. I am also interested in PDEs, dynamics, and topics in mathematical physics. 
+I am currently interested in abstract nonsense like algebraic geometry, algebraic K-theory, higher algebra, and homotopy theory. I am also interested in PDEs, dynamics, and mathematical physics. 
 
 Current Teaching
 ------
