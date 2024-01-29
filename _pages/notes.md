@@ -134,7 +134,7 @@ Lecture Notes
             <td><a href = "../files/540_Notes.pdf">Real Analysis</a> (540)</td>
             <td>Spring 2024</td>
             <td><a href="https://xcli.web.illinois.edu/homepage/">Xiaochun Li</a></td>
-            <td>Foland, Real Analysis.</td>
+            <td>Folland, Real Analysis.</td>
         </tr>
         <tr>
             <td><a href = "../files/580_Notes.pdf">Combinatorial Mathematics</a> (580)</td>
