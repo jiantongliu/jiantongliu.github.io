@@ -1,10 +1,10 @@
 ---
-title: "$+=Q$ Theorem, Part 1"
+title: "$+=Q$ Theorem, Part 2"
 collection: talks
 type: "Presentation"
-permalink: /talks/2024-02-02-presentation
+permalink: /talks/2024-02-09-presentation
 venue: "Algebraic K-theory Reading Seminar"
-date: 2024-02-02
+date: 2024-02-09
 location: "UIUC"
 ---
 
