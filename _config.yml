@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jiantong Liu's Site"
+title                    : "Jiantong Liu"
 title_separator          : "-"
 name                     : &name "Jiantong Liu"
 description              : &description "personal description"
