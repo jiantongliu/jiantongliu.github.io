@@ -137,7 +137,7 @@ Lecture Notes
             <td>Folland, Real Analysis.</td>
         </tr>
         <tr>
-            <td><a href = "../files/580_Notes.pdf">Combinatorial Mathematics</a> (580)</td>
+            <td>Combinatorial Mathematics (580)</td>
             <td>Spring 2024</td>
             <td><a href="https://math.illinois.edu/directory/profile/jobal">Jozsef Balogh</a></td>
             <td>West, Combinatorial Mathematics.</td>
