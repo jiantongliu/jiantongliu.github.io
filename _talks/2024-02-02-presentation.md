@@ -8,4 +8,4 @@ date: 2024-02-02
 location: "UIUC"
 ---
 
-We study the properties of the $S^{-1}S$-construction for a given symmetric monoidal category $S$ from Grayson's [1976 paper](https://link.springer.com/chapter/10.1007/BFb0080003). 
+We study the properties of the $S^{-1}S$-construction for a given symmetric monoidal category $S$ from Grayson's [1976 paper](https://link.springer.com/chapter/10.1007/BFb0080003). [<a href = "../files/+=Q.pdf">Notes</a>] 
