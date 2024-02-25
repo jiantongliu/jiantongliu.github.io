@@ -21,7 +21,7 @@ You may have seen me before at:
 
 Erdős Number
 ======
-Currently, my Erdős number is 5: Jiantong Liu -> [Marion Campisi](https://sites.google.com/a/sjsu.edu/marion_campisi/research?authuser=0) -> [Maggy Tomova](https://sciences.ucf.edu/person/maggy-tomova/) -> [Zsuzsanna Szaniszló](https://www.valpo.edu/mathematics-statistics/about-us/faculty/zsuzsanna-szaniszlo/) -> [Zsolt Tuza](https://dcs.uni-pannon.hu/en/staff/instructors-and-researchers/zsolt-tuza) -> Paul Erdős
+Currently, my Erdős number is 5. 
 
 Links & Resources
 ======
