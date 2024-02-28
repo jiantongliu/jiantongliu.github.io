@@ -80,12 +80,6 @@ Lecture Notes
             <td><a href="https://www.math.ucla.edu/~jmoraga/">Joaquí­n Moraga</a></td>
         </tr>
         <tr>
-            <td>Differential Topology (225A)</td>
-            <td>Fall 2022</td>
-            <td><a href="https://www.math.ucla.edu/~liu/">Kefeng Liu</a></td>
-            <td>N/A</td>
-        </tr>
-        <tr>
             <td><a href = "https://drive.google.com/file/d/1hYd0zgafSdYPqFQmDlB9tcaxwb_6gwGy/view?usp=sharing">Algebraic Topology</a> (225C)</td>
             <td>Spring 2023</td>
             <td><a href="https://math.ucla.edu/~sucharit/">Sucharit Sarkar</a></td>
@@ -137,15 +131,30 @@ Lecture Notes
             <td>Folland, Real Analysis.</td>
         </tr>
         <tr>
-            <td>Combinatorial Mathematics (580)</td>
-            <td>Spring 2024</td>
-            <td><a href="https://math.illinois.edu/directory/profile/jobal">Jozsef Balogh</a></td>
-            <td>West, Combinatorial Mathematics.</td>
-        </tr>
-        <tr>
             <td><a href = "../files/595_GC_Notes.pdf">Group Cohomology</a> (595)</td>
             <td>Fall 2023</td>
             <td><a href="https://vesna.web.illinois.edu/">Vesna Stojanoska</a></td>
+            <td>N/A</td>
+        </tr>
+    </tbody>
+    <thead>
+        <tr>
+            <th colspan=4 style="text-align:center">Other Courses</th>
+        </tr>
+    </thead>
+    <thead>
+        <tr>
+            <th style="text-align:center">Course</th>
+            <th style="text-align:center">Term</th>
+            <th style="text-align:center">Instructor</th>
+            <th style="text-align:center">Textbook</th>
+        </tr>
+    </thead>
+    <tbody style="text-align:center">
+        <tr>
+            <td>Motivic Cohomology (<a href="https://bimsa.net/activity/MotCoh1/">BIMSA</a>)</td>
+            <td>Spring 2024</td>
+            <td><a href="https://bimsa.net/people/nanjunyang/">Nanjun Yang</a></td>
             <td>N/A</td>
         </tr>
     </tbody>
