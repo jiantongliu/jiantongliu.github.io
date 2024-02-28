@@ -152,7 +152,7 @@ Lecture Notes
     </thead>
     <tbody style="text-align:center">
         <tr>
-            <td>Motivic Cohomology (<a href="https://bimsa.net/activity/MotCoh1/">BIMSA</a>)</td>
+            <td><a href = "../files/Motivic_Cohomology_Notes.pdf">Motivic Cohomology</a> (<a href="https://bimsa.net/activity/MotCoh1/">BIMSA</a>)</td>
             <td>Spring 2024</td>
             <td><a href="https://bimsa.net/people/nanjunyang/">Nanjun Yang</a></td>
             <td>N/A</td>
