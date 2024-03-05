@@ -230,6 +230,10 @@ Reading Course Notes
     </tbody>
 </table>
 
+Talk Notes
+------
+All talk notes available can be found [here](https://jiantongliu.github.io/talks/). 
+
 Expository Writings
 ------
 * My revision notes for UIUC algebra comprehensive exam.
