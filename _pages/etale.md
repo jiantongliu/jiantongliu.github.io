@@ -4,7 +4,6 @@ title: "Étale Cohomology Reading Seminar"
 permalink: /seminar/etaleSu24/
 author_profile: true
 redirect_from:
-  - /seminar/etaleSu24/
   - /seminar/etaleSu24.html
   - /etaleSu24
   - /etaleSu24.html
