@@ -1,10 +1,10 @@
 ---
 layout: archive
 title: "Étale Cohomology Reading Seminar"
-permalink: /seminar/etaleSu24/
+permalink: /seminars/etaleSu24/
 author_profile: true
 redirect_from:
-  - /seminar/etaleSu24.html
+  - /seminars/etaleSu24.html
   - /etaleSu24/
   - /etaleSu24
   - /etaleSu24.html
