@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Algebraic K-theory Reading Seminar"
+title: "Étale Cohomology Reading Seminar"
 permalink: /etaleSu24/
 author_profile: true
 redirect_from:
