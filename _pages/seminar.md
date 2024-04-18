@@ -9,4 +9,4 @@ redirect_from:
 ---
 {% include base_path %}
 
-[K-theory Reading Seminar](https://jiantongliu.github.io/597K/)
+[K-theory Reading Seminar](https://jiantongliu.github.io/seminar/597K/)
