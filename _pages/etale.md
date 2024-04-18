@@ -21,7 +21,8 @@ This is the syllabus of UIUC étale cohomology learning seminar in summer 2024.
 
 **Resources**: 
 * [Number Theory Learning Seminar](https://www.math.ucla.edu/~jaswenberg/ntlearning/ntlearning22X.html) at UCLA, summer 2022.
-* [Étale cohomology learning seminar](https://users.ox.ac.uk/~quee4127/etale/etale_cohomology.html) at Oxford, spring 2021.
-* [Étale cohomology seminar](https://sma.epfl.ch/~mornev/etale.html) at EPFL, 2018-2019.
-* Daniel Litt's course on [Étale cohomology and the Weil conjectures](https://www.daniellitt.com/tale-cohomology) at UGA, fall 2020.
-* Bhargav Bhatt's course on [Étale Cohomology](https://www.math.ias.edu/~bhatt/teaching/mat731fall2011/index.html) at Michigan, fall 2011. 
+* [Étale Cohomology Learning Seminar](https://users.ox.ac.uk/~quee4127/etale/etale_cohomology.html) at Oxford, spring 2021.
+* [Étale Cohomology Seminar](https://sma.epfl.ch/~mornev/etale.html) at EPFL, 2018-2019.
+* [Daniel Litt's course](https://www.daniellitt.com/tale-cohomology) on Étale Cohomology and the Weil Conjectures at UGA, fall 2020.
+* [Bhargav Bhatt's course](https://www.math.ias.edu/~bhatt/teaching/mat731fall2011/index.html) on Étale Cohomology at Michigan, fall 2011. 
+* [The Stacks Project](https://stacks.math.columbia.edu/tag/03N1), and [Aise Johan de Jong's original course](https://math.columbia.edu/~dejong/wordpress/wp-content/uploads/2015/04/EtaleCohomology.pdf) on Étale Cohomology at Columbia, fall 2009. 
