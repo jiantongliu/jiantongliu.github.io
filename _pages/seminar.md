@@ -9,4 +9,6 @@ redirect_from:
 ---
 {% include base_path %}
 
-[K-theory Reading Seminar](https://jiantongliu.github.io/seminar/597K/)
+[Algebraic K-theory Reading Seminar](https://jiantongliu.github.io/seminar/597K/)
+
+[Étale Cohomology Reading Seminar](https://jiantongliu.github.io/seminar/etaleSu24/)
