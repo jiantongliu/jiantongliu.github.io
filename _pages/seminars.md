@@ -1,11 +1,11 @@
 ---
 layout: archive
 title: "Seminars"
-permalink: /seminar/
+permalink: /seminars/
 author_profile: true
 redirect_from:
-  - /seminar
-  - /seminar.html
+  - /seminars
+  - /seminars.html
 ---
 {% include base_path %}
 
