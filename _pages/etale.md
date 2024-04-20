@@ -29,5 +29,5 @@ This is the syllabus of UIUC étale cohomology learning seminar in summer 2024.
 
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/L%27%C3%89tale_%282484m%29.JPG" alt="The Étale, France" style="width:50%">
-<div class="caption">The Étale, France</div>
+<div class="caption", align="center">The Étale, France</div>
 </p>
