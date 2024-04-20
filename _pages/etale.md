@@ -11,8 +11,6 @@ redirect_from:
 ---
 {% include base_path %}
 
-![The Étale, France](https://upload.wikimedia.org/wikipedia/commons/3/31/L%27%C3%89tale_%282484m%29.JPG)
-
 This is the syllabus of UIUC étale cohomology learning seminar in summer 2024. 
 
 **Time**: _TBD_ CST on _TBDs_. 
@@ -28,3 +26,6 @@ This is the syllabus of UIUC étale cohomology learning seminar in summer 2024.
 * [Daniel Litt's course](https://www.daniellitt.com/tale-cohomology) on Étale Cohomology and the Weil Conjectures at UGA, fall 2020.
 * [Bhargav Bhatt's course](https://www.math.ias.edu/~bhatt/teaching/mat731fall2011/index.html) on Étale Cohomology at Michigan, fall 2011. 
 * [The Stacks Project](https://stacks.math.columbia.edu/tag/03N1), and [Aise Johan de Jong's original course](https://math.columbia.edu/~dejong/wordpress/wp-content/uploads/2015/04/EtaleCohomology.pdf) on Étale Cohomology at Columbia, fall 2009. 
+
+
+![The Étale, France](https://upload.wikimedia.org/wikipedia/commons/3/31/L%27%C3%89tale_%282484m%29.JPG)
