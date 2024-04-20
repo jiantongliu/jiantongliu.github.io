@@ -28,6 +28,6 @@ This is the syllabus of UIUC étale cohomology learning seminar in summer 2024.
 * [The Stacks Project](https://stacks.math.columbia.edu/tag/03N1), and [Aise Johan de Jong's original course](https://math.columbia.edu/~dejong/wordpress/wp-content/uploads/2015/04/EtaleCohomology.pdf) on Étale Cohomology at Columbia, fall 2009. 
 
 <figure>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/L%27%C3%89tale_%282484m%29.JPG" alt="The Étale, France" style="width:50%">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/L%27%C3%89tale_%282484m%29.JPG" alt="The Étale, France" align="center" style="width:50%">
   <figcaption>The Étale, France</figcaption>
 </figure>
