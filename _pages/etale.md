@@ -11,6 +11,8 @@ redirect_from:
 ---
 {% include base_path %}
 
+![The Étale, France](https://upload.wikimedia.org/wikipedia/commons/3/31/L%27%C3%89tale_%282484m%29.JPG)
+
 This is the syllabus of UIUC étale cohomology learning seminar in summer 2024. 
 
 **Time**: _TBD_ CST on _TBDs_. 
