@@ -11,7 +11,7 @@ redirect_from:
 ---
 {% include base_path %}
 
-This is the syllabus of UIUC étale cohomology learning seminar in summer 2024. 
+This is the syllabus of UIUC étale cohomology learning seminar in summer 2024. A list of discussed topics (subject to changes) can be found [here](.../files/Etale_Cohomology_Seminar.pdf). 
 
 **Time**: _TBD_ CST on _TBDs_. 
 
