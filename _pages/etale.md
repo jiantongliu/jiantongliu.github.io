@@ -40,7 +40,7 @@ This is the syllabus of UIUC étale cohomology learning seminar in summer 2024. 
         <tr>
             <td></td>
             <td>Haoran Yin</td>
-            <td></td>
+            <td>Étale Topology and Étale Morphisms</td>
             <td></td>
         </tr>
         <tr>
