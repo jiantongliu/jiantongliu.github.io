@@ -13,7 +13,7 @@ redirect_from:
 
 This is the syllabus of UIUC étale cohomology learning seminar in summer 2024. A list of discussed topics (subject to changes) can be found [here](https://jiantongliu.github.io/files/Etale_Cohomology_Seminar.pdf). 
 
-**Time**: _TBD_ CST on _TBDs_. 
+**Time**: 8 pm CST on Mondays and Fridays in May and June. 
 
 **Location**: on Zoom.
 
@@ -32,25 +32,25 @@ This is the syllabus of UIUC étale cohomology learning seminar in summer 2024. 
     </thead>
     <tbody style="text-align:center">
         <tr>
-            <td style="width: 10%"></td>
+            <td style="width: 10%">May 20</td>
             <td style="width: 15%">Jiantong Liu</td>
             <td style="width: 40%">Descent Theory for Sheaves</td>
             <td style="width: 35%"></td>
         </tr>
         <tr>
-            <td></td>
+            <td>May 24</td>
             <td>Haoran Yin</td>
             <td>Étale Topology and Étale Morphisms</td>
             <td></td>
         </tr>
         <tr>
-            <td></td>
+            <td>May 27</td>
             <td>Levi Poon</td>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <td></td>
+            <td>May 31</td>
             <td>Dinglong Wang</td>
             <td></td>
             <td></td>
