@@ -46,27 +46,27 @@ Courses
             <td>115A (Upper Division Linear Algebra)</td>
         </tr>
         <tr>
-              <td rowspan = 2>Fall</td>
-              <td>115AH</td>
+            <td rowspan = 2>Fall</td>
+            <td>115AH</td>
         </tr>
         <tr>
-                <td>105A (Mathematics for Teaching)</td>
+             <td>105A (Mathematics for Teaching)</td>
         </tr>
         <tr>
-                <td rowspan = 4>2022</td>
-                <td rowspan = 2>Winter</td>
-                <td>115AH</td>
+            <td rowspan = 4>2022</td>
+            <td rowspan = 2>Winter</td>
+            <td>115AH</td>
         </tr>
         <tr>
-                  <td>105B (Mathematics for Teaching)</td>
-          </tr>
+            <td>105B (Mathematics for Teaching)</td>
+        </tr>
         <tr>
-                  <td>Spring</td>
-                  <td>105C (Mathematics for Teaching)</td>
-          </tr>
+            <td>Spring</td>
+            <td>105C (Mathematics for Teaching)</td>
+        </tr>
         <tr>
-                  <td>Summer</td>
-                  <td>115A</td>
+            <td>Summer</td>
+	    <td>115A</td>
         </tr>
     </tbody>
     <thead>
@@ -75,26 +75,31 @@ Courses
         </tr>
     </thead>
     <thead>
-      <tr>
+    	<tr>
             <th style="text-align:center">Year</th>
             <th style="text-align:center">Term</th>
             <th style="text-align:center">As Grader</th>
             <th style="text-align:center">As TA</th>
-        </tr>
+    	</tr>
     </thead>
     <tbody style="text-align:center">
-    <tr>
+    	<tr>
             <td>2023</td>
             <td>Fall</td>
             <td>241 (Calculus III)</td>
             <td></td>
-    </tr>
-    <tr>
-            <td>2024</td>
+    	</tr>
+    	<tr>
+            <td rowspan = 2>2024</td>
             <td>Spring</td>
             <td></td>
 	    <td>257 (Linear Algebra with Computational Applications)</td>
-    </tr>
+    	</tr>
+    	<tr>
+            <td>Summer</td>
+            <td></td>
+	    <td></td>
+    	</tr>
     </tbody>
 </table>
 
