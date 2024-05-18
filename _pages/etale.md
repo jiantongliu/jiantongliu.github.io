@@ -46,12 +46,30 @@ This is the syllabus of UIUC étale cohomology learning seminar in summer 2024. 
         <tr>
             <td>May 27</td>
             <td>Levi Poon</td>
-            <td></td>
+            <td>Henselian Rings, Grothendieck Topology and Sites</td>
             <td></td>
         </tr>
         <tr>
             <td>May 31</td>
             <td>Dinglong Wang</td>
+            <td>Étale Fundamental Group</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Jun 3</td>
+            <td>Juhan Kim</td>
+            <td>Sheaves over Étale Topology</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Jun 7</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Jun 10</td>
+            <td>E/Ea Thompson</td>
             <td></td>
             <td></td>
         </tr>
