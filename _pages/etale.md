@@ -51,7 +51,7 @@ This is the syllabus of UIUC étale cohomology learning seminar in summer 2024. 
         </tr>
         <tr>
             <td>May 31</td>
-            <td>Dinglong Wang</td>
+            <td></td>
             <td>Étale Fundamental Group</td>
             <td></td>
         </tr>
