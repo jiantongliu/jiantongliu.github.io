@@ -27,50 +27,42 @@ This is the syllabus of UIUC étale cohomology learning seminar in summer 2024. 
             <th style="text-align:center">Date</th>
             <th style="text-align:center">Speaker</th>
             <th style="text-align:center">Topic</th>
-            <th style="text-align:center">Reference</th>
         </tr>
     </thead>
     <tbody style="text-align:center">
         <tr>
-            <td style="width: 10%">May 20</td>
-            <td style="width: 15%">Jiantong Liu</td>
-            <td style="width: 40%">Descent Theory for Sheaves</td>
-            <td style="width: 35%"></td>
+            <td style="width: 20%">May 20</td>
+            <td style="width: 25%">Jiantong Liu</td>
+            <td style="width: 55%">Descent Theory for Sheaves</td>
         </tr>
         <tr>
             <td>May 24</td>
             <td>Haoran Yin</td>
             <td>Étale Topology and Étale Morphisms</td>
-            <td></td>
         </tr>
         <tr>
             <td>May 27</td>
             <td>Levi Poon</td>
             <td>Henselian Rings, Grothendieck Topology and Sites</td>
-            <td></td>
         </tr>
         <tr>
             <td>May 31</td>
-            <td></td>
+            <td><a href = "https://www.williamyunchen.com/">William Chen</a></td>
             <td>Étale Fundamental Group</td>
-            <td></td>
         </tr>
         <tr>
             <td>Jun 3</td>
             <td>Juhan Kim</td>
             <td>Sheaves over Étale Topology</td>
-            <td></td>
         </tr>
         <tr>
             <td>Jun 7</td>
-            <td></td>
             <td></td>
             <td></td>
         </tr>
         <tr>
             <td>Jun 10</td>
             <td>E/Ea Thompson</td>
-            <td></td>
             <td></td>
         </tr>
     </tbody>
