@@ -33,7 +33,7 @@ This is the syllabus of UIUC étale cohomology learning seminar in summer 2024. 
         <tr>
             <td style="width: 20%">May 20</td>
             <td style="width: 25%">Jiantong Liu</td>
-            <td style="width: 55%">Descent Theory for Sheaves</td>
+            <td style="width: 55%">Descent Theory</td>
         </tr>
         <tr>
             <td>May 24</td>
