@@ -157,12 +157,6 @@ Lecture Notes
             <td><a href="https://bimsa.net/people/nanjunyang/">Nanjun Yang</a></td>
             <td>N/A</td>
         </tr>
-        <tr>
-            <td><a href = "../files/Motivic_Homotopy_Theory_Notes.pdf">Motivic Homotopy Theory</a> (<a href="https://bimsa.net/activity/Disandnorinmothomthe/">BIMSA</a>)</td>
-            <td>Spring 2024</td>
-            <td><a href="https://sites.google.com/view/peng-du">Peng Du</a></td>
-            <td>N/A</td>
-        </tr>
     </tbody>
 </table>
 
