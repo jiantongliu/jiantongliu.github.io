@@ -57,13 +57,13 @@ This is the syllabus of UIUC étale cohomology learning seminar in summer 2024. 
         </tr>
         <tr>
             <td>Jun 7</td>
-            <td></td>
-            <td></td>
+            <td>Dinglong Wang</td>
+            <td>Category of Étale Sheaves</td>
         </tr>
         <tr>
             <td>Jun 10</td>
             <td>E/Ea Thompson</td>
-            <td></td>
+            <td>Direct and Inverse Image of Sheaves</td>
         </tr>
     </tbody>
 </table>
