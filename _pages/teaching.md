@@ -97,7 +97,7 @@ Courses
     	</tr>
     	<tr>
             <td>Summer</td>
-            <td></td>
+            <td>444 (Elementary Real Analysis)</td>
 	    <td></td>
     	</tr>
     </tbody>
