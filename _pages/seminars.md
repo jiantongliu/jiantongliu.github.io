@@ -11,4 +11,4 @@ redirect_from:
 
 [Algebraic K-theory Reading Seminar](https://jiantongliu.github.io/seminars/597K/)
 
-[Étale Cohomology Reading Seminar](https://jiantongliu.github.io/seminars/etaleSu24/)
+[Étale Cohomology Learning Seminar](https://jiantongliu.github.io/seminars/etaleSu24/)
