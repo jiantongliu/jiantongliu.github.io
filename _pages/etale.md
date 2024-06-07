@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Étale Cohomology Reading Seminar"
+title: "Étale Cohomology Learning Seminar"
 permalink: /seminars/etaleSu24/
 author_profile: true
 redirect_from:
