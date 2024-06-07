@@ -17,7 +17,7 @@ This is the syllabus of UIUC étale cohomology learning seminar in summer 2024. 
 
 **Location**: on Zoom.
 
-**Text**: mainly Milne's [_Étale Cohomology_](https://www.jstor.org/stable/j.ctt1bpmbk1) and Fu's [_Étale Cohomology Theory_](https://www.worldscientific.com/worldscibooks/10.1142/9569). 
+**Main References**: Milne's [_Étale Cohomology_](https://www.jstor.org/stable/j.ctt1bpmbk1), [_Lectures on Étale Cohomology_](https://www.jmilne.org/math/CourseNotes/LEC.pdf) and Fu's [_Étale Cohomology Theory_](https://www.worldscientific.com/worldscibooks/10.1142/9569). 
 
 **Schedule**: 
 
@@ -51,32 +51,32 @@ This is the syllabus of UIUC étale cohomology learning seminar in summer 2024. 
             <td>Étale Fundamental Group</td>
         </tr>
         <tr>
-            <td>Jun 3</td>
+            <td>June 3</td>
             <td>Juhan Kim</td>
             <td>Sheaves over Étale Topology</td>
         </tr>
         <tr>
-            <td>Jun 7</td>
+            <td>June 7</td>
             <td>Dinglong Wang</td>
             <td>Category of Étale Sheaves</td>
         </tr>
         <tr>
-            <td>Jun 10</td>
+            <td>June 10</td>
             <td>E/Ea Thompson</td>
             <td>Direct and Inverse Image of Sheaves</td>
         </tr>
         <tr>
-            <td>Jun 14</td>
+            <td>June 14</td>
             <td>Jiantong Liu</td>
             <td>Étale Cohomology</td>
         </tr>
         <tr>
-            <td>Jun 17</td>
+            <td>June 17</td>
             <td>Juhan Kim</td>
             <td>Čech Cohomology</td>
         </tr>
         <tr>
-            <td>Jun 21</td>
+            <td>June 21</td>
             <td>Haoran Yin</td>
             <td>Comparison of Topologies</td>
         </tr>
