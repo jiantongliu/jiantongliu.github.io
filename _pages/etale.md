@@ -70,6 +70,16 @@ This is the syllabus of UIUC étale cohomology learning seminar in summer 2024. 
             <td>Jiantong Liu</td>
             <td>Étale Cohomology</td>
         </tr>
+        <tr>
+            <td>Jun 17</td>
+            <td>Juhan Kim</td>
+            <td>Čech Cohomology</td>
+        </tr>
+        <tr>
+            <td>Jun 21</td>
+            <td>Haoran Yin</td>
+            <td>Comparison of Topologies</td>
+        </tr>
     </tbody>
 </table>
 
