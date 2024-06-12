@@ -92,13 +92,12 @@ Courses
     	<tr>
             <td rowspan = 2>2024</td>
             <td>Spring</td>
-            <td></td>
+            <td rowspan = 2></td>
 	    <td>257 (Linear Algebra with Computational Applications)</td>
     	</tr>
     	<tr>
             <td>Summer</td>
-            <td>444 (Elementary Real Analysis)</td>
-	    <td></td>
+	    <td>444 (Elementary Real Analysis)</td>
     	</tr>
     </tbody>
 </table>
