@@ -78,7 +78,12 @@ This is the syllabus of UIUC étale cohomology learning seminar in summer 2024. 
         <tr>
             <td>June 21</td>
             <td>Haoran Yin</td>
-            <td>Comparison of Topologies</td>
+            <td>Principal Homogeneous Spaces</td>
+        </tr>
+        <tr>
+            <td>June 24</td>
+            <td>Levi Poon</td>
+            <td>Constructible Sheaves</td>
         </tr>
     </tbody>
 </table>
