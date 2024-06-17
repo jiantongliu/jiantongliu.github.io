@@ -71,17 +71,21 @@ This is the syllabus of UIUC étale cohomology learning seminar in summer 2024. 
             <td>Étale Cohomology</td>
         </tr>
         <tr>
-            <td>June 17</td>
-            <td>Juhan Kim</td>
+            <td>June 20</td>
+            <td rowspan = 2>Juhan Kim</td>
             <td>Čech Cohomology</td>
         </tr>
         <tr>
             <td>June 21</td>
+            <td>Comparison of Topologies</td>
+        </tr>
+        <tr>
+            <td>June 24</td>
             <td>Haoran Yin</td>
             <td>Principal Homogeneous Spaces</td>
         </tr>
         <tr>
-            <td>June 24</td>
+            <td>June 28</td>
             <td>Levi Poon</td>
             <td>Constructible Sheaves</td>
         </tr>
