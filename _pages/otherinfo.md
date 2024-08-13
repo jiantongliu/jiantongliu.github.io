@@ -10,15 +10,6 @@ redirect_from:
 
 {% include base_path %}
 
-Travels
-======
-You may have seen me before at: 
-* Algebraic Geometry Northeastern Series, March 2024, Boston. 
-* Symmetric Tensor Categories and Representation Theory (IPAM workshop), January 2024, Los Angeles.
-* Western Algebraic Geometry Symposium, November 2023, St. Louis.
-* Midwest Topology Seminar, September 2023, Champaign.
-* Joint Mathematics Meeting, January 2023, Boston.
-
 Erdős Number
 ======
 Currently, my Erdős number is 5. 
