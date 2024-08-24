@@ -11,11 +11,11 @@ redirect_from:
 ---
 {% include base_path %}
 
-This is the syllabus of UIUC étale cohomology learning seminar in summer 2024. A list of discussed topics (subject to changes) can be found [here](https://jiantongliu.github.io/files/Etale_Cohomology_Seminar.pdf). 
+This is the syllabus of UIUC étale cohomology learning seminar in summer and fall 2024. A list of discussed topics (subject to changes) can be found [here](https://jiantongliu.github.io/files/Etale_Cohomology_Seminar.pdf). 
 
-**Time**: 8 pm CST on Mondays and Fridays in May and June. 
+**Time**: 12 pm on Monday in the fall semester. ~~8 pm CST on Mondays and Fridays in May and June.~~
 
-**Location**: on Zoom.
+**Location**: TBD ~~on Zoom.~~
 
 **Main References**: Milne's [_Étale Cohomology_](https://www.jstor.org/stable/j.ctt1bpmbk1), [_Lectures on Étale Cohomology_](https://www.jmilne.org/math/CourseNotes/LEC.pdf) and Fu's [_Étale Cohomology Theory_](https://www.worldscientific.com/worldscibooks/10.1142/9569). 
 
@@ -87,6 +87,11 @@ This is the syllabus of UIUC étale cohomology learning seminar in summer 2024. 
             <td>June 28</td>
             <td>Levi Poon</td>
             <td>Constructible Sheaves</td>
+        </tr>
+        <tr>
+            <td>September 2</td>
+            <td>Haoran Yin</td>
+            <td></td>
         </tr>
     </tbody>
 </table>
