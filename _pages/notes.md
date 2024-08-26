@@ -113,6 +113,12 @@ Lecture Notes
             <td>Serre, Local Algebra.</td>
         </tr>
         <tr>
+            <td>Complex Algebraic Geometry (514)</td>
+            <td>Fall 2024</td>
+            <td><a href="https://katzs.web.illinois.edu/">Sheldon Katz</a></td>
+            <td>Griffiths & Harris, Principles of Algebraic Geometry.</td>
+        </tr>
+        <tr>
             <td><a href = "../files/518_Notes.pdf">Differentiable Manifolds, Part I</a> (518)</td>
             <td>Fall 2023</td>
             <td><a href="https://lerman.web.illinois.edu/">Eugene Lerman</a></td>
@@ -127,8 +133,13 @@ Lecture Notes
         <tr>
             <td><a href = "../files/540_Notes.pdf">Real Analysis</a> (540)</td>
             <td>Spring 2024</td>
-            <td><a href="https://xcli.web.illinois.edu/homepage/">Xiaochun Li</a></td>
+            <td rowspan = 2><a href="https://xcli.web.illinois.edu/homepage/">Xiaochun Li</a></td>
             <td>Folland, Real Analysis.</td>
+        </tr>
+        <tr>
+            <td>Harmonic Analysis (545)</td>
+            <td>Fall 2024</td>
+            <td>N/A</td>
         </tr>
         <tr>
             <td><a href = "../files/595_GC_Notes.pdf">Group Cohomology</a> (595)</td>
