@@ -31,7 +31,7 @@ Courses
         <tr>
             <td>2020</td>
             <td>Fall</td>
-            <td rowspan=3>115AH (Honors Linear Algebra)</td>
+            <td rowspan=3 title = "Honors Linear Algebra">115AH</td>
             <td rowspan=10></td>
         </tr>
         <tr>
@@ -43,14 +43,14 @@ Courses
         </tr>
         <tr>
             <td>Summer</td>
-            <td>115A (Upper Division Linear Algebra)</td>
+            <td title = "Upper Division Linear Algebra">115A</td>
         </tr>
         <tr>
             <td rowspan = 2>Fall</td>
             <td>115AH</td>
         </tr>
         <tr>
-             <td>105A (Mathematics for Teaching)</td>
+             <td title = "Mathematics for Teaching, Part I">105A</td>
         </tr>
         <tr>
             <td rowspan = 4>2022</td>
@@ -58,11 +58,11 @@ Courses
             <td>115AH</td>
         </tr>
         <tr>
-            <td>105B (Mathematics for Teaching)</td>
+            <td title = "Mathematics for Teaching, Part II">105B</td>
         </tr>
         <tr>
             <td>Spring</td>
-            <td>105C (Mathematics for Teaching)</td>
+            <td title = "Mathematics for Teaching, Part III">105C</td>
         </tr>
         <tr>
             <td>Summer</td>
@@ -86,22 +86,22 @@ Courses
     	<tr>
             <td>2023</td>
             <td>Fall</td>
-            <td>241 (Calculus III)</td>
+            <td title = "Calculus III">241</td>
             <td></td>
     	</tr>
     	<tr>
             <td rowspan = 3>2024</td>
             <td>Spring</td>
             <td rowspan = 3></td>
-	    <td>257 (Linear Algebra with Computational Applications)</td>
+	    <td title = "Linear Algebra with Computational Applications">257</td>
     	</tr>
     	<tr>
             <td>Summer</td>
-	    <td>444 (Elementary Real Analysis)</td>
+	    <td title = "Elementary Real Analysis">444</td>
     	</tr>
 	<tr>
             <td>Fall</td>
-	    <td>257</td>
+	    <td title = "Linear Algebra with Computational Applications">257</td>
     	</tr>
     </tbody>
 </table>
