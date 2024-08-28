@@ -66,7 +66,7 @@ Courses
         </tr>
         <tr>
             <td>Summer</td>
-	    <td>115A</td>
+	    <td title = "Upper Division Linear Algebra">115A</td>
         </tr>
     </tbody>
     <thead>
