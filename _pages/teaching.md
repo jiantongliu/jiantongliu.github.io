@@ -47,7 +47,7 @@ Courses
         </tr>
         <tr>
             <td rowspan = 2>Fall</td>
-            <td>115AH</td>
+            <td title = "Honors Linear Algebra">115AH</td>
         </tr>
         <tr>
              <td title = "Mathematics for Teaching, Part I">105A</td>
@@ -55,7 +55,7 @@ Courses
         <tr>
             <td rowspan = 4>2022</td>
             <td rowspan = 2>Winter</td>
-            <td>115AH</td>
+            <td title = "Honors Linear Algebra">115AH</td>
         </tr>
         <tr>
             <td title = "Mathematics for Teaching, Part II">105B</td>
