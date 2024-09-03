@@ -15,7 +15,7 @@ This is the syllabus of UIUC étale cohomology learning seminar in summer and fa
 
 **Time**: 12 pm on Monday in the fall semester. ~~8 pm CST on Mondays and Fridays in May and June.~~
 
-**Location**: TBD ~~on Zoom.~~
+**Location**: Altgeld Hall 141; unless otherwise, which would be English Building 307. ~~on Zoom.~~
 
 **Main References**: Milne's [_Étale Cohomology_](https://www.jstor.org/stable/j.ctt1bpmbk1), [_Lectures on Étale Cohomology_](https://www.jmilne.org/math/CourseNotes/LEC.pdf) and Fu's [_Étale Cohomology Theory_](https://www.worldscientific.com/worldscibooks/10.1142/9569). 
 
