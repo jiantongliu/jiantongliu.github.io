@@ -101,7 +101,7 @@ This is the syllabus of UIUC étale cohomology learning seminar in summer and fa
         <tr>
             <td>September 23</td>
             <td>Jiantong Liu</td>
-            <td>Purity and Gysin Sequence</td>
+            <td>Proper Base-change Theorem</td>
         </tr>
     </tbody>
 </table>
