@@ -89,9 +89,9 @@ This is the syllabus of UIUC étale cohomology learning seminar in summer and fa
             <td>Constructible Sheaves</td>
         </tr>
         <tr>
-            <td>September 2</td>
+            <td>September 9</td>
             <td>Haoran Yin</td>
-            <td></td>
+            <td>Cohomology of Curves</td>
         </tr>
     </tbody>
 </table>
