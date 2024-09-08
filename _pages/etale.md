@@ -93,6 +93,16 @@ This is the syllabus of UIUC étale cohomology learning seminar in summer and fa
             <td>Haoran Yin</td>
             <td>Cohomology of Curves</td>
         </tr>
+        <tr>
+            <td>September 16</td>
+            <td>Juhan Kim</td>
+            <td>Cohomological Dimension</td>
+        </tr>
+        <tr>
+            <td>September 23</td>
+            <td>Jiantong Liu</td>
+            <td>Purity and Gysin Sequence</td>
+        </tr>
     </tbody>
 </table>
 
