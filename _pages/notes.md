@@ -165,8 +165,12 @@ Lecture Notes
         <tr>
             <td><a href = "../files/Motivic_Cohomology_Notes.pdf">Motivic Cohomology</a> (<a href="https://bimsa.net/activity/MotCoh1/">BIMSA</a>)</td>
             <td>Spring 2024</td>
-            <td><a href="https://bimsa.net/people/nanjunyang/">Nanjun Yang</a></td>
-            <td>N/A</td>
+            <td rowspan = 2><a href="https://bimsa.net/people/nanjunyang/">Nanjun Yang</a></td>
+            <td rowspan = 2>N/A</td>
+        </tr>
+        <tr>
+            <td>Steenrod Operations (<a href="https://bimsa.net/activity/SteOpeFroClatoMot/">BIMSA</a>)</td>
+            <td>Fall 2024</td>
         </tr>
     </tbody>
 </table>
