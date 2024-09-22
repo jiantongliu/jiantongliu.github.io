@@ -106,6 +106,7 @@ Courses
     </tbody>
 </table>
 
-Miscellaneous
+Math Circle
 ------
-I was an assistant instructor at the [UCLA Olga Radko Endowed Math Circle](https://circles.math.ucla.edu/circles/) between Fall 2021 and Spring 2023. 
+* Currently, I am an instructor at the [UIUC Math Circle](https://zqsong2.web.illinois.edu/mathcircle.html).
+* I was an assistant instructor at the [UCLA Olga Radko Endowed Math Circle](https://circles.math.ucla.edu/circles/) from 2021 to 2023. 
