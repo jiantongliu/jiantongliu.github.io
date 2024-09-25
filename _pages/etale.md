@@ -103,6 +103,11 @@ This is the syllabus of UIUC étale cohomology learning seminar in summer and fa
             <td>Jiantong Liu</td>
             <td>Proper Base-change Theorem</td>
         </tr>
+        <tr>
+            <td>September 30</td>
+            <td>Levi Poon</td>
+            <td></td>
+        </tr>
     </tbody>
 </table>
 
