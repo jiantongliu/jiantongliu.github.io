@@ -106,7 +106,7 @@ This is the syllabus of UIUC étale cohomology learning seminar in summer and fa
         <tr>
             <td>September 30</td>
             <td>Levi Poon</td>
-            <td></td>
+            <td>Cohomology with Compact Support</td>
         </tr>
     </tbody>
 </table>
