@@ -108,6 +108,16 @@ This is the syllabus of UIUC étale cohomology learning seminar in summer and fa
             <td>Levi Poon</td>
             <td>Cohomology with Compact Support</td>
         </tr>
+        <tr>
+            <td>October 7</td>
+            <td>Haoran Yin</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>October 14</td>
+            <td>Juhan Kim</td>
+            <td></td>
+        </tr>
     </tbody>
 </table>
 
