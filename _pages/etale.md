@@ -111,11 +111,16 @@ This is the syllabus of UIUC étale cohomology learning seminar in summer and fa
         <tr>
             <td>October 7</td>
             <td>Haoran Yin</td>
-            <td></td>
+            <td>Generic Base-change Theorem, Generic Local Acyclicity, and Finiteness Theorem</td>
         </tr>
         <tr>
             <td>October 14</td>
             <td>Juhan Kim</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>October 21</td>
+            <td>Jiantong Liu</td>
             <td></td>
         </tr>
     </tbody>
