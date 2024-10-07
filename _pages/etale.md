@@ -109,9 +109,12 @@ This is the syllabus of UIUC étale cohomology learning seminar in summer and fa
             <td>Cohomology with Compact Support</td>
         </tr>
         <tr>
-            <td>October 7</td>
-            <td>Haoran Yin</td>
-            <td>Generic Base-change Theorem, Generic Local Acyclicity, and Finiteness Theorem</td>
+            <td rowspan = 2>October 7</td>
+            <td rowspan = 2>Haoran Yin</td>
+            <td>Generic Base-change Theorem and Generic Local Acyclicity</td>
+        </tr>
+        <tr>
+            <td>Finiteness Theorem</td>
         </tr>
         <tr>
             <td>October 14</td>
