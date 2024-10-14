@@ -119,7 +119,7 @@ This is the syllabus of UIUC étale cohomology learning seminar in summer and fa
         <tr>
             <td>October 14</td>
             <td>Juhan Kim</td>
-            <td></td>
+            <td>Smooth Base-change Theorem</td>
         </tr>
         <tr>
             <td>October 21</td>
