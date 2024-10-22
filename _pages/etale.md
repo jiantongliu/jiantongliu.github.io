@@ -122,7 +122,7 @@ This is the syllabus of UIUC étale cohomology learning seminar in summer and fa
             <td>Smooth Base-change Theorem</td>
         </tr>
         <tr>
-            <td>October 21</td>
+            <td>October 28</td>
             <td>Jiantong Liu</td>
             <td></td>
         </tr>
