@@ -132,6 +132,31 @@ This is the syllabus of UIUC étale cohomology learning seminar in summer and fa
         <tr>
             <td>Purity Theorem and Gysin Sequence</td>
         </tr>
+        <tr>
+            <td>November 4</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>November 11</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>November 18</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>December 2</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>December 9</td>
+            <td></td>
+            <td></td>
+        </tr>
     </tbody>
 </table>
 
