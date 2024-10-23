@@ -104,8 +104,11 @@ This is the syllabus of UIUC étale cohomology learning seminar in summer and fa
             <td>Proper Base-change Theorem</td>
         </tr>
         <tr>
-            <td>September 30</td>
-            <td>Levi Poon</td>
+            <td rowspan = 2>September 30</td>
+            <td rowspan = 2>Levi Poon</td>
+            <td>Higher Direct Image</td>
+        </tr>
+        <tr>
             <td>Cohomology with Compact Support</td>
         </tr>
         <tr>
@@ -122,9 +125,12 @@ This is the syllabus of UIUC étale cohomology learning seminar in summer and fa
             <td>Smooth Base-change Theorem</td>
         </tr>
         <tr>
-            <td>October 28</td>
-            <td>Jiantong Liu</td>
-            <td></td>
+            <td rowspan = 2>October 28</td>
+            <td rowspan = 2>Jiantong Liu</td>
+            <td>Leray-Serre Spectral Sequence</td>
+        </tr>
+        <tr>
+            <td>Purity Theorem and Gysin Sequence</td>
         </tr>
     </tbody>
 </table>
