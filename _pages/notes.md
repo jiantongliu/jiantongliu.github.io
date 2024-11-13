@@ -177,8 +177,6 @@ Lecture Notes
 
 Expository Writings
 ------
-* Notes for a short course on Power Operations and Global Algebra by [Professor Nathaniel Stapleton](https://www.ms.uky.edu/~njst237/).
-* Notes for [Professor Jeremiah Heller](https://math.illinois.edu/directory/profile/jbheller)'s [What is...? Seminar](https://danbe.web.illinois.edu/seminars/Whatis.html) talk on motives. 
 * My revision notes for UIUC algebra comprehensive exam.
   * <a href = "../files/UIUC_Algebra_Qual_Facts.pdf">List of Facts</a>
   * <a href = "../files/UIUC_Algebra_Qualification_Exam.pdf">Solutions</a>
