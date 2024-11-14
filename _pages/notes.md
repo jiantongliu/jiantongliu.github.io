@@ -179,7 +179,7 @@ redirect_from:
 <details>
 <summary><b>Selected Talk Notes</b></summary>
 
-* <a href = "../files/Power_Operations_and_Global_Algebra.pdf">Notes</a> for a minicourse on Power Operations and Global Algebra by [Professor Nathaniel Stapleton](https://www.ms.uky.edu/~njst237/).
+- <a href = "../files/Power_Operations_and_Global_Algebra.pdf">Notes</a> for a minicourse on Power Operations and Global Algebra by [Professor Nathaniel Stapleton](https://www.ms.uky.edu/~njst237/).
   
-* <a href = "../files/Motive_Notes.pdf">Notes</a> for [Professor Jeremiah Heller](https://math.illinois.edu/directory/profile/jbheller)'s [What is...? Seminar](https://danbe.web.illinois.edu/seminars/Whatis.html) talk on motives. 
+- <a href = "../files/Motive_Notes.pdf">Notes</a> for [Professor Jeremiah Heller](https://math.illinois.edu/directory/profile/jbheller)'s [What is...? Seminar](https://danbe.web.illinois.edu/seminars/Whatis.html) talk on motives. 
 </details>
