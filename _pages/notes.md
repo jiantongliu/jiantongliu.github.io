@@ -9,9 +9,8 @@ redirect_from:
 ---
 {% include base_path %}
 
-
-Lecture Notes
-------
+<details>
+  <summary><b>Lecture Notes</b></summary>
 
 <table>
     <thead>
@@ -175,19 +174,12 @@ Lecture Notes
     </tbody>
 </table>
 
-Selected Talk Notes
-------
+</details>
+
+<details>
+<summary><b>Selected Talk Notes</b></summary>
+
 * <a href = "../files/Power_Operations_and_Global_Algebra.pdf">Notes</a> for a minicourse on Power Operations and Global Algebra by [Professor Nathaniel Stapleton](https://www.ms.uky.edu/~njst237/).
+  
 * <a href = "../files/Motive_Notes.pdf">Notes</a> for [Professor Jeremiah Heller](https://math.illinois.edu/directory/profile/jbheller)'s [What is...? Seminar](https://danbe.web.illinois.edu/seminars/Whatis.html) talk on motives. 
-
-Expository Writings
-------
-* My revision notes for UIUC algebra comprehensive exam.
-  * <a href = "../files/UIUC_Algebra_Qual_Facts.pdf">List of Facts</a>
-  * <a href = "../files/UIUC_Algebra_Qualification_Exam.pdf">Solutions</a>
-
-* Brown Representability Theorem, this is the final project I wrote for MATH 526 (Algebraic topology, Part II) at UIUC.
-
-* <a href = "../files/Classification_of_Root_Systems.pdf">Classification of Root Systems</a>, this is the final project I wrote for MATH 229A (Lie Groups and Lie Algebra) at UCLA. 
-
-* <a href = "../files/Hatcher_Solution_Master_Document.pdf">Solutions of Hatcher's _Algebraic Topology_</a>, ongoing project (password requried)
+</details>
