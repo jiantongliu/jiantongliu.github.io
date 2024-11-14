@@ -16,7 +16,7 @@ redirect_from:
 
 <li><a href = "../files/Motive_Notes.pdf">Notes</a> for <a href="https://math.illinois.edu/directory/profile/jbheller">Professor Jeremiah Heller</a>'s <a href="https://danbe.web.illinois.edu/seminars/Whatis.html">What is...? Seminar</a> talk on motives.</li>
 
-<li><a href = "../files/Model_Category_Notes.pdf">Notes</a> for a DDG seminar talk on model categories given by <a href="https://rezk.web.illinois.edu/">Professor Charles Rezk</a>. 
+<li><a href = "../files/Model_Category_Notes.pdf">Notes</a> for a DDG seminar talk on model categories given by <a href="https://rezk.web.illinois.edu/">Professor Charles Rezk</a>.</li>
 </details>
 
 <details>
