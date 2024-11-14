@@ -11,6 +11,7 @@ redirect_from:
 
 <details>
 <summary><b>A Few Texed Talk Notes</b></summary>
+These notes are mostly live-texed from professors' seminar talks/short courses. 
 
 <li><a href = "../files/Power_Operations_and_Global_Algebra.pdf">Notes</a> for a minicourse on Power Operations and Global Algebra by <a href="https://www.ms.uky.edu/~njst237/">Professor Nathaniel Stapleton</a>.</li>
 
@@ -21,7 +22,7 @@ redirect_from:
 
 <details>
   <summary><b>(Somewhat) Old Lecture Notes</b></summary>
-
+  These course notes were taken over an extended period of time, during which my live-TeX skills significantly improved. However, these notes may contain substantial factual or typographical errors, so please use them with caution.
 <table>
     <thead>
         <tr>
