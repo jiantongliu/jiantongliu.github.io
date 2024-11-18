@@ -147,7 +147,7 @@ These notes are mostly live-texed from professors' seminar talks/short courses.
             <td>Folland, Real Analysis.</td>
         </tr>
         <tr>
-            <td>Harmonic Analysis (545)</td>
+            <td><a href = "../files/545_Notes.pdf">Harmonic Analysis</a> (545)</td>
             <td>Fall 2024</td>
             <td>N/A</td>
         </tr>
