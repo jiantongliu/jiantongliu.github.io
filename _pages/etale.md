@@ -133,27 +133,15 @@ This is the syllabus of UIUC étale cohomology learning seminar in summer and fa
             <td>Purity Theorem and Gysin Sequence</td>
         </tr>
         <tr>
-            <td>November 4</td>
-            <td></td>
-            <td></td>
+            <td rowspan = 2>November 18</td>
+            <td rowspan = 2>Haoran Yin</td>
+            <td>Künneth Isomorphism</td>
         </tr>
         <tr>
-            <td>November 11</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>November 18</td>
-            <td></td>
-            <td></td>
+            <td>Cycles and Chern Classes</td>
         </tr>
         <tr>
             <td>December 2</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>December 9</td>
             <td></td>
             <td></td>
         </tr>
