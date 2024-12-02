@@ -134,16 +134,18 @@ This is the syllabus of UIUC étale cohomology learning seminar in summer and fa
         </tr>
         <tr>
             <td rowspan = 2>November 18</td>
-            <td rowspan = 2>Haoran Yin</td>
+            <td rowspan = 4>Haoran Yin</td>
             <td>Künneth Isomorphism</td>
         </tr>
         <tr>
             <td>Cycles and Chern Classes</td>
         </tr>
         <tr>
-            <td>December 2</td>
-            <td></td>
-            <td></td>
+            <td rowspan = 2>December 2</td>
+            <td>Adic Formalism</td>
+        </tr>
+        <tr>
+            <td>Lefschetz Fixed Point Theorem</td>
         </tr>
     </tbody>
 </table>
