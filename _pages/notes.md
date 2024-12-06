@@ -123,7 +123,7 @@ These notes are mostly live-texed from professors' seminar talks/short courses.
             <td>Serre, Local Algebra.</td>
         </tr>
         <tr>
-            <td>Complex Algebraic Geometry (514)</td>
+            <td><a href = "../files/514_Notes.pdf">Complex Algebraic Geometry</a> (514)</td>
             <td>Fall 2024</td>
             <td><a href="https://katzs.web.illinois.edu/">Sheldon Katz</a></td>
             <td>Griffiths & Harris, Principles of Algebraic Geometry.</td>
