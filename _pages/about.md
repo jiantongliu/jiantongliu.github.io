@@ -15,4 +15,4 @@ I am interested in [abstract nonsense](https://en.wikipedia.org/wiki/Abstract_no
 
 Current Teaching
 ------
-In Fall 2024, I am teaching MATH 257 (Linear Algebra with Computational Applications). 
+In Spring 2025, I am teaching MATH 227 (Linear Algebra for Data Science). 
