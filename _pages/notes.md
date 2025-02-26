@@ -135,6 +135,12 @@ These notes are mostly live-texed from professors' seminar talks/short courses.
             <td>Lee, Intro to Smooth Manifolds.</td>
         </tr>
         <tr>
+            <td><a href = "../files/519_Notes.pdf">Differentiable Manifolds, Part II</a> (519)</td>
+            <td>Spring 2025</td>
+            <td><a href="https://publish.illinois.edu/ruiloja/">Rui Loja Fernandes</a></td>
+            <td>Lee, Intro to Riemannian Manifolds.</td>
+        </tr>
+        <tr>
             <td><a href = "../files/526_Notes.pdf">Algebraic Topology, Part II</a> (526)</td>
             <td>Fall 2023</td>
             <td><a href="https://vesna.web.illinois.edu/">Vesna Stojanoska</a></td>
