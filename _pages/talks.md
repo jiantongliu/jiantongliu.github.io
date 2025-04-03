@@ -19,13 +19,13 @@ redirect_from:
         </tr>
         <tr>
             <td>Apr 2025</td>
-            <td>Motivic and K-theory Literature Seminar</td>
-            <td>Reinterpretating Universal Localizing Invariant</td>
+            <td>THH Learning Seminar</td>
+            <td>Computing $TC(𝔽_p)$ (2 talks)</td>
         </tr>
         <tr>
             <td>Apr 2025</td>
-            <td>THH Learning Seminar</td>
-            <td>Computing $TC(𝔽_p)$ (2 talks)</td>
+            <td>Motivic and K-theory Literature Seminar</td>
+            <td>Reinterpretating Universal Localizing Invariant</td>
         </tr>
         <tr>
             <td>Oct 2024</td>
