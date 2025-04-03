@@ -11,7 +11,7 @@ redirect_from:
 
 
 <table>
-    <tbody style="text-align:center">
+    <tbody style="text-align:left">
         <tr>
             <td>Apr 2024</td>
             <td>Graduate Student Homotopy Theory Seminar</td>
