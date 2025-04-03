@@ -13,12 +13,12 @@ redirect_from:
 <table>
     <tbody style="text-align:left">
         <tr>
-            <td>Apr 2024</td>
+            <td>Apr 2025</td>
             <td>Graduate Student Homotopy Theory Seminar</td>
             <td>Untitled</td>
         </tr>
         <tr>
-            <td>Apr 2024</td>
+            <td>Apr 2025</td>
             <td>Motivic and K-theory Literature Seminar</td>
             <td>Reinterpretating Universal Localizing Invariant</td>
         </tr>
