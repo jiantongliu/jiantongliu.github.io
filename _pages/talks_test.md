@@ -1,11 +1,11 @@
 ---
 layout: archive
 title: "Talks"
-permalink: /talks/
+permalink: /talks_test/
 author_profile: true
 redirect_from:
-  - /talks
-  - /talks.html
+  - /talks_test
+  - /talks_test.html
 ---
 {% include base_path %}
 
