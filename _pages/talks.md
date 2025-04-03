@@ -33,6 +33,9 @@ redirect_from:
             <td>Categorifying Spectra</td>
         </tr>
         <tr>
+            <td colspan=3>Ramzi, Sosnilo, and Winges's recent paper <a href="https://arxiv.org/abs/2401.06510">_Every Spectrum is the K-theory of a Stable Infinity Category_</a> constructs a functorial assignment that sends each spectrum to a small idempotent complete stable $\infty$-category, known as a categorification of the spectrum. An interesting consequence of this result is a disproof of a conjecture regarding the theorem of heart for non-connective spectra, proposed in <a href="https://arxiv.org/abs/1610.07207">_K-theoretic Obstructions to Bounded t-structures_</a>. [<a href="https://jiantongliu.github.io/files/Categorifying_Spectra.pdf">Slides</a>]</td>
+        </tr>
+        <tr>
             <td>Oct 2024</td>
             <td>Étale Cohomology Learning Seminar</td>
             <td>Leray-Serre Spectral Sequence, Purity and Gysin Sequence</td>
@@ -40,17 +43,15 @@ redirect_from:
         <tr>
             <td>Sep 2024</td>
             <td>Graduate Algebraic Geometry and Commutative Algebra Seminar</td>
-            <td>A tropical Proof of the Brill-Noether Theorem</td>
+            <td>A Tropical Proof of the Brill-Noether Theorem (2 talks)</td>
+        </tr>
+        <tr>
+            <td colspan=3>The Brill-Noether theorem, as a purely algebro-geometric result, is concerned with the mappings of algebraic curves into projective spaces. Classic proofs, such as those by <a href="https://publications.ias.edu/node/229">Griffiths-Harris</a> and <a href="https://projecteuclid.org/journals/journal-of-differential-geometry/volume-23/issue-3/Brill-Noether-Petri-without-degenerations/10.4310/jdg/1214440116.full">Lazarsfeld</a>, rely solely on degeneration arguments and properties of vector bundles. However, modern developments have revealed surprising connections between the theorem and combinatorics. In this talk (and the subsequent one), I will present an argument that involves a mixture of degeneration techniques with a combinatorial argument of the chip-firing game from <a href="https://www.sciencedirect.com/science/article/pii/S0001870812000722">Cools-Draisma-Payne-Robeva</a>. </td>
         </tr>
         <tr>
             <td>Sep 2024</td>
             <td>Étale Cohomology Learning Seminar</td>
             <td>Proper Base-change Theorem</td>
-        </tr>
-        <tr>
-            <td>Sep 2024</td>
-            <td>Graduate Algebraic Geometry and Commutative Algebra Seminar</td>
-            <td>How to Overcomplicate the Brill-Noether Theorem</td>
         </tr>
         <tr>
             <td>Jun 2024</td>
