@@ -33,7 +33,7 @@ redirect_from:
             <td>Categorifying Spectra</td>
         </tr>
         <tr>
-            <td colspan=3>Ramzi, Sosnilo, and Winges's recent paper <a href="https://arxiv.org/abs/2401.06510">_Every Spectrum is the K-theory of a Stable Infinity Category_</a> constructs a functorial assignment that sends each spectrum to a small idempotent complete stable $\infty$-category, known as a categorification of the spectrum. An interesting consequence of this result is a disproof of a conjecture regarding the theorem of heart for non-connective spectra, proposed in <a href="https://arxiv.org/abs/1610.07207">_K-theoretic Obstructions to Bounded t-structures_</a>. [<a href="https://jiantongliu.github.io/files/Categorifying_Spectra.pdf">Slides</a>]</td>
+            <td colspan=3> <a href="https://arxiv.org/abs/2401.06510">Ramzi, Sosnilo, and Winges's recent paper</a> constructs a functorial assignment that sends each spectrum to a small idempotent complete stable $\infty$-category, known as a categorification of the spectrum. An interesting consequence of this result is a disproof of a conjecture regarding the theorem of heart for non-connective spectra, proposed by <a href="https://arxiv.org/abs/1610.07207">Antieau-Gepner-Heller</a>. [<a href="https://jiantongliu.github.io/files/Categorifying_Spectra.pdf">Slides</a>]</td>
         </tr>
         <tr>
             <td>Oct 2024</td>
