@@ -12,7 +12,3 @@ I am a second-year Ph.D. student in mathematics at University of Illinois Urbana
 General Research Interest
 ------
 I am interested in [abstract nonsense](https://en.wikipedia.org/wiki/Abstract_nonsense) like algebraic geometry and homotopy theory, as well as their applications. More specifically, my research interest lies in algebraic K-theory and its applications in motivic homotopy theory. 
-
-Current Teaching
-------
-In Spring 2025, I am teaching MATH 227 (Linear Algebra for Data Science). 
