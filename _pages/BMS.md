@@ -11,7 +11,7 @@ redirect_from:
 ---
 {% include base_path %}
 
-In Fall 2025, we are learning about the work of [Bhatt, Morrow, and Scholze](https://people.mpim-bonn.mpg.de/scholze/bms2.pdf), and its connections with [prisms and prismatic cohomology](https://www.math.uni-bonn.de/people/scholze/prisms.pdf). 
+In Fall 2025, we are learning about the work of [Bhatt, Morrow, and Scholze ([BMS19])](https://people.mpim-bonn.mpg.de/scholze/bms2.pdf), and its connections with [prisms and prismatic cohomology ([BS22])](https://www.math.uni-bonn.de/people/scholze/prisms.pdf). 
 
 <table>
     <thead>
