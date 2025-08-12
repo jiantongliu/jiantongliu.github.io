@@ -27,19 +27,73 @@ In Fall 2025, we are learning about the work of [Bhatt, Morrow, and Scholze](htt
             <td style="width: 20%">Aug. 28</td>
             <td style="width: 20%">Haoran</td>
             <td style="width: 40%">Introduction</td>
-            <td style="width: 20%">[BMS, Section 1]</td>
+            <td style="width: 20%">[BMS19, Section 1]</td>
         </tr>
         <tr>
             <td>Sept. 4</td>
             <td>Ruoxi</td>
             <td>Cotangent Complex</td>
-            <td>[BMS, Section 2]</td>
+            <td>[BMS19, Section 2]</td>
         </tr>
         <tr>
             <td>Sept. 11</td>
             <td></td>
             <td>Derived de Rham Complex</td>
             <td></td>
+        </tr>
+        <tr>
+            <td>Sept. 18</td>
+            <td></td>
+            <td>Flat Descent of Cotangent Complex and $HH$</td>
+            <td>[BMS19, Section 3]</td>
+        </tr>
+        <tr>
+            <td>Sept. 25</td>
+            <td></td>
+            <td>The Quasi-syntomic Site</td>
+            <td>[BMS19, Section 4]</td>
+        </tr>
+        <tr>
+            <td>Oct. 2</td>
+            <td></td>
+            <td>$HC^-$ and de Rham Cohomology</td>
+            <td>[BMS19, Section 5]</td>
+        </tr>
+        <tr>
+            <td>Oct. 9</td>
+            <td></td>
+            <td>$THH$ over Perfectoid Base Rings</td>
+            <td>[BMS19, Section 6]</td>
+        </tr>
+        <tr>
+            <td>Oct. 16</td>
+            <td></td>
+            <td>$p$-adic Nygaard Complexes</td>
+            <td>[BMS19, Section 7]</td>
+        </tr>
+        <tr>
+            <td>Oct. 30</td>
+            <td></td>
+            <td>Overview of Prismatic Cohomology</td>
+            <td>[BS22, Section 1]</td>
+        </tr>
+        <tr>
+            <td>Nov. 6</td>
+            <td></td>
+            <td>$\delta$-rings</td>
+            <td>[BS22, Section 2]</td>
+        </tr>
+        <tr>
+            <td>Nov. 13</td>
+            <td></td>
+            <td>Prisms</td>
+            <td>[BS22, Section 3]</td>
+        </tr>
+        <tr>
+            <td>Nov. 20</td>
+            <td></td>
+            <td>Comparing [BMS19] with [BS22]</td>
+            <td>[BS22, Section 13]</td>
         </tr>
     </tbody>
 </table>
