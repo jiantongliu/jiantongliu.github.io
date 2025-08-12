@@ -92,21 +92,25 @@ Courses
     	<tr>
             <td rowspan = 3>2024</td>
             <td>Spring</td>
-            <td rowspan = 4></td>
-	    <td title = "Linear Algebra with Computational Applications">257</td>
+            <td rowspan = 5></td>
+	    	<td title = "Linear Algebra with Computational Applications">257</td>
     	</tr>
     	<tr>
             <td>Summer</td>
-	    <td title = "Elementary Real Analysis">444</td>
+	    	<td title = "Elementary Real Analysis">444</td>
     	</tr>
-	<tr>
+		<tr>
             <td>Fall</td>
-	    <td title = "Linear Algebra with Computational Applications">257</td>
+	    	<td title = "Linear Algebra with Computational Applications">257</td>
     	</tr>
-	<tr>
-            <td>2025</td>
+		<tr>
+            <td rowspan = 2>2025</td>
             <td>Spring</td>
             <td title = "Linear Algebra for Data Science">227</td>
+    	</tr>
+		<tr>
+            <td>Fall</td>
+            <td title = "Calculus I">221</td>
     	</tr>
     </tbody>
 </table>
