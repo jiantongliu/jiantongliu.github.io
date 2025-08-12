@@ -12,3 +12,5 @@ redirect_from:
 [Algebraic K-theory Reading Seminar](https://jiantongliu.github.io/seminars/597K/) (2023-2024)
 
 [Étale Cohomology Learning Seminar](https://jiantongliu.github.io/seminars/etaleSu24/) (2024)
+
+[BMS Learning Seminar](https://jiantongliu.github.io/seminars/BMSFa25) (2025)
