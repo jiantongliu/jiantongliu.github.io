@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "BMS Learning Seminar"
-permalink: /seminars/etaleSu24/
+permalink: /seminars/BMSFa25/
 author_profile: true
 redirect_from:
   - /seminars/BMSFa25.html
