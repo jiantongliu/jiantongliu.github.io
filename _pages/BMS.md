@@ -13,6 +13,10 @@ redirect_from:
 
 In Fall 2025, we are learning about the work of [Bhatt, Morrow, and Scholze ([BMS19])](https://people.mpim-bonn.mpg.de/scholze/bms2.pdf), and its connections with [prisms and prismatic cohomology ([BS22])](https://www.math.uni-bonn.de/people/scholze/prisms.pdf). 
 
+**Location**: Altgeld 141
+**Time**: 4pm-5pm on Thursdays
+
+
 <table>
     <thead>
         <tr>
