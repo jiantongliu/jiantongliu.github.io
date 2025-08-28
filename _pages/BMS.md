@@ -25,9 +25,9 @@ In Fall 2025, we are learning about the work of [Bhatt, Morrow, and Scholze ([BM
     <tbody style="text-align:center">
         <tr>
             <td style="width: 20%">Aug. 28</td>
-            <td style="width: 20%">Haoran</td>
-            <td style="width: 40%">Introduction</td>
-            <td style="width: 20%">[BMS19, Section 1]</td>
+            <td style="width: 20%"></td>
+            <td style="width: 40%">Introductory Meeting</td>
+            <td style="width: 20%"></td>
         </tr>
         <tr>
             <td>Sept. 4</td>
@@ -37,31 +37,31 @@ In Fall 2025, we are learning about the work of [Bhatt, Morrow, and Scholze ([BM
         </tr>
         <tr>
             <td>Sept. 11</td>
-            <td></td>
+            <td>Vivasvat</td>
             <td>Derived de Rham Complex</td>
             <td></td>
         </tr>
         <tr>
             <td>Sept. 18</td>
-            <td></td>
+            <td>Haoran</td>
             <td>Flat Descent of Cotangent Complex and $HH$</td>
             <td>[BMS19, Section 3]</td>
         </tr>
         <tr>
             <td>Sept. 25</td>
-            <td></td>
+            <td>Juhan</td>
             <td>The Quasi-syntomic Site</td>
             <td>[BMS19, Section 4]</td>
         </tr>
         <tr>
             <td>Oct. 2</td>
-            <td></td>
+            <td>Jiantong</td>
             <td>$HC^-$ and de Rham Cohomology</td>
             <td>[BMS19, Section 5]</td>
         </tr>
         <tr>
             <td>Oct. 9</td>
-            <td></td>
+            <td>Haoran</td>
             <td>$THH$ over Perfectoid Base Rings</td>
             <td>[BMS19, Section 6]</td>
         </tr>
