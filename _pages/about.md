@@ -11,6 +11,6 @@ I am a third-year Ph.D. student in mathematics at University of Illinois Urbana-
 
 General Research Interest
 ------
-I am mostly interested in algebraic K-theory and homotopy theory. Currently, I am thinking about 
+I am mostly interested in homotopy theory. Currently, I am thinking about 
 * norm functors in motivic homotopy theory (possibly without $𝔸^1$-invariance),
 * algebraic K-theory, and its applications in both motivic and chromatic homotopy theory. 
