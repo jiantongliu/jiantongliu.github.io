@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year Ph.D. student in mathematics at University of Illinois Urbana-Champaign (UIUC). Before that, I received my bachelor's degree from University of California, Los Angeles (UCLA), studying pure math and cognitive science. [Here](https://jiantongliu.github.io/files/Jiantong_Liu_CV.pdf) is my CV. 
+I am a third-year Ph.D. student in mathematics at University of Illinois Urbana-Champaign. Before that, I received my bachelor's degree from University of California, Los Angeles, studying pure math and cognitive science. [Here](https://jiantongliu.github.io/files/Jiantong_Liu_CV.pdf) is my CV. 
 
 General Research Interest
 ------
