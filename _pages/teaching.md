@@ -119,3 +119,7 @@ Math Circle
 ------
 * In Fall 2024, I was an instructor at the [UIUC Math Circle](https://zqsong2.web.illinois.edu/mathcircle.html).
 * I was an assistant instructor at the [UCLA Olga Radko Endowed Math Circle](https://circles.math.ucla.edu/circles/) from 2021 to 2023. 
+
+Directed Reading Program (DRP)
+------
+* Starting Fall 2025, I am co-organizing [DRP at UIUC](https://mathdrp.web.illinois.edu/). 
