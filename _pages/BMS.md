@@ -46,31 +46,31 @@ In Fall 2025, we are learning about the work of [Bhatt, Morrow, and Scholze ([BM
             <td></td>
         </tr>
         <tr>
-            <td>Sept. 18</td>
+            <td>Sept. 25</td>
             <td>Haoran</td>
             <td>Flat Descent of Cotangent Complex and $HH$</td>
             <td>[BMS19, Section 3]</td>
         </tr>
         <tr>
-            <td>Sept. 25</td>
+            <td>Oct. 2</td>
             <td>Juhan</td>
             <td>The Quasi-syntomic Site</td>
             <td>[BMS19, Section 4]</td>
         </tr>
         <tr>
-            <td>Oct. 2</td>
+            <td>Oct. 9</td>
             <td>Jiantong</td>
             <td>$HC^-$ and de Rham Cohomology</td>
             <td>[BMS19, Section 5]</td>
         </tr>
         <tr>
-            <td>Oct. 9</td>
+            <td>Oct. 16</td>
             <td>Haoran</td>
             <td>$THH$ over Perfectoid Base Rings</td>
             <td>[BMS19, Section 6]</td>
         </tr>
         <tr>
-            <td>Oct. 16</td>
+            <td>Oct. 23</td>
             <td></td>
             <td>$p$-adic Nygaard Complexes</td>
             <td>[BMS19, Section 7]</td>
