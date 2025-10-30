@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "BMS Learning Seminar"
-permalink: /seminars/BMSFa25/
+title: "BMS/Prismatic Cohomology Learning Seminar"
+permalink: /seminars/BMSPrisFa25/
 author_profile: true
 redirect_from:
-  - /seminars/BMSFa25.html
-  - /BMSFa25/
-  - /BMSFa25
-  - /BMSFa25.html
+  - /seminars/BMSPrisFa25.html
+  - /BMSPrisFa25/
+  - /BMSPrisFa25
+  - /BMSPrisFa25.html
 ---
 {% include base_path %}
 
