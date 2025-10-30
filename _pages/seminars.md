@@ -13,4 +13,4 @@ redirect_from:
 
 [Étale Cohomology Learning Seminar](https://jiantongliu.github.io/seminars/etaleSu24/) (2024)
 
-[BMS Learning Seminar](https://jiantongliu.github.io/seminars/BMSFa25) (2025)
+[BMS/Prismatic Cohomology Learning Seminar](https://jiantongliu.github.io/seminars/BMSPrisFa25) (2025)
