@@ -65,7 +65,7 @@ In Fall 2025, we are learning about the work of [Bhatt, Morrow, and Scholze ([BM
         </tr>
         <tr>
             <td rowspan = 2>Oct. 16</td>
-            <td rowspan = 3>Haoran</td>
+            <td rowspan = 4>Haoran</td>
             <td>$THH$ over Perfectoid Base Rings</td>
             <td rowspan = 2>[BMS19, Section 6, 7]</td>
         </tr>
@@ -79,15 +79,14 @@ In Fall 2025, we are learning about the work of [Bhatt, Morrow, and Scholze ([BM
         </tr>
         <tr>
             <td>Nov. 6</td>
-            <td></td>
             <td>Prisms</td>
             <td>[BS22, Section 3]</td>
         </tr>
         <tr>
-            <td>Nov. 13</td>
+            <td>Nov. 20</td>
+            <td>Vivasvat</td>
             <td></td>
-            <td>Comparing [BMS19] with [BS22]</td>
-            <td>[BS22, Section 13]</td>
+            <td></td>
         </tr>
     </tbody>
 </table>
