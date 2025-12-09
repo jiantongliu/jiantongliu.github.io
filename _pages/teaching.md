@@ -92,7 +92,7 @@ Courses
     	<tr>
             <td rowspan = 3>2024</td>
             <td>Spring</td>
-            <td rowspan = 5></td>
+            <td rowspan = 6></td>
 	    	<td title = "Linear Algebra with Computational Applications">257</td>
     	</tr>
     	<tr>
@@ -111,6 +111,11 @@ Courses
 		<tr>
             <td>Fall</td>
             <td title = "Calculus I">221</td>
+    	</tr>
+		<tr>
+            <td rowspan>2026</td>
+            <td>Spring</td>
+            <td title = "Introduction to Higher Mathematics">314</td>
     	</tr>
     </tbody>
 </table>
